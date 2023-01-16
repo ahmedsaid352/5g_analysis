@@ -1,0 +1,3603 @@
+<div class="question">
+	<p>1. What is the Uplink frequency in a GSM system?</p>
+	<p><input type="radio" name="q1" value="0">A.935-960MHz</p>
+	<p><input type="radio" name="q1" value="1">B.890-915MHz</p>
+	<p><input type="radio" name="q1" value="0">C.940-956MHz</p>
+	<p><input type="radio" name="q1" value="0">D.810-826MHz</p>
+</div>
+<div class="question">
+	<p>2. What is the Downlink frequency in a GSM system?</p>
+	<p><input type="radio" name="q2" value="1">A.935-960MHz</p>
+	<p><input type="radio" name="q2" value="0">B.890-915MHz</p>
+	<p><input type="radio" name="q2" value="0">C.940-956MHz</p>
+	<p><input type="radio" name="q2" value="0">D.810-826MHz</p>
+</div>
+<div class="question">
+	<p>3. What is an Uplink in a Cellular network?</p>
+	<p><input type="radio" name="q3" value="0">A.Sending of data from Base Station to Mobile.</p>
+	<p><input type="radio" name="q3" value="1">B.Sending of data from Mobile to the Base Station</p>
+	<p><input type="radio" name="q3" value="0">C.Sending of data from Base Station to Base Station Controller</p>
+	<p><input type="radio" name="q3" value="0">D.None of the above</p>
+</div>
+<div class="question">
+	<p>4. What is a Downlink in a GSM network?</p>
+	<p><input type="radio" name="q4" value="0">A.Sending of data from Mobile to the Base Station.</p>
+	<p><input type="radio" name="q4" value="1">B.Sending of data from Base station to the Mobile</p>
+	<p><input type="radio" name="q4" value="0">C.Sending of data from Base Station Controller to the Mobile</p>
+	<p><input type="radio" name="q4" value="0">D.None of the above</p>
+</div>
+<div class="question">
+	<p>5. What is the frequency band of a DCS - Digital Cellular System?</p>
+	<p><input type="radio" name="q5" value="1">A.1800 Band (1710-1785, 1805-1880MHz)</p>
+	<p><input type="radio" name="q5" value="0">B.900 Band ( 890-915, 935-960MHz)</p>
+	<p><input type="radio" name="q5" value="0">C.850 Band (824-849, 869-894MHz)</p>
+	<p><input type="radio" name="q5" value="0">D.None of the above</p>
+</div>
+<div class="question">
+	<p>6. What is the frequency band of PCS (Personal Communication Service</p>
+	<p><input type="radio" name="q6" value="0">A.900 Band (890-915, 935-960MHz)</p>
+	<p><input type="radio" name="q6" value="1">B.1900 Band (1850-1910, 1930-1990MHz)</p>
+	<p><input type="radio" name="q6" value="0">C.1800 Band (1710-1785, 1805-1880MHz)</p>
+	<p><input type="radio" name="q6" value="0">D.None of the above</p>
+</div>
+<div class="question">
+	<p>7. What is True about any Frequency Band?</p>
+	<p><input type="radio" name="q7" value="0">A.First range corresponds to UPLINK.</p>
+	<p><input type="radio" name="q7" value="0">B.Second range corresponds to DOWNLINK</p>
+	<p><input type="radio" name="q7" value="0">C.20MHz gap between Uplink and Downlink</p>
+	<p><input type="radio" name="q7" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>8. Most used GSM frequency bands in the U.S are ____?</p>
+	<p><input type="radio" name="q8" value="0">A.900, 1800MHz</p>
+	<p><input type="radio" name="q8" value="0">B.850, 900MHz</p>
+	<p><input type="radio" name="q8" value="1">C.850, 1900 MHz</p>
+	<p><input type="radio" name="q8" value="0">D.1800, 1900MHz</p>
+</div>
+<div class="question">
+	<p>9. What are the Rural and Urban Frequency bands used for GSM in the US?</p>
+	<p><input type="radio" name="q9" value="1">A.850MHz - Rural Band
+1900MHz - Urban band</p>
+	<p><input type="radio" name="q9" value="0">B.850MHz - Urban band
+1900MHz - Rural band</p>
+	<p><input type="radio" name="q9" value="0">C.900MHz - Rural band
+1800MHz - Urban band</p>
+	<p><input type="radio" name="q9" value="0">D.None of the above</p>
+</div>
+<div class="question">
+	<p>10. What are the frequency bands supported by the European Triband Phones?</p>
+	<p><input type="radio" name="q10" value="0">A.850, 900, 1800MHz</p>
+	<p><input type="radio" name="q10" value="1">B.900, 1800, 1900MHz</p>
+	<p><input type="radio" name="q10" value="0">C.850, 1800, 1900MHz</p>
+	<p><input type="radio" name="q10" value="0">D.None of the above</p>
+</div>
+<div class="question">
+	<p>11. The Quad band phone supporting all four major GSM frequency bands like 850MHz, 1900MHz, 900MHz and 1800MHz is also called ______ phone.</p>
+	<p><input type="radio" name="q11" value="0">A.Real Phone</p>
+	<p><input type="radio" name="q11" value="1">B.World Phone</p>
+	<p><input type="radio" name="q11" value="0">C.Super Phone</p>
+	<p><input type="radio" name="q11" value="0">D.Global Phone</p>
+</div>
+<div class="question">
+	<p>12. The term "Cellular Communication" was introduced by which GSM frequency band?</p>
+	<p><input type="radio" name="q12" value="0">A.900MHz</p>
+	<p><input type="radio" name="q12" value="0">B.1800MHz</p>
+	<p><input type="radio" name="q12" value="1">C.850MHz</p>
+	<p><input type="radio" name="q12" value="0">D.1900MHz</p>
+</div>
+<div class="question">
+	<p>13. Multiple access technique employed in a GSM network is/are _____?</p>
+	<p><input type="radio" name="q13" value="0">A.TDMA</p>
+	<p><input type="radio" name="q13" value="0">B.FDMA</p>
+	<p><input type="radio" name="q13" value="0">C.CDMA</p>
+	<p><input type="radio" name="q13" value="1">D.Both TDMA and FDMA</p>
+</div>
+<div class="question">
+	<p>14. Who developed protocols to implement GSM, GPRS and EDGE services?</p>
+	<p><input type="radio" name="q14" value="0">A.ANSI</p>
+	<p><input type="radio" name="q14" value="0">B.SOLARIS</p>
+	<p><input type="radio" name="q14" value="1">C.3GPP</p>
+	<p><input type="radio" name="q14" value="0">D.None of the above</p>
+</div>
+<div class="question">
+	<p>15. 3GPP stands for ____?</p>
+	<p><input type="radio" name="q15" value="0">A.3rd Generation Pulse Project</p>
+	<p><input type="radio" name="q15" value="1">B.3rd Generation Partnership Project</p>
+	<p><input type="radio" name="q15" value="0">C.3rd Generation Protocols Project</p>
+	<p><input type="radio" name="q15" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>16. The area covered by one Transmitter in a GSM network is called _____?</p>
+	<p><input type="radio" name="q16" value="0">A.Licensed area</p>
+	<p><input type="radio" name="q16" value="0">B.Octagon</p>
+	<p><input type="radio" name="q16" value="1">C.Cell</p>
+	<p><input type="radio" name="q16" value="0">D.Yard</p>
+</div>
+<div class="question">
+	<p>17. What is the maximum distance that a GSM Cell can radiate it's signal?</p>
+	<p><input type="radio" name="q17" value="0">A.10Km</p>
+	<p><input type="radio" name="q17" value="0">B.22Km</p>
+	<p><input type="radio" name="q17" value="1">C.35Km</p>
+	<p><input type="radio" name="q17" value="0">D.50Km</p>
+</div>
+<div class="question">
+	<p>18. In a GSM network, a Cell radius depends on ________?</p>
+	<p><input type="radio" name="q18" value="0">A.Tower or Antenna height</p>
+	<p><input type="radio" name="q18" value="0">B.Antenna gain</p>
+	<p><input type="radio" name="q18" value="0">C.Weather conditions</p>
+	<p><input type="radio" name="q18" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>19. What are the types of Cells in a GSM network?</p>
+	<p><input type="radio" name="q19" value="0">A.Micro Cell, Macro Cell</p>
+	<p><input type="radio" name="q19" value="0">B.Pico Cell, Femto Cell</p>
+	<p><input type="radio" name="q19" value="0">C.Umbrella Cell</p>
+	<p><input type="radio" name="q19" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>20. If an Antenna or Transmitter is mounted on top of a Tower or building, what is the Cell type formed?</p>
+	<p><input type="radio" name="q20" value="0">A.Micro cell</p>
+	<p><input type="radio" name="q20" value="1">B.Macro cell</p>
+	<p><input type="radio" name="q20" value="0">C.Pico cell</p>
+	<p><input type="radio" name="q20" value="0">D.Tento cell</p>
+</div>
+<div class="question">
+	<p>21. If an Antenna or Transmitter is mounted at less height on the tower or building, what is the Cell type formed?</p>
+	<p><input type="radio" name="q21" value="0">A.Micro cell</p>
+	<p><input type="radio" name="q21" value="0">B.Macro cell</p>
+	<p><input type="radio" name="q21" value="1">C.Pico cell</p>
+	<p><input type="radio" name="q21" value="0">D.Tento cell</p>
+</div>
+<div class="question">
+	<p>22. What is the type of cell that covers only 10-20 meters?</p>
+	<p><input type="radio" name="q22" value="0">A.Micro cell</p>
+	<p><input type="radio" name="q22" value="0">B.Macro cell</p>
+	<p><input type="radio" name="q22" value="1">C.Pico cell</p>
+	<p><input type="radio" name="q22" value="0">D.Femto cell</p>
+</div>
+<div class="question">
+	<p>23. What is the type Cell that connects to the Service provider network through a Broadband or Internet connection at a remote village? (Transmission media is internet instead of OFC / Microwave</p>
+	<p><input type="radio" name="q23" value="0">A.Micro cell</p>
+	<p><input type="radio" name="q23" value="0">B.Macro cell</p>
+	<p><input type="radio" name="q23" value="0">C.Pico cell</p>
+	<p><input type="radio" name="q23" value="1">D.Femto cell</p>
+</div>
+<div class="question">
+	<p>24. A Cell that covers already existing small cells is called ____ cell.</p>
+	<p><input type="radio" name="q24" value="0">A.Micro cell</p>
+	<p><input type="radio" name="q24" value="0">B.Macro cell</p>
+	<p><input type="radio" name="q24" value="1">C.Umbrella cell</p>
+	<p><input type="radio" name="q24" value="0">D.Pico cell</p>
+</div>
+<div class="question">
+	<p>25. What is main purpose of Umbrella Cells?</p>
+	<p><input type="radio" name="q25" value="0">A.Vast coverage area</p>
+	<p><input type="radio" name="q25" value="1">B.Easy handovers from fast moving vehicles</p>
+	<p><input type="radio" name="q25" value="0">C.Good signal to noise ratio</p>
+	<p><input type="radio" name="q25" value="0">D.Useful only inside tunnels</p>
+</div>
+<div class="question">
+	<p>26. The power level of an Umbrella cell compared to inner cells is ______?</p>
+	<p><input type="radio" name="q26" value="0">A.More</p>
+	<p><input type="radio" name="q26" value="1">B.Less</p>
+	<p><input type="radio" name="q26" value="0">C.Equal</p>
+	<p><input type="radio" name="q26" value="0">D.Very high</p>
+</div>
+<div class="question">
+	<p>27. What do you call an Equipment that Receives and Transmits radio signals?</p>
+	<p><input type="radio" name="q27" value="0">A.BTS</p>
+	<p><input type="radio" name="q27" value="1">B.Transceiver</p>
+	<p><input type="radio" name="q27" value="0">C.Transistor</p>
+	<p><input type="radio" name="q27" value="0">D.Controller</p>
+</div>
+<div class="question">
+	<p>28. Which type of GSM Cell provides indoor coverage in shopping malls, tunnels and airports?</p>
+	<p><input type="radio" name="q28" value="0">A.Macro cell</p>
+	<p><input type="radio" name="q28" value="0">B.Micro cell</p>
+	<p><input type="radio" name="q28" value="1">C.Pico cell</p>
+	<p><input type="radio" name="q28" value="0">D.Femto cell</p>
+</div>
+<div class="question">
+	<p>29. What is a repeater in cellular communication?</p>
+	<p><input type="radio" name="q29" value="0">A.A repeater picks a weak signal and boosts it.</p>
+	<p><input type="radio" name="q29" value="0">B.Repeaters are installed in indoor areas usually.</p>
+	<p><input type="radio" name="q29" value="0">C.Each repeater has a band of frequencies.</p>
+	<p><input type="radio" name="q29" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>30. A GSM technique Timing Advance used by BTS or Base station can _______ Cell radius.</p>
+	<p><input type="radio" name="q30" value="0">A.Decrease</p>
+	<p><input type="radio" name="q30" value="0">B.Increase</p>
+	<p><input type="radio" name="q30" value="1">C.Both increase and decrease</p>
+	<p><input type="radio" name="q30" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>31. A group of Cells is also called ____ ?</p>
+	<p><input type="radio" name="q31" value="0">A.BSC</p>
+	<p><input type="radio" name="q31" value="0">B.BTS</p>
+	<p><input type="radio" name="q31" value="1">C.Cluster</p>
+	<p><input type="radio" name="q31" value="0">D.Atom</p>
+</div>
+<div class="question">
+	<p>32. What is the number of Cells a Cluster contains?</p>
+	<p><input type="radio" name="q32" value="0">A.4</p>
+	<p><input type="radio" name="q32" value="0">B.7</p>
+	<p><input type="radio" name="q32" value="0">C.12 or 21</p>
+	<p><input type="radio" name="q32" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>33. What is the reason for using Cluster in a GSM network?</p>
+	<p><input type="radio" name="q33" value="0">A.Easy to to Operation and Maintenance</p>
+	<p><input type="radio" name="q33" value="1">B.Frequency Reuse</p>
+	<p><input type="radio" name="q33" value="0">C.Less delay in transmission</p>
+	<p><input type="radio" name="q33" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>34. When reusing a Frequency, what is the minimum distance (in terms of Diameter of cell</p>
+	<p><input type="radio" name="q34" value="0">A.1.5D</p>
+	<p><input type="radio" name="q34" value="0">B.2D</p>
+	<p><input type="radio" name="q34" value="1">C.2.5D</p>
+	<p><input type="radio" name="q34" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>35. What is the need for Frequency Reuse in a GSM network?</p>
+	<p><input type="radio" name="q35" value="0">A.Frequency or Spectrum is costly. It is allotted limitedly to each Operator. Say 5MHz to each.</p>
+	<p><input type="radio" name="q35" value="0">B.Frequency Reuse increases the overall capacity of the operator.</p>
+	<p><input type="radio" name="q35" value="0">C.Using TDMA, a single carrier frequency can serve up to 8 simultaneous customers in a 4.615ms time frame. So, simply adding more frames improves call quality in densely populated areas.</p>
+	<p><input type="radio" name="q35" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>36. What are the three main parts of a GSM Architecture or Structure?</p>
+	<p><input type="radio" name="q36" value="0">A.Mobile Station</p>
+	<p><input type="radio" name="q36" value="0">B.BSS - Base Station Subsystem</p>
+	<p><input type="radio" name="q36" value="0">C.NSS - Network and Switching Subsystem</p>
+	<p><input type="radio" name="q36" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>37. What are the main parts of a Mobile Station in a GSM Network?</p>
+	<p><input type="radio" name="q37" value="0">A.MT - Mobile Terminal</p>
+	<p><input type="radio" name="q37" value="0">B.SIM - Subscriber Identity Module</p>
+	<p><input type="radio" name="q37" value="1">C.Both A and B</p>
+	<p><input type="radio" name="q37" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>38. What are the main parts of a BSS (Base Station Subsystem</p>
+	<p><input type="radio" name="q38" value="0">A.BTS - Base Transceiver Station</p>
+	<p><input type="radio" name="q38" value="0">B.BSC - Base Station Controller</p>
+	<p><input type="radio" name="q38" value="1">C.A and B</p>
+	<p><input type="radio" name="q38" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>39. What are the main parts of a NSS (Network and Switching Subsystem</p>
+	<p><input type="radio" name="q39" value="0">A.MSC - Mobile Switching Center</p>
+	<p><input type="radio" name="q39" value="0">B.HLR & AuC</p>
+	<p><input type="radio" name="q39" value="0">C.VLR, EIR</p>
+	<p><input type="radio" name="q39" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>40. What are the main parts of an MSC (Mobile Switching Center</p>
+	<p><input type="radio" name="q40" value="0">A.MGW - Media Gateway</p>
+	<p><input type="radio" name="q40" value="0">B.MSC Server</p>
+	<p><input type="radio" name="q40" value="1">C.Both A and B</p>
+	<p><input type="radio" name="q40" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>41. A GPRS Core network is part of System in a GSM Network Structure?</p>
+	<p><input type="radio" name="q41" value="0">A.Mobile Station</p>
+	<p><input type="radio" name="q41" value="0">B.BSS</p>
+	<p><input type="radio" name="q41" value="0">C.MSS</p>
+	<p><input type="radio" name="q41" value="1">D.NSS</p>
+</div>
+<div class="question">
+	<p>42. A BTS is also called _____ by general public?</p>
+	<p><input type="radio" name="q42" value="1">A.Mobile tower</p>
+	<p><input type="radio" name="q42" value="0">B.Exchange</p>
+	<p><input type="radio" name="q42" value="0">C.Charging Point</p>
+	<p><input type="radio" name="q42" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>43. Each Mobile Terminal is identified by a unique ______ number?</p>
+	<p><input type="radio" name="q43" value="1">A.IMEI</p>
+	<p><input type="radio" name="q43" value="0">B.SIM</p>
+	<p><input type="radio" name="q43" value="0">C.IMSI</p>
+	<p><input type="radio" name="q43" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>44. IMEI stands for?</p>
+	<p><input type="radio" name="q44" value="0">A.Internal Mobile Equipment Identity</p>
+	<p><input type="radio" name="q44" value="1">B.International Mobile Equipment Identity</p>
+	<p><input type="radio" name="q44" value="0">C.Intra Mobile Enable Identity</p>
+	<p><input type="radio" name="q44" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>45. Each SIM is identified by a unique _____ number?</p>
+	<p><input type="radio" name="q45" value="1">A.IMSI</p>
+	<p><input type="radio" name="q45" value="0">B.IMEI</p>
+	<p><input type="radio" name="q45" value="0">C.MSDN</p>
+	<p><input type="radio" name="q45" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>46. IMSI stands for?</p>
+	<p><input type="radio" name="q46" value="0">A.Internal Mobile Subscriber Identity</p>
+	<p><input type="radio" name="q46" value="1">B.International Mobile Subscriber Identity</p>
+	<p><input type="radio" name="q46" value="0">C.Investigating Mobile Subscriber Identity</p>
+	<p><input type="radio" name="q46" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>47. Your mobile number is actually called ______ number.</p>
+	<p><input type="radio" name="q47" value="0">A.IMSI</p>
+	<p><input type="radio" name="q47" value="0">B.SIM</p>
+	<p><input type="radio" name="q47" value="1">C.MSISDN</p>
+	<p><input type="radio" name="q47" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>48. IMSI number of a SIM is also called?</p>
+	<p><input type="radio" name="q48" value="0">A.MSISDN</p>
+	<p><input type="radio" name="q48" value="0">B.IMEI</p>
+	<p><input type="radio" name="q48" value="1">C.ICCID</p>
+	<p><input type="radio" name="q48" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>49. What controller a group of BTS or Cell Towers?</p>
+	<p><input type="radio" name="q49" value="1">A.BSC</p>
+	<p><input type="radio" name="q49" value="0">B.MSC</p>
+	<p><input type="radio" name="q49" value="0">C.HLR</p>
+	<p><input type="radio" name="q49" value="0">D.VLR</p>
+</div>
+<div class="question">
+	<p>50. How many digits of PIN (Personal Identification Number</p>
+	<p><input type="radio" name="q50" value="1">A.4</p>
+	<p><input type="radio" name="q50" value="0">B.8</p>
+	<p><input type="radio" name="q50" value="0">C.10</p>
+	<p><input type="radio" name="q50" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>51. What is PUK code of a SIM?</p>
+	<p><input type="radio" name="q51" value="0">A.PIN Unlock Key</p>
+	<p><input type="radio" name="q51" value="0">B.4 digit code</p>
+	<p><input type="radio" name="q51" value="0">C.It is like a password to enter after inserting SIM in a mobile for the first time. It prevents misuse.</p>
+	<p><input type="radio" name="q51" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>52. The only element that personalises a Mobile Station is _______?</p>
+	<p><input type="radio" name="q52" value="0">A.Back cover</p>
+	<p><input type="radio" name="q52" value="1">B.SIM</p>
+	<p><input type="radio" name="q52" value="0">C.Screen guard</p>
+	<p><input type="radio" name="q52" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>53. What is the maximum number of Transceivers a BTS can handle is ?</p>
+	<p><input type="radio" name="q53" value="0">A.8</p>
+	<p><input type="radio" name="q53" value="0">B.12</p>
+	<p><input type="radio" name="q53" value="1">C.16</p>
+	<p><input type="radio" name="q53" value="0">D.22</p>
+</div>
+<div class="question">
+	<p>54. What are the functions of a BSC?</p>
+	<p><input type="radio" name="q54" value="0">A.Handovers, exchange functions</p>
+	<p><input type="radio" name="q54" value="0">B.Frequency hopping</p>
+	<p><input type="radio" name="q54" value="0">C.Control of radio frequency power level of BTS</p>
+	<p><input type="radio" name="q54" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>55. What is the main function of NSS?</p>
+	<p><input type="radio" name="q55" value="0">A.Establishing communication between mobile and landline numbers.</p>
+	<p><input type="radio" name="q55" value="0">B.Providing eligible services to the subscriber</p>
+	<p><input type="radio" name="q55" value="0">C.Providing parameters for Authentication and Encryption</p>
+	<p><input type="radio" name="q55" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>56. What is the name of the database that stores subscriber information under an MSC and his eligible services?</p>
+	<p><input type="radio" name="q56" value="0">A.MSC</p>
+	<p><input type="radio" name="q56" value="1">B.HLR</p>
+	<p><input type="radio" name="q56" value="0">C.EIR</p>
+	<p><input type="radio" name="q56" value="0">D.AuC</p>
+</div>
+<div class="question">
+	<p>57. What is the name of a database used mainly that stores information of a subscriber along with eligible services under roaming or another MSC area?</p>
+	<p><input type="radio" name="q57" value="0">A.HLR</p>
+	<p><input type="radio" name="q57" value="1">B.VLR</p>
+	<p><input type="radio" name="q57" value="0">C.EIR</p>
+	<p><input type="radio" name="q57" value="0">D.AuC</p>
+</div>
+<div class="question">
+	<p>58. Covering area of an MSC is also called ____ ?</p>
+	<p><input type="radio" name="q58" value="0">A.VLR</p>
+	<p><input type="radio" name="q58" value="1">B.HLR</p>
+	<p><input type="radio" name="q58" value="0">C.EIR</p>
+	<p><input type="radio" name="q58" value="0">D.AUC</p>
+</div>
+<div class="question">
+	<p>59. Usually, VLR contains a copy of data of ______ ?</p>
+	<p><input type="radio" name="q59" value="1">A.HLR</p>
+	<p><input type="radio" name="q59" value="0">B.EIR</p>
+	<p><input type="radio" name="q59" value="0">C.AUC</p>
+	<p><input type="radio" name="q59" value="0">D.none</p>
+</div>
+<div class="question">
+	<p>60. Between VLR and HLR, which one is used mostly allow or bar services to the user?</p>
+	<p><input type="radio" name="q60" value="1">A.VLR</p>
+	<p><input type="radio" name="q60" value="0">B.HLR</p>
+	<p><input type="radio" name="q60" value="0">C.Both are used equally</p>
+	<p><input type="radio" name="q60" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>61. State true or false.
+The area under one MSC or HLR is also the area under one VLR.</p>
+	<p><input type="radio" name="q61" value="1">A.True</p>
+	<p><input type="radio" name="q61" value="0">B.False</p>
+	<p><input type="radio" name="q61" value="0">C.-</p>
+	<p><input type="radio" name="q61" value="0">D.-</p>
+</div>
+<div class="question">
+	<p>62. Usually, VLR is part of _____ ?</p>
+	<p><input type="radio" name="q62" value="0">A.HLR</p>
+	<p><input type="radio" name="q62" value="0">B.EIR</p>
+	<p><input type="radio" name="q62" value="0">C.AUC</p>
+	<p><input type="radio" name="q62" value="1">D.MSC</p>
+</div>
+<div class="question">
+	<p>63. As VLR is fast to access, VLR avoids frequent accessing of ________ ?</p>
+	<p><input type="radio" name="q63" value="0">A.EIR</p>
+	<p><input type="radio" name="q63" value="0">B.AUC</p>
+	<p><input type="radio" name="q63" value="1">C.HLR</p>
+	<p><input type="radio" name="q63" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>64. In a GSM architecture, which system provides Authentication and Encryption services?</p>
+	<p><input type="radio" name="q64" value="0">A.HLR</p>
+	<p><input type="radio" name="q64" value="0">B.VLR</p>
+	<p><input type="radio" name="q64" value="0">C.EIR</p>
+	<p><input type="radio" name="q64" value="1">D.AUC</p>
+</div>
+<div class="question">
+	<p>65. In a GSM architecture, which system stores the IMEI numbers of all working mobile phones under the network?</p>
+	<p><input type="radio" name="q65" value="0">A.HLR</p>
+	<p><input type="radio" name="q65" value="0">B.VLR</p>
+	<p><input type="radio" name="q65" value="1">C.EIR</p>
+	<p><input type="radio" name="q65" value="0">D.AUC</p>
+</div>
+<div class="question">
+	<p>66. What are the types of lists maintained by EIR (Equipment Identification Register</p>
+	<p><input type="radio" name="q66" value="0">A.Whitelist</p>
+	<p><input type="radio" name="q66" value="0">B.Grey List</p>
+	<p><input type="radio" name="q66" value="0">C.Black List</p>
+	<p><input type="radio" name="q66" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>67. Choose a correct statement about EIR list of IMEIs.</p>
+	<p><input type="radio" name="q67" value="0">A.Whitelist - List of allowed IMEIs or Mobile Devices</p>
+	<p><input type="radio" name="q67" value="0">B.Grey List - List of IMEIs with limited allowed services</p>
+	<p><input type="radio" name="q67" value="0">C.Blacklist - List of forbidden IMEIs or mobiles</p>
+	<p><input type="radio" name="q67" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>68. Mobile calls to or from Fixed Networks (Landlines</p>
+	<p><input type="radio" name="q68" value="0">A.MSC</p>
+	<p><input type="radio" name="q68" value="1">B.GMSC (Gateway MSC)</p>
+	<p><input type="radio" name="q68" value="0">C.HLR</p>
+	<p><input type="radio" name="q68" value="0">D.VLR</p>
+</div>
+<div class="question">
+	<p>69. Each cell in a GSM network has ?</p>
+	<p><input type="radio" name="q69" value="0">A.Cell number</p>
+	<p><input type="radio" name="q69" value="0">B.Cell Global number</p>
+	<p><input type="radio" name="q69" value="1">C.Cell Global Identity number</p>
+	<p><input type="radio" name="q69" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>70. A group of cells in a GSM network has a _________ number.</p>
+	<p><input type="radio" name="q70" value="0">A.Location number</p>
+	<p><input type="radio" name="q70" value="0">B.Location Area number</p>
+	<p><input type="radio" name="q70" value="1">C.Location Area Identity number</p>
+	<p><input type="radio" name="q70" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>71. A single MSC or VLR can have many ______ ?</p>
+	<p><input type="radio" name="q71" value="0">A.HLR</p>
+	<p><input type="radio" name="q71" value="1">B.Location Areas (LA)</p>
+	<p><input type="radio" name="q71" value="0">C.CGI - Cell Global Index</p>
+	<p><input type="radio" name="q71" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>72. Total area served by one network operator is called ______ ?</p>
+	<p><input type="radio" name="q72" value="0">A.PSTN</p>
+	<p><input type="radio" name="q72" value="1">B.PLMN</p>
+	<p><input type="radio" name="q72" value="0">C.LA</p>
+	<p><input type="radio" name="q72" value="0">D.CGI</p>
+</div>
+<div class="question">
+	<p>73. What is DTX or Discontinuous Transmission in a GSM network?</p>
+	<p><input type="radio" name="q73" value="0">A.DTC stops transmitter when the person is not talking. So less number of voice signals reach BTS with less noise.</p>
+	<p><input type="radio" name="q73" value="0">B.With the help of VAD (Voice Activity Detection), mobile identifies conversation and noise to turn off transmission.</p>
+	<p><input type="radio" name="q73" value="0">C.On the opposite end, the receiver produces a noise called Comfort Noise. With out this, DTX makes the opposite person think that the line or call is cut.</p>
+	<p><input type="radio" name="q73" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>74. Which technique of GSM Architecture tells the mobile to advance it's transmission bursts (data</p>
+	<p><input type="radio" name="q74" value="0">A.DTX</p>
+	<p><input type="radio" name="q74" value="1">B.TA - Timing Advance</p>
+	<p><input type="radio" name="q74" value="0">C.Power Control</p>
+	<p><input type="radio" name="q74" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>75. Timing Advance (TA</p>
+	<p><input type="radio" name="q75" value="0">A.The distance between the BTS and Mobile</p>
+	<p><input type="radio" name="q75" value="0">B.Time delay of bursts from mobile</p>
+	<p><input type="radio" name="q75" value="0">C.Time advance of bursts from mobile</p>
+	<p><input type="radio" name="q75" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>76. What is OSS in a GSM architecture?</p>
+	<p><input type="radio" name="q76" value="0">A.Operation and Support Service</p>
+	<p><input type="radio" name="q76" value="1">B.Operation and Support Subsystem</p>
+	<p><input type="radio" name="q76" value="0">C.Operation and System support</p>
+	<p><input type="radio" name="q76" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>77. Choose a correct statement about OSS system in GSM architecture?</p>
+	<p><input type="radio" name="q77" value="0">A.OSS helps to access and configure MSC parameters</p>
+	<p><input type="radio" name="q77" value="0">B.OSS helps to configure BSC parameters</p>
+	<p><input type="radio" name="q77" value="0">C.OSS helps to add new BTS into the system</p>
+	<p><input type="radio" name="q77" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>78. Radio interface between Mobile Station and BTS is also called _____ ?</p>
+	<p><input type="radio" name="q78" value="0">A.Gorilla interface</p>
+	<p><input type="radio" name="q78" value="1">B.Air interface</p>
+	<p><input type="radio" name="q78" value="0">C.Voice interface</p>
+	<p><input type="radio" name="q78" value="0">D.Spectrum interface</p>
+</div>
+<div class="question">
+	<p>79. Power control feature in a GSM network works on the _______ side?</p>
+	<p><input type="radio" name="q79" value="0">A.Mobile side</p>
+	<p><input type="radio" name="q79" value="0">B.BTS side</p>
+	<p><input type="radio" name="q79" value="1">C.Both Mobile side and BTS side</p>
+	<p><input type="radio" name="q79" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>80. Power control feature aims at receiving all bursts of transmission at _______ power level.</p>
+	<p><input type="radio" name="q80" value="0">A.Different</p>
+	<p><input type="radio" name="q80" value="0">B.Variable</p>
+	<p><input type="radio" name="q80" value="1">C.Same</p>
+	<p><input type="radio" name="q80" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>81. Discontinuous Reception in a GSM network is aimed at saving __________ power.</p>
+	<p><input type="radio" name="q81" value="0">A.BTS</p>
+	<p><input type="radio" name="q81" value="0">B.BSC</p>
+	<p><input type="radio" name="q81" value="1">C.Mobile Station</p>
+	<p><input type="radio" name="q81" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>82. Discontinuous Reception is implemented with _______ in a GSM network.</p>
+	<p><input type="radio" name="q82" value="0">A.Sideband channel</p>
+	<p><input type="radio" name="q82" value="0">B.Pilot channel</p>
+	<p><input type="radio" name="q82" value="1">C.Paging channel Sub channels</p>
+	<p><input type="radio" name="q82" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>83. What is the problem with Multipath traversal of radio signal between a Mobile and a BTS?</p>
+	<p><input type="radio" name="q83" value="0">A.A copy the first signal arrives at the destination with a different phase</p>
+	<p><input type="radio" name="q83" value="0">B.Arrived signal with two or more variants confuse receiver and cause noise.</p>
+	<p><input type="radio" name="q83" value="0">C.Original signal may be lost or deteriorated</p>
+	<p><input type="radio" name="q83" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>84. What is the solution to Multipath traversal of radio signal? Use a ______.</p>
+	<p><input type="radio" name="q84" value="0">A.Low pass filter</p>
+	<p><input type="radio" name="q84" value="0">B.High pass filter</p>
+	<p><input type="radio" name="q84" value="1">C.Equalizer or Inverse filter</p>
+	<p><input type="radio" name="q84" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>85. The functions of a MSC (Mobile Services Switching Center</p>
+	<p><input type="radio" name="q85" value="0">A.Call handling and paging</p>
+	<p><input type="radio" name="q85" value="0">B.Inter BSS and Inter MSC handovers</p>
+	<p><input type="radio" name="q85" value="0">C.Acting as a gateway to HLR</p>
+	<p><input type="radio" name="q85" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>86. The functions of an MSC are ______?</p>
+	<p><input type="radio" name="q86" value="0">A.Charging the call or billing</p>
+	<p><input type="radio" name="q86" value="0">B.Signalling with outside systems</p>
+	<p><input type="radio" name="q86" value="0">C.Logical radio link control</p>
+	<p><input type="radio" name="q86" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>87. A HLR database contains ________ ?</p>
+	<p><input type="radio" name="q87" value="0">A.IMSI and ISDN numbers</p>
+	<p><input type="radio" name="q87" value="0">B.Location info for call routing</p>
+	<p><input type="radio" name="q87" value="0">C.Information about Bearer services and Supplementary services</p>
+	<p><input type="radio" name="q87" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>88. A VLR Database contains _____ data.</p>
+	<p><input type="radio" name="q88" value="0">A.ISDN number and Subscriber identity</p>
+	<p><input type="radio" name="q88" value="0">B.Location information to route calls</p>
+	<p><input type="radio" name="q88" value="0">C.Part of HLR data</p>
+	<p><input type="radio" name="q88" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>89. An Equipment Identity Register (EIR</p>
+	<p><input type="radio" name="q89" value="0">A.White list or Valid list</p>
+	<p><input type="radio" name="q89" value="0">B.Grey or Monitored list</p>
+	<p><input type="radio" name="q89" value="0">C.Black or Prohibited list</p>
+	<p><input type="radio" name="q89" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>90. An Authentication Center (AUC</p>
+	<p><input type="radio" name="q90" value="0">A.Authentication Keys (Ki)</p>
+	<p><input type="radio" name="q90" value="0">B.Cipher Keys (Kc) for encryption and Decryption</p>
+	<p><input type="radio" name="q90" value="0">C.Security parameters</p>
+	<p><input type="radio" name="q90" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>91. For BSS Types 1, 4 and 5, Speech Transcoding unit presents ______ BSC.</p>
+	<p><input type="radio" name="q91" value="1">A.Inside</p>
+	<p><input type="radio" name="q91" value="0">B.Outside</p>
+	<p><input type="radio" name="q91" value="0">C.-</p>
+	<p><input type="radio" name="q91" value="0">D.-</p>
+</div>
+<div class="question">
+	<p>92. In BSS Types 2, 6 and 7, Speech Transcoding unit is present ______ BSS.</p>
+	<p><input type="radio" name="q92" value="0">A.Internally</p>
+	<p><input type="radio" name="q92" value="1">B.Externally (Co-located with MSC)</p>
+	<p><input type="radio" name="q92" value="0">C.--</p>
+	<p><input type="radio" name="q92" value="0">D.--</p>
+</div>
+<div class="question">
+	<p>93. In BSS Type 3, TRAU (Transcoder Unit</p>
+	<p><input type="radio" name="q93" value="0">A.BSC</p>
+	<p><input type="radio" name="q93" value="1">B.BTS</p>
+	<p><input type="radio" name="q93" value="0">C.MSC</p>
+	<p><input type="radio" name="q93" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>94. Transmission bitrate between BSC and MSC is ____ ?</p>
+	<p><input type="radio" name="q94" value="0">A.8 kbps</p>
+	<p><input type="radio" name="q94" value="0">B.16kbps</p>
+	<p><input type="radio" name="q94" value="0">C.32kpbs</p>
+	<p><input type="radio" name="q94" value="1">D.64kbps</p>
+</div>
+<div class="question">
+	<p>95. What is the transmission bitrate between BTS and BSC?</p>
+	<p><input type="radio" name="q95" value="0">A.8kbps</p>
+	<p><input type="radio" name="q95" value="1">B.16kbps</p>
+	<p><input type="radio" name="q95" value="0">C.32kbps</p>
+	<p><input type="radio" name="q95" value="0">D.64kbps</p>
+</div>
+<div class="question">
+	<p>96. What is the interface between a Mobile Station and a BTS?</p>
+	<p><input type="radio" name="q96" value="0">A.M interface</p>
+	<p><input type="radio" name="q96" value="0">B.A interface</p>
+	<p><input type="radio" name="q96" value="0">C.Abis interface</p>
+	<p><input type="radio" name="q96" value="1">D.U interface</p>
+</div>
+<div class="question">
+	<p>97. What is the interface between BTS and BSC?</p>
+	<p><input type="radio" name="q97" value="0">A.U interface</p>
+	<p><input type="radio" name="q97" value="0">B.Um interface</p>
+	<p><input type="radio" name="q97" value="1">C.Abis interface</p>
+	<p><input type="radio" name="q97" value="0">D.A interface</p>
+</div>
+<div class="question">
+	<p>98. What is the interface between BSC and TRAU?</p>
+	<p><input type="radio" name="q98" value="1">A.M interface</p>
+	<p><input type="radio" name="q98" value="0">B.A interface</p>
+	<p><input type="radio" name="q98" value="0">C.Abis interface</p>
+	<p><input type="radio" name="q98" value="0">D.C interface</p>
+</div>
+<div class="question">
+	<p>99. What is the interface between BSC and MSC?</p>
+	<p><input type="radio" name="q99" value="1">A.A interface</p>
+	<p><input type="radio" name="q99" value="0">B.Abis interface</p>
+	<p><input type="radio" name="q99" value="0">C.B interface</p>
+	<p><input type="radio" name="q99" value="0">D.C interface</p>
+</div>
+<div class="question">
+	<p>100. What is the interface between MSC and VLR?</p>
+	<p><input type="radio" name="q100" value="0">A.A interface</p>
+	<p><input type="radio" name="q100" value="1">B.B interface</p>
+	<p><input type="radio" name="q100" value="0">C.C interface</p>
+	<p><input type="radio" name="q100" value="0">D.D interface</p>
+</div>
+<div class="question">
+	<p>101. What is the interface between MSC and HLR?</p>
+	<p><input type="radio" name="q101" value="0">A.Abis interface</p>
+	<p><input type="radio" name="q101" value="0">B.A interface</p>
+	<p><input type="radio" name="q101" value="1">C.C interface</p>
+	<p><input type="radio" name="q101" value="0">D.D interface</p>
+</div>
+<div class="question">
+	<p>102. What is the interface between VLR and HLR?</p>
+	<p><input type="radio" name="q102" value="0">A.B interface</p>
+	<p><input type="radio" name="q102" value="0">B.C interface</p>
+	<p><input type="radio" name="q102" value="1">C.D interface</p>
+	<p><input type="radio" name="q102" value="0">D.E interface</p>
+</div>
+<div class="question">
+	<p>103. What is the interface between two MSCs?</p>
+	<p><input type="radio" name="q103" value="0">A.A interface</p>
+	<p><input type="radio" name="q103" value="0">B.C interface</p>
+	<p><input type="radio" name="q103" value="0">C.D interface</p>
+	<p><input type="radio" name="q103" value="1">D.E interface</p>
+</div>
+<div class="question">
+	<p>104. What is the interface between MSC and EIR?</p>
+	<p><input type="radio" name="q104" value="0">A.M interface</p>
+	<p><input type="radio" name="q104" value="0">B.Abis interface</p>
+	<p><input type="radio" name="q104" value="1">C.F interface</p>
+	<p><input type="radio" name="q104" value="0">D.U interface</p>
+</div>
+<div class="question">
+	<p>105. What is the interface between one VLR to other MSC VLRs?</p>
+	<p><input type="radio" name="q105" value="0">A.Abis interface</p>
+	<p><input type="radio" name="q105" value="0">B.E interface</p>
+	<p><input type="radio" name="q105" value="0">C.F interface</p>
+	<p><input type="radio" name="q105" value="1">D.G interface</p>
+</div>
+<div class="question">
+	<p>106. What is the interface between HLR and AUC?</p>
+	<p><input type="radio" name="q106" value="0">A.E interface</p>
+	<p><input type="radio" name="q106" value="0">B.F interface</p>
+	<p><input type="radio" name="q106" value="1">C.H interface</p>
+	<p><input type="radio" name="q106" value="0">D.M interface</p>
+</div>
+<div class="question">
+	<p>107. What is the interface between MSC and GMSC?</p>
+	<p><input type="radio" name="q107" value="0">A.Na</p>
+	<p><input type="radio" name="q107" value="0">B.Nb</p>
+	<p><input type="radio" name="q107" value="1">C.Nc</p>
+	<p><input type="radio" name="q107" value="0">D.Nd</p>
+</div>
+<div class="question">
+	<p>108. What is the interface between MSC Server and MGW which are part of MSC?</p>
+	<p><input type="radio" name="q108" value="0">A.Nc</p>
+	<p><input type="radio" name="q108" value="1">B.Mc</p>
+	<p><input type="radio" name="q108" value="0">C.Um</p>
+	<p><input type="radio" name="q108" value="0">D.U</p>
+</div>
+<div class="question">
+	<p>109. What is the interface between BSC and SGSN (Serving GPRS Serving Node</p>
+	<p><input type="radio" name="q109" value="0">A.Ga</p>
+	<p><input type="radio" name="q109" value="1">B.Gb</p>
+	<p><input type="radio" name="q109" value="0">C.Gc</p>
+	<p><input type="radio" name="q109" value="0">D.Gd</p>
+</div>
+<div class="question">
+	<p>110. What is the interface between SGSN and Internet Server?</p>
+	<p><input type="radio" name="q110" value="0">A.Ga</p>
+	<p><input type="radio" name="q110" value="0">B.Gb</p>
+	<p><input type="radio" name="q110" value="0">C.Gc</p>
+	<p><input type="radio" name="q110" value="1">D.Gi</p>
+</div>
+<div class="question">
+	<p>111. What is the interface between SGSN and GGSN(Gateway GPRS Serving Node</p>
+	<p><input type="radio" name="q111" value="0">A.Ga</p>
+	<p><input type="radio" name="q111" value="0">B.Gb</p>
+	<p><input type="radio" name="q111" value="1">C.Gn</p>
+	<p><input type="radio" name="q111" value="0">D.Gi</p>
+</div>
+<div class="question">
+	<p>112. What is the interface between GGSN and Internet Server?</p>
+	<p><input type="radio" name="q112" value="0">A.Ga</p>
+	<p><input type="radio" name="q112" value="0">B.Gn</p>
+	<p><input type="radio" name="q112" value="0">C.Gi</p>
+	<p><input type="radio" name="q112" value="1">D.Gp</p>
+</div>
+<div class="question">
+	<p>113. What is the interface between GGSN and HLR?</p>
+	<p><input type="radio" name="q113" value="0">A.Ga</p>
+	<p><input type="radio" name="q113" value="0">B.Gb</p>
+	<p><input type="radio" name="q113" value="1">C.Gc</p>
+	<p><input type="radio" name="q113" value="0">D.Gi</p>
+</div>
+<div class="question">
+	<p>114. What is the interface between SGSN and SMS-GMSC?</p>
+	<p><input type="radio" name="q114" value="0">A.Ga</p>
+	<p><input type="radio" name="q114" value="0">B.Gb</p>
+	<p><input type="radio" name="q114" value="0">C.Gc</p>
+	<p><input type="radio" name="q114" value="1">D.Gd</p>
+</div>
+<div class="question">
+	<p>115. The interfaces Gf and Sv are between SGSN and _____ ?</p>
+	<p><input type="radio" name="q115" value="0">A.Auc</p>
+	<p><input type="radio" name="q115" value="0">B.MSC</p>
+	<p><input type="radio" name="q115" value="1">C.EIR</p>
+	<p><input type="radio" name="q115" value="0">D.VLR</p>
+</div>
+<div class="question">
+	<p>116. What is the total number of Carrier Frequencies that can be formed in a 25MHz band width of either Uplink or Downlink of GSM?</p>
+	<p><input type="radio" name="q116" value="0">A.128</p>
+	<p><input type="radio" name="q116" value="0">B.126</p>
+	<p><input type="radio" name="q116" value="1">C.124</p>
+	<p><input type="radio" name="q116" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>117. What is the spacing between each carrier frequency to avoid interference and crosstalk?</p>
+	<p><input type="radio" name="q117" value="0">A.100KHz</p>
+	<p><input type="radio" name="q117" value="1">B.200KHz</p>
+	<p><input type="radio" name="q117" value="0">C.128KHz</p>
+	<p><input type="radio" name="q117" value="0">D.256KHz</p>
+</div>
+<div class="question">
+	<p>118. In GSM-1800 band, the total number of Carrier Frequencies are ?</p>
+	<p><input type="radio" name="q118" value="0">A.124</p>
+	<p><input type="radio" name="q118" value="0">B.248</p>
+	<p><input type="radio" name="q118" value="1">C.374</p>
+	<p><input type="radio" name="q118" value="0">D.448</p>
+</div>
+<div class="question">
+	<p>119. Each Carrier frequency is divided or shared among _______ number of channels.</p>
+	<p><input type="radio" name="q119" value="0">A.4</p>
+	<p><input type="radio" name="q119" value="0">B.6</p>
+	<p><input type="radio" name="q119" value="1">C.8</p>
+	<p><input type="radio" name="q119" value="0">D.10</p>
+</div>
+<div class="question">
+	<p>120. In a GSM-900 Band, what is the duplex spacing between uplink and downlink channels?</p>
+	<p><input type="radio" name="q120" value="0">A.25MHz</p>
+	<p><input type="radio" name="q120" value="0">B.35MHz</p>
+	<p><input type="radio" name="q120" value="1">C.45MHz</p>
+	<p><input type="radio" name="q120" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>121. In a GSM-1800 Band, what is the duplex spacing between downlink and uplink channels?</p>
+	<p><input type="radio" name="q121" value="0">A.75MHz</p>
+	<p><input type="radio" name="q121" value="0">B.85MHz</p>
+	<p><input type="radio" name="q121" value="0">C.95MHz</p>
+	<p><input type="radio" name="q121" value="1">D.None</p>
+</div>
+<div class="question">
+	<p>122. What is the name of a single transmission burst that lasts for only 0.577ms in a GSM TDMA frame?</p>
+	<p><input type="radio" name="q122" value="0">A.Frame</p>
+	<p><input type="radio" name="q122" value="1">B.Channel (or Physical channel)</p>
+	<p><input type="radio" name="q122" value="0">C.Link</p>
+	<p><input type="radio" name="q122" value="0">D.None of the above</p>
+</div>
+<div class="question">
+	<p>123. What is the duration of a GSM TDMA Frame?</p>
+	<p><input type="radio" name="q123" value="1">A.4.614ms</p>
+	<p><input type="radio" name="q123" value="0">B.5.614ms</p>
+	<p><input type="radio" name="q123" value="0">C.6.614ms</p>
+	<p><input type="radio" name="q123" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>124. What are the types of Logical channels in a GSM Structure or Architecture?</p>
+	<p><input type="radio" name="q124" value="0">A.Traffic channels</p>
+	<p><input type="radio" name="q124" value="0">B.Broadcasting channels</p>
+	<p><input type="radio" name="q124" value="0">C.Common control channels, Dedicated control channels</p>
+	<p><input type="radio" name="q124" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>125. Broadcasting is a concept of transferring information from _______ to _______?</p>
+	<p><input type="radio" name="q125" value="0">A.One to one</p>
+	<p><input type="radio" name="q125" value="0">B.Many to one</p>
+	<p><input type="radio" name="q125" value="1">C.One to many</p>
+	<p><input type="radio" name="q125" value="0">D.Many to many</p>
+</div>
+<div class="question">
+	<p>126. BCCH (Broadcast Control Channel</p>
+	<p><input type="radio" name="q126" value="0">A.Engine</p>
+	<p><input type="radio" name="q126" value="0">B.Driver</p>
+	<p><input type="radio" name="q126" value="1">C.Pilot</p>
+	<p><input type="radio" name="q126" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>127. Majority of the GSM Channels work on ______ interface?</p>
+	<p><input type="radio" name="q127" value="0">A.Abis interface</p>
+	<p><input type="radio" name="q127" value="0">B.A interface</p>
+	<p><input type="radio" name="q127" value="1">C.Um interface</p>
+	<p><input type="radio" name="q127" value="0">D.M interface</p>
+</div>
+<div class="question">
+	<p>128. The type of information transferred in Traffic Channel (TCH</p>
+	<p><input type="radio" name="q128" value="0">A.Voice</p>
+	<p><input type="radio" name="q128" value="0">B.Data</p>
+	<p><input type="radio" name="q128" value="1">C.Both Voice and Data</p>
+	<p><input type="radio" name="q128" value="0">D.Signalling</p>
+</div>
+<div class="question">
+	<p>129. Choose a Channel that carries Signalling information?</p>
+	<p><input type="radio" name="q129" value="0">A.Broadcast Control channel</p>
+	<p><input type="radio" name="q129" value="0">B.Common control channel</p>
+	<p><input type="radio" name="q129" value="0">C.Dedicated control channel</p>
+	<p><input type="radio" name="q129" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>130. What is the other type of information that a TCH channel contain or carry?</p>
+	<p><input type="radio" name="q130" value="0">A.Signalling to forward a call</p>
+	<p><input type="radio" name="q130" value="0">B.Short Message Service signalling</p>
+	<p><input type="radio" name="q130" value="1">C.Both A and B</p>
+	<p><input type="radio" name="q130" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>131. What is TRUE about a Full Rate TCH channel?</p>
+	<p><input type="radio" name="q131" value="0">A.It carries a speech of 13kbps before encoding</p>
+	<p><input type="radio" name="q131" value="0">B.It carries a total of 22.8kbs information after channel coding</p>
+	<p><input type="radio" name="q131" value="0">C.Data rates supported are 3.6, 6 and 12 kbps respectively.</p>
+	<p><input type="radio" name="q131" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>132. What are the data rates of services available in ISDN and other services that can be transmitted in a TCH channel?</p>
+	<p><input type="radio" name="q132" value="0">A.2.4kbps</p>
+	<p><input type="radio" name="q132" value="0">B.4.8kbps</p>
+	<p><input type="radio" name="q132" value="0">C.9.6kbps</p>
+	<p><input type="radio" name="q132" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>133. What is the total bitrate after channel coding in a Half Rate TCH channel?</p>
+	<p><input type="radio" name="q133" value="1">A.11.4kbps</p>
+	<p><input type="radio" name="q133" value="0">B.22.8kbps</p>
+	<p><input type="radio" name="q133" value="0">C.34.2kbps</p>
+	<p><input type="radio" name="q133" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>134. What is the speech rate before coding in a Half Rate TCH channel?</p>
+	<p><input type="radio" name="q134" value="0">A.11.4kbps</p>
+	<p><input type="radio" name="q134" value="0">B.22.8kbps</p>
+	<p><input type="radio" name="q134" value="1">C.5.6kbps</p>
+	<p><input type="radio" name="q134" value="0">D.11.2kbps</p>
+</div>
+<div class="question">
+	<p>135. Possible data rates in a Half Rate TCH channel are _____ ?</p>
+	<p><input type="radio" name="q135" value="0">A.3.6kbps</p>
+	<p><input type="radio" name="q135" value="0">B.6kbps</p>
+	<p><input type="radio" name="q135" value="1">C.3.6, 6kbps</p>
+	<p><input type="radio" name="q135" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>136. Choose a Broadcast channel in GSM Architecture?</p>
+	<p><input type="radio" name="q136" value="0">A.BCCH (Broadcast Control Channel)</p>
+	<p><input type="radio" name="q136" value="0">B.FCCH (Frequency Correction Channel)</p>
+	<p><input type="radio" name="q136" value="0">C.SCH (Synchronization Channel), CBCH (Cell Broadcast Channel)</p>
+	<p><input type="radio" name="q136" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>137. What ia TRUE about BCCH channel in a GSM structure?</p>
+	<p><input type="radio" name="q137" value="0">A.It is like a BEACON that guides a mobile to attach to a Cell</p>
+	<p><input type="radio" name="q137" value="0">B.It contains Configuration parameters like LAC (Location Area Code), CID (Cell Identity) and Neighbor cell info</p>
+	<p><input type="radio" name="q137" value="0">C.It is the first frequency to be sampled by a Mobile station. If parameters are ok, MT attaches to the Cell.</p>
+	<p><input type="radio" name="q137" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>138. Which is the Broadcast channel that tells the MT (Mobile Station</p>
+	<p><input type="radio" name="q138" value="0">A.BCCH</p>
+	<p><input type="radio" name="q138" value="1">B.FCCH</p>
+	<p><input type="radio" name="q138" value="0">C.SCH</p>
+	<p><input type="radio" name="q138" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>139. What is TRUE about a SCH channel of GSM Architecture?</p>
+	<p><input type="radio" name="q139" value="0">A.It carries Time Synchronization data</p>
+	<p><input type="radio" name="q139" value="0">B.It contains BSIC (Base Station Identity Code)</p>
+	<p><input type="radio" name="q139" value="0">C.It contains TDMA Frame number</p>
+	<p><input type="radio" name="q139" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>140. Which is TRUE about a CBCH channel of a GSM structure?</p>
+	<p><input type="radio" name="q140" value="0">A.It carries Short Messages</p>
+	<p><input type="radio" name="q140" value="0">B.It carries Service Messages</p>
+	<p><input type="radio" name="q140" value="1">C.It carries both Short Message and Service Messages</p>
+	<p><input type="radio" name="q140" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>141. Choose a Common Control Channel below.</p>
+	<p><input type="radio" name="q141" value="0">A.PCH (paging Channel)</p>
+	<p><input type="radio" name="q141" value="0">B.AGCH (Access Grant Channel)</p>
+	<p><input type="radio" name="q141" value="0">C.RACH (Random Access Channel)</p>
+	<p><input type="radio" name="q141" value="1">D.None</p>
+</div>
+<div class="question">
+	<p>142. What is TRUE about a PCH (paging Channel</p>
+	<p><input type="radio" name="q142" value="0">A.Paging works in a Downlink (BTS to Mobile)</p>
+	<p><input type="radio" name="q142" value="0">B.Paging alerts the MT (Mobile Terminal) about an incoming Call or SMS.</p>
+	<p><input type="radio" name="q142" value="0">C.Paging is a One to One communication initiated by NSS (Network Subsystem)</p>
+	<p><input type="radio" name="q142" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>143. What is the Uplink channel used by a Mobile to request for a Channel?</p>
+	<p><input type="radio" name="q143" value="0">A.PCH</p>
+	<p><input type="radio" name="q143" value="0">B.BCCH</p>
+	<p><input type="radio" name="q143" value="1">C.RACH</p>
+	<p><input type="radio" name="q143" value="0">D.SDCCH</p>
+</div>
+<div class="question">
+	<p>144. Which is the downlink channel allotted to a Mobile after requesting with a RACH channel?</p>
+	<p><input type="radio" name="q144" value="1">A.AGH</p>
+	<p><input type="radio" name="q144" value="0">B.PCH</p>
+	<p><input type="radio" name="q144" value="0">C.SDCCH</p>
+	<p><input type="radio" name="q144" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>145. Which is a Full Duplex (both Downlink and Uplink</p>
+	<p><input type="radio" name="q145" value="0">A.SACCH (Slow Associated Control Channel)</p>
+	<p><input type="radio" name="q145" value="0">B.FACCH (Fast Associated Control Channel)</p>
+	<p><input type="radio" name="q145" value="0">C.SDCCH (Stand-alone Dedicated Control Channel)</p>
+	<p><input type="radio" name="q145" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>146. Which is the Dedicated Control channel that is used to transmit Power Control data, Timing Advance (TA</p>
+	<p><input type="radio" name="q146" value="0">A.TCH</p>
+	<p><input type="radio" name="q146" value="0">B.SDCCH</p>
+	<p><input type="radio" name="q146" value="0">C.FACCH</p>
+	<p><input type="radio" name="q146" value="1">D.SACCH</p>
+</div>
+<div class="question">
+	<p>147. State True or False. SACCH is used to transmit Urgent signalling data like Call setup.</p>
+	<p><input type="radio" name="q147" value="0">A.TRUE</p>
+	<p><input type="radio" name="q147" value="1">B.False</p>
+	<p><input type="radio" name="q147" value="0">C.-</p>
+	<p><input type="radio" name="q147" value="0">D.-</p>
+</div>
+<div class="question">
+	<p>148. What are the functions of a FACCH channel?</p>
+	<p><input type="radio" name="q148" value="0">A.Call Setup</p>
+	<p><input type="radio" name="q148" value="0">B.Call Termination</p>
+	<p><input type="radio" name="q148" value="0">C.Call Handovers</p>
+	<p><input type="radio" name="q148" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>149. If FACCH signalling data is transmitted over TCH instead of Traffic data by setting a Stealing Flag, the process is called?</p>
+	<p><input type="radio" name="q149" value="0">A.Overloading</p>
+	<p><input type="radio" name="q149" value="0">B.Burdening</p>
+	<p><input type="radio" name="q149" value="1">C.Preemption</p>
+	<p><input type="radio" name="q149" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>150. What are the functions of the dedicated control channel SDCCH?</p>
+	<p><input type="radio" name="q150" value="0">A.Location updates, Equipment validation</p>
+	<p><input type="radio" name="q150" value="0">B.Subscriber authentication, Ciphering initiation</p>
+	<p><input type="radio" name="q150" value="0">C.SMS delivery, Assigning a TCH for call or data</p>
+	<p><input type="radio" name="q150" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>151. What is the bitrate of SDCCH channel?</p>
+	<p><input type="radio" name="q151" value="0">A.0.5kbps</p>
+	<p><input type="radio" name="q151" value="1">B.0.8kbps</p>
+	<p><input type="radio" name="q151" value="0">C.1kbps</p>
+	<p><input type="radio" name="q151" value="0">D.1.2kbps</p>
+</div>
+<div class="question">
+	<p>152. CCCH (Common Control Channel</p>
+	<p><input type="radio" name="q152" value="0">A.PCH on downlink</p>
+	<p><input type="radio" name="q152" value="0">B.AGCH on downlink</p>
+	<p><input type="radio" name="q152" value="0">C.RACH on uplink</p>
+	<p><input type="radio" name="q152" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>153. The channel BCCH is always defined in which time slot?</p>
+	<p><input type="radio" name="q153" value="1">A.Timeslot 0</p>
+	<p><input type="radio" name="q153" value="0">B.Timeslot 1</p>
+	<p><input type="radio" name="q153" value="0">C.Timeslot 4</p>
+	<p><input type="radio" name="q153" value="0">D.Timeslot 8</p>
+</div>
+<div class="question">
+	<p>154. If there are two TRX in a given Sector or Cell, BCCH is defined on the _______ TRX or frequency.</p>
+	<p><input type="radio" name="q154" value="1">A.First</p>
+	<p><input type="radio" name="q154" value="0">B.Second</p>
+	<p><input type="radio" name="q154" value="0">C.First or second</p>
+	<p><input type="radio" name="q154" value="0">D.First and second</p>
+</div>
+<div class="question">
+	<p>155. One Burst Period is also called _____.</p>
+	<p><input type="radio" name="q155" value="1">A.Timeslot</p>
+	<p><input type="radio" name="q155" value="0">B.Group</p>
+	<p><input type="radio" name="q155" value="0">C.Byte</p>
+	<p><input type="radio" name="q155" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>156. How many timeslots are present in a GSM TDMA frame whose time duration is 4.615ms?</p>
+	<p><input type="radio" name="q156" value="0">A.4</p>
+	<p><input type="radio" name="q156" value="1">B.8</p>
+	<p><input type="radio" name="q156" value="0">C.16</p>
+	<p><input type="radio" name="q156" value="0">D.32</p>
+</div>
+<div class="question">
+	<p>157. What are the TDMA Multi frames used for TCH/H and TCH/F ?</p>
+	<p><input type="radio" name="q157" value="0">A.26 TDMA frames</p>
+	<p><input type="radio" name="q157" value="0">B.51 TDMA frames</p>
+	<p><input type="radio" name="q157" value="1">C.26 or 51 TDMA frames</p>
+	<p><input type="radio" name="q157" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>158. A super frame contains _______ TDMA frames with all possible combinations of channels.</p>
+	<p><input type="radio" name="q158" value="1">A.51 x 26 TDMA</p>
+	<p><input type="radio" name="q158" value="0">B.51 x 51 TDMA</p>
+	<p><input type="radio" name="q158" value="0">C.1024 x 26TDMA</p>
+	<p><input type="radio" name="q158" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>159. A Hyper Frame contains ______ TDMA frames, which can be used for Frequency Hopping and Ciphering.</p>
+	<p><input type="radio" name="q159" value="0">A.1024 x 26 TDMA</p>
+	<p><input type="radio" name="q159" value="0">B.1024 x 51 TDMA</p>
+	<p><input type="radio" name="q159" value="0">C.2048 x 26 TDMA</p>
+	<p><input type="radio" name="q159" value="1">D.2048 x 51 x 26 TDMA</p>
+</div>
+<div class="question">
+	<p>160. What is the duration of a Super Frame?</p>
+	<p><input type="radio" name="q160" value="0">A.5.12s</p>
+	<p><input type="radio" name="q160" value="1">B.6.12s</p>
+	<p><input type="radio" name="q160" value="0">C.7.12s</p>
+	<p><input type="radio" name="q160" value="0">D.8.12s</p>
+</div>
+<div class="question">
+	<p>161. What is the duration of a HYPERFRAME?</p>
+	<p><input type="radio" name="q161" value="0">A.3H 28M 2.2S</p>
+	<p><input type="radio" name="q161" value="0">B.3H 28M 50S</p>
+	<p><input type="radio" name="q161" value="1">C.3H 28M 53.76s</p>
+	<p><input type="radio" name="q161" value="0">D.3.5H</p>
+</div>
+<div class="question">
+	<p>162. Choose a method of selecting a Cell (sector</p>
+	<p><input type="radio" name="q162" value="0">A.MS maintains a list of BCCH signal levels in descending order</p>
+	<p><input type="radio" name="q162" value="0">B.A good BCCH is chosen and the mobile tunes to that frequency to communicate with the BTS.</p>
+	<p><input type="radio" name="q162" value="0">C.After successful authentication, Mobile attachea to the cell and will be in IDLE mode without using TCH channel.</p>
+	<p><input type="radio" name="q162" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>163. During a phone call, an SMS (Short Message Service</p>
+	<p><input type="radio" name="q163" value="0">A.SDCCH</p>
+	<p><input type="radio" name="q163" value="0">B.TCH</p>
+	<p><input type="radio" name="q163" value="1">C.SACCH</p>
+	<p><input type="radio" name="q163" value="0">D.BCCH</p>
+</div>
+<div class="question">
+	<p>164. When NO call is in progress (IDLE mode</p>
+	<p><input type="radio" name="q164" value="0">A.TCH</p>
+	<p><input type="radio" name="q164" value="0">B.BCCH</p>
+	<p><input type="radio" name="q164" value="0">C.SACCH</p>
+	<p><input type="radio" name="q164" value="1">D.SDCCH</p>
+</div>
+<div class="question">
+	<p>165. What is the problem with sending a huge number of SMS?</p>
+	<p><input type="radio" name="q165" value="0">A.SDCCH channels will be busy.</p>
+	<p><input type="radio" name="q165" value="0">B.So call handling capacity will be reduced.</p>
+	<p><input type="radio" name="q165" value="0">C.Free SDCCH will be less. So TCH allocation for new calls will be slow.</p>
+	<p><input type="radio" name="q165" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>166. What is the length of a single SMS in GSM architecture?</p>
+	<p><input type="radio" name="q166" value="0">A.140</p>
+	<p><input type="radio" name="q166" value="0">B.150</p>
+	<p><input type="radio" name="q166" value="1">C.160</p>
+	<p><input type="radio" name="q166" value="0">D.256</p>
+</div>
+<div class="question">
+	<p>167. Which is TRUE about maximum length of an SMS in a GSM network?</p>
+	<p><input type="radio" name="q167" value="0">A.160 7-bit characters</p>
+	<p><input type="radio" name="q167" value="0">B.140 8-bit characters</p>
+	<p><input type="radio" name="q167" value="0">C.70 16-bit characters</p>
+	<p><input type="radio" name="q167" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>168. What is the maximum number of SMS that can be sent to a Mobile in one minute time?</p>
+	<p><input type="radio" name="q168" value="0">A.1-5</p>
+	<p><input type="radio" name="q168" value="1">B.6-10</p>
+	<p><input type="radio" name="q168" value="0">C.11-15</p>
+	<p><input type="radio" name="q168" value="0">D.15-20</p>
+</div>
+<div class="question">
+	<p>169. What are the SMS categories?</p>
+	<p><input type="radio" name="q169" value="0">A.Point to Point</p>
+	<p><input type="radio" name="q169" value="0">B.Point to Multipoint</p>
+	<p><input type="radio" name="q169" value="1">C.Both P2P and P2M</p>
+	<p><input type="radio" name="q169" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>170. All SMS are stored in which system in a GSM Architecture before forwarding to the recipient?</p>
+	<p><input type="radio" name="q170" value="1">A.SC (SMS Center)</p>
+	<p><input type="radio" name="q170" value="0">B.SMS-GMSC</p>
+	<p><input type="radio" name="q170" value="0">C.MSC</p>
+	<p><input type="radio" name="q170" value="0">D.VLR</p>
+</div>
+<div class="question">
+	<p>171. To deliver an SMS to a Mobile Station, HLR enquiry is done through which system in GSM network?</p>
+	<p><input type="radio" name="q171" value="1">A.SMS-GMSC</p>
+	<p><input type="radio" name="q171" value="0">B.SC (SMS Center)</p>
+	<p><input type="radio" name="q171" value="0">C.MSC</p>
+	<p><input type="radio" name="q171" value="0">D.VLR</p>
+</div>
+<div class="question">
+	<p>172. To deliver an SMS to a Mobile Station, VLR enquiry is done via which system in a GSM Network?</p>
+	<p><input type="radio" name="q172" value="0">A.SC (SMS Center)</p>
+	<p><input type="radio" name="q172" value="0">B.SMS-GMSC</p>
+	<p><input type="radio" name="q172" value="1">C.MSC</p>
+	<p><input type="radio" name="q172" value="0">D.HLR</p>
+</div>
+<div class="question">
+	<p>173. Choose a correct flow of SMS from one system to the other in a GSM network.</p>
+	<p><input type="radio" name="q173" value="0">A.SC to SMS-GMSC</p>
+	<p><input type="radio" name="q173" value="0">B.SMS-GMSC to MSC</p>
+	<p><input type="radio" name="q173" value="0">C.MSC to MS ( via BSC and BTS)</p>
+	<p><input type="radio" name="q173" value="1">D.ALL</p>
+</div>
+<div class="question">
+	<p>174. GPRS stands for?</p>
+	<p><input type="radio" name="q174" value="0">A.General Packet Repair Service</p>
+	<p><input type="radio" name="q174" value="1">B.General Packet Radio Service</p>
+	<p><input type="radio" name="q174" value="0">C.Graphics Packet Radio Service</p>
+	<p><input type="radio" name="q174" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>175. What is the data rate or speed offered by a GPRS connection?</p>
+	<p><input type="radio" name="q175" value="1">A.56-115kbps</p>
+	<p><input type="radio" name="q175" value="0">B.9-256kbps</p>
+	<p><input type="radio" name="q175" value="0">C.64-128kbps</p>
+	<p><input type="radio" name="q175" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>176. GPRS services belong to which generation?</p>
+	<p><input type="radio" name="q176" value="0">A.1G</p>
+	<p><input type="radio" name="q176" value="1">B.2G</p>
+	<p><input type="radio" name="q176" value="0">C.3G</p>
+	<p><input type="radio" name="q176" value="0">D.4G</p>
+</div>
+<div class="question">
+	<p>177. Choose a correct abbreviation below.</p>
+	<p><input type="radio" name="q177" value="0">A.SGSN - Serving GPRS Support Node</p>
+	<p><input type="radio" name="q177" value="0">B.GGSN - Gateway GPRS Support Node</p>
+	<p><input type="radio" name="q177" value="0">C.IP - Internet Protocol</p>
+	<p><input type="radio" name="q177" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>178. Choose a correct Abbreviation below.</p>
+	<p><input type="radio" name="q178" value="0">A.PCU - Packet Control Unit</p>
+	<p><input type="radio" name="q178" value="0">B.CG - Charging Gateway</p>
+	<p><input type="radio" name="q178" value="0">C.BG - Border Gateway</p>
+	<p><input type="radio" name="q178" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>179. Choose a correct Abbreviation below.</p>
+	<p><input type="radio" name="q179" value="0">A.PCU - Packet Control Unit</p>
+	<p><input type="radio" name="q179" value="0">B.CCU - Channel Codec Unit</p>
+	<p><input type="radio" name="q179" value="0">C.GTP - GPRS Tunneling Protocol</p>
+	<p><input type="radio" name="q179" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>180. GPRS is a Connection Oriented service. True/False?</p>
+	<p><input type="radio" name="q180" value="1">A.False</p>
+	<p><input type="radio" name="q180" value="0">B.True</p>
+	<p><input type="radio" name="q180" value="0">C.-</p>
+	<p><input type="radio" name="q180" value="0">D.-</p>
+</div>
+<div class="question">
+	<p>181. GPRS is a Circuit Switched Data (CSD</p>
+	<p><input type="radio" name="q181" value="1">A.False</p>
+	<p><input type="radio" name="q181" value="0">B.True</p>
+	<p><input type="radio" name="q181" value="0">C.-</p>
+	<p><input type="radio" name="q181" value="0">D.-</p>
+</div>
+<div class="question">
+	<p>182. GPRS uses which unused channels for transportation of Data in general?</p>
+	<p><input type="radio" name="q182" value="0">A.SDCCH</p>
+	<p><input type="radio" name="q182" value="0">B.BCCH</p>
+	<p><input type="radio" name="q182" value="1">C.TCH</p>
+	<p><input type="radio" name="q182" value="0">D.SCH</p>
+</div>
+<div class="question">
+	<p>183. Type-A Mobile Station supports ________.</p>
+	<p><input type="radio" name="q183" value="0">A.Only Speech</p>
+	<p><input type="radio" name="q183" value="0">B.Only Data</p>
+	<p><input type="radio" name="q183" value="1">C.Speech and Data Simultaneously</p>
+	<p><input type="radio" name="q183" value="0">D.Speech or Data one at a time.</p>
+</div>
+<div class="question">
+	<p>184. Type-B Mobile Station supports _______.</p>
+	<p><input type="radio" name="q184" value="0">A.Speech only</p>
+	<p><input type="radio" name="q184" value="0">B.GPRS only</p>
+	<p><input type="radio" name="q184" value="1">C.GPRS or Speech One at a time</p>
+	<p><input type="radio" name="q184" value="0">D.GPRS and Speech simultaneously</p>
+</div>
+<div class="question">
+	<p>185. Type-C Mobile Station supports _______.</p>
+	<p><input type="radio" name="q185" value="0">A.Speech only</p>
+	<p><input type="radio" name="q185" value="1">B.Data only</p>
+	<p><input type="radio" name="q185" value="0">C.Speech and Data simultaneously</p>
+	<p><input type="radio" name="q185" value="0">D.Speech or Data automatically</p>
+</div>
+<div class="question">
+	<p>186. What is the abbreviation of EDGE?</p>
+	<p><input type="radio" name="q186" value="0">A.Enhanced Digital Generation Gap</p>
+	<p><input type="radio" name="q186" value="1">B.Enhanced Data rate for GSM Evolution</p>
+	<p><input type="radio" name="q186" value="0">C.Encryption Data rate for GSM Evolution</p>
+	<p><input type="radio" name="q186" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>187. What is the maximum speed offered by an EDGE connection?</p>
+	<p><input type="radio" name="q187" value="0">A.64kbps</p>
+	<p><input type="radio" name="q187" value="0">B.128kbps</p>
+	<p><input type="radio" name="q187" value="0">C.256kbps</p>
+	<p><input type="radio" name="q187" value="1">D.236 kbps</p>
+</div>
+<div class="question">
+	<p>188. An EDGE connection is ______?</p>
+	<p><input type="radio" name="q188" value="0">A.CS data</p>
+	<p><input type="radio" name="q188" value="0">B.PS data</p>
+	<p><input type="radio" name="q188" value="1">C.CS and PS data</p>
+	<p><input type="radio" name="q188" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>189. A PCU separates Packet  Switched and Circuit Switched traffic and passes PSD to _______?</p>
+	<p><input type="radio" name="q189" value="0">A.MSS</p>
+	<p><input type="radio" name="q189" value="1">B.SGSN</p>
+	<p><input type="radio" name="q189" value="0">C.GGSN</p>
+	<p><input type="radio" name="q189" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>190. In a GPRS network, SGSN is the equivalent of ______ system in GSM.</p>
+	<p><input type="radio" name="q190" value="0">A.BSC</p>
+	<p><input type="radio" name="q190" value="1">B.MSC</p>
+	<p><input type="radio" name="q190" value="0">C.VLR</p>
+	<p><input type="radio" name="q190" value="0">D.GMSC</p>
+</div>
+<div class="question">
+	<p>191. What are the functions of a CCU?</p>
+	<p><input type="radio" name="q191" value="0">A.Power Control</p>
+	<p><input type="radio" name="q191" value="0">B.Timing Advance</p>
+	<p><input type="radio" name="q191" value="0">C.Coding algorithms</p>
+	<p><input type="radio" name="q191" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>192. GPRS Roaming from one SGSN to another SGSN is offered by ?</p>
+	<p><input type="radio" name="q192" value="0">A.GMSC</p>
+	<p><input type="radio" name="q192" value="1">B.GGSN</p>
+	<p><input type="radio" name="q192" value="0">C.HLR</p>
+	<p><input type="radio" name="q192" value="0">D.VLR</p>
+</div>
+<div class="question">
+	<p>193. Which is the system in GPRS that connects to External Networks using GTP?</p>
+	<p><input type="radio" name="q193" value="0">A.SGSN</p>
+	<p><input type="radio" name="q193" value="0">B.HLR</p>
+	<p><input type="radio" name="q193" value="1">C.GGSN</p>
+	<p><input type="radio" name="q193" value="0">D.GMSC</p>
+</div>
+<div class="question">
+	<p>194. What are the functions of SGSN in a GPRS Architecture?</p>
+	<p><input type="radio" name="q194" value="0">A.Authentication, Authorization, Ciphering</p>
+	<p><input type="radio" name="q194" value="0">B.GTP tunneling to GGSN, Charging (Billing), Session management</p>
+	<p><input type="radio" name="q194" value="0">C.Mobility manage, interaction with HLR, MSC/VLR, NMS interface</p>
+	<p><input type="radio" name="q194" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>195. What are the functions of GGSN of a GPRS network?</p>
+	<p><input type="radio" name="q195" value="0">A.Charging (Billing), Filter user traffic</p>
+	<p><input type="radio" name="q195" value="0">B.Routing mobile originated traffic, GTP Tunneling to SGSN</p>
+	<p><input type="radio" name="q195" value="0">C.Interface external networks</p>
+	<p><input type="radio" name="q195" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>196. A DNS (Domain Name Server</p>
+	<p><input type="radio" name="q196" value="0">A.Packets</p>
+	<p><input type="radio" name="q196" value="0">B.Bytes</p>
+	<p><input type="radio" name="q196" value="1">C.IP address</p>
+	<p><input type="radio" name="q196" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>197. A BG(Border Gateway</p>
+	<p><input type="radio" name="q197" value="0">A.Same operator's GPRS network</p>
+	<p><input type="radio" name="q197" value="1">B.Different operator's GPRS network</p>
+	<p><input type="radio" name="q197" value="0">C.Same or different operator GPRS N/W</p>
+	<p><input type="radio" name="q197" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>198. Which system in a GPRS architecture collects all Charging (Billing</p>
+	<p><input type="radio" name="q198" value="0">A.SGSN</p>
+	<p><input type="radio" name="q198" value="0">B.GGSN</p>
+	<p><input type="radio" name="q198" value="1">C.CH (Charging Gateway)</p>
+	<p><input type="radio" name="q198" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>199. A GPRS network contains Firewalls to _______?</p>
+	<p><input type="radio" name="q199" value="0">A.Hack phones</p>
+	<p><input type="radio" name="q199" value="0">B.Intercept phones</p>
+	<p><input type="radio" name="q199" value="1">C.Protection from Virus</p>
+	<p><input type="radio" name="q199" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>200. An LIG(Legal Interception Gateway</p>
+	<p><input type="radio" name="q200" value="0">A.Parallel access to law agencies</p>
+	<p><input type="radio" name="q200" value="0">B.Eavesdrop user sessions</p>
+	<p><input type="radio" name="q200" value="0">C.Sample packets to get information</p>
+	<p><input type="radio" name="q200" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>201. A GPRS Network is a part of ____ in GSM network.</p>
+	<p><input type="radio" name="q201" value="0">A.BTS</p>
+	<p><input type="radio" name="q201" value="0">B.BSS</p>
+	<p><input type="radio" name="q201" value="1">C.NSS</p>
+	<p><input type="radio" name="q201" value="0">D.VLR</p>
+</div>
+<div class="question">
+	<p>202. Which is the organization providing standards for GPRS network?</p>
+	<p><input type="radio" name="q202" value="0">A.ANSI</p>
+	<p><input type="radio" name="q202" value="0">B.ETSI</p>
+	<p><input type="radio" name="q202" value="1">C.3GPP</p>
+	<p><input type="radio" name="q202" value="0">D.UMTS</p>
+</div>
+<div class="question">
+	<p>203. Which is the main protocol that transfers packets in a GPRS Core network?</p>
+	<p><input type="radio" name="q203" value="1">A.GTP</p>
+	<p><input type="radio" name="q203" value="0">B.SSTP</p>
+	<p><input type="radio" name="q203" value="0">C.SCTP</p>
+	<p><input type="radio" name="q203" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>204. A GPRS Network works same in _____.</p>
+	<p><input type="radio" name="q204" value="0">A.2G</p>
+	<p><input type="radio" name="q204" value="0">B.3G</p>
+	<p><input type="radio" name="q204" value="1">C.2G and /or 3G</p>
+	<p><input type="radio" name="q204" value="0">D.4G</p>
+</div>
+<div class="question">
+	<p>205. What is the interface between BSC and SGSN in a GPRS Network Structure?</p>
+	<p><input type="radio" name="q205" value="0">A.Ga</p>
+	<p><input type="radio" name="q205" value="1">B.Gb</p>
+	<p><input type="radio" name="q205" value="0">C.Gc</p>
+	<p><input type="radio" name="q205" value="0">D.Gd</p>
+</div>
+<div class="question">
+	<p>206. What is the interface betalen SGSN and GGSN in a GPRS network?</p>
+	<p><input type="radio" name="q206" value="0">A.Gs</p>
+	<p><input type="radio" name="q206" value="1">B.Gn</p>
+	<p><input type="radio" name="q206" value="0">C.Ga</p>
+	<p><input type="radio" name="q206" value="0">D.Gb</p>
+</div>
+<div class="question">
+	<p>207. What is the interface between GGSN and Inter-PLMN GPRS network?</p>
+	<p><input type="radio" name="q207" value="0">A.Ga</p>
+	<p><input type="radio" name="q207" value="0">B.Gs</p>
+	<p><input type="radio" name="q207" value="0">C.Gi</p>
+	<p><input type="radio" name="q207" value="1">D.Gp</p>
+</div>
+<div class="question">
+	<p>208. What is the interface between GGSN and External Packet Network( Internet </p>
+	<p><input type="radio" name="q208" value="0">A.Gs</p>
+	<p><input type="radio" name="q208" value="0">B.Gn</p>
+	<p><input type="radio" name="q208" value="1">C.Gi</p>
+	<p><input type="radio" name="q208" value="0">D.Gp</p>
+</div>
+<div class="question">
+	<p>209. What is the interface between SGSN and MSC/VLR in a GPRS network?</p>
+	<p><input type="radio" name="q209" value="1">A.Gs</p>
+	<p><input type="radio" name="q209" value="0">B.Gn</p>
+	<p><input type="radio" name="q209" value="0">C.Ga</p>
+	<p><input type="radio" name="q209" value="0">D.Gb</p>
+</div>
+<div class="question">
+	<p>210. What is the interface between SGSN and HLR in a GPRS network structure?</p>
+	<p><input type="radio" name="q210" value="0">A.Gs</p>
+	<p><input type="radio" name="q210" value="0">B.Gn</p>
+	<p><input type="radio" name="q210" value="1">C.Gr</p>
+	<p><input type="radio" name="q210" value="0">D.Gf</p>
+</div>
+<div class="question">
+	<p>211. What is the interface between SGSN and EIR in a GPRS network?</p>
+	<p><input type="radio" name="q211" value="0">A.Gr</p>
+	<p><input type="radio" name="q211" value="1">B.Gf</p>
+	<p><input type="radio" name="q211" value="0">C.Gd</p>
+	<p><input type="radio" name="q211" value="0">D.Ga</p>
+</div>
+<div class="question">
+	<p>212. What is the interface between SGSN and SMS-GMSC in a GPRS network?</p>
+	<p><input type="radio" name="q212" value="0">A.Gf</p>
+	<p><input type="radio" name="q212" value="0">B.Gr</p>
+	<p><input type="radio" name="q212" value="1">C.Gd</p>
+	<p><input type="radio" name="q212" value="0">D.Gs</p>
+</div>
+<div class="question">
+	<p>213. What is the interface between a Mobile Station and a BTS in a GPRS network?</p>
+	<p><input type="radio" name="q213" value="0">A.Ui</p>
+	<p><input type="radio" name="q213" value="1">B.Um</p>
+	<p><input type="radio" name="q213" value="0">C.Uu</p>
+	<p><input type="radio" name="q213" value="0">D.Uk</p>
+</div>
+<div class="question">
+	<p>214. What is the interface between CG(Charging Gateway</p>
+	<p><input type="radio" name="q214" value="1">A.Ga</p>
+	<p><input type="radio" name="q214" value="0">B.Gb</p>
+	<p><input type="radio" name="q214" value="0">C.Gc</p>
+	<p><input type="radio" name="q214" value="0">D.Gd</p>
+</div>
+<div class="question">
+	<p>215. What is the interface between GGSN and HLR in a GPRS network?</p>
+	<p><input type="radio" name="q215" value="0">A.Ga</p>
+	<p><input type="radio" name="q215" value="0">B.Gb</p>
+	<p><input type="radio" name="q215" value="1">C.Gc</p>
+	<p><input type="radio" name="q215" value="0">D.Gd</p>
+</div>
+<div class="question">
+	<p>216. The Gb interface in a GRPS network uses which protocol?</p>
+	<p><input type="radio" name="q216" value="0">A.Frame Relay</p>
+	<p><input type="radio" name="q216" value="0">B.IP</p>
+	<p><input type="radio" name="q216" value="1">C.Frame Realy or IP protocol</p>
+	<p><input type="radio" name="q216" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>217. The Gd interface in a GPRS network uses which protocol?</p>
+	<p><input type="radio" name="q217" value="0">A.MAP 1 (MAP- Message Application Protocol)</p>
+	<p><input type="radio" name="q217" value="0">B.MAP 2</p>
+	<p><input type="radio" name="q217" value="0">C.MAP 3</p>
+	<p><input type="radio" name="q217" value="1">D.All MAP1, MAP2 and MAP3</p>
+</div>
+<div class="question">
+	<p>218. The Ge interface between SGSN and Service Control Point(SCP</p>
+	<p><input type="radio" name="q218" value="0">A.MAP 1</p>
+	<p><input type="radio" name="q218" value="0">B.IP</p>
+	<p><input type="radio" name="q218" value="1">C.CAP (Camel Application Protocol)</p>
+	<p><input type="radio" name="q218" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>219. The Gr interface in a GRPS network uses which protocol?</p>
+	<p><input type="radio" name="q219" value="0">A.MAP1</p>
+	<p><input type="radio" name="q219" value="0">B.MAP2</p>
+	<p><input type="radio" name="q219" value="1">C.MAP3</p>
+	<p><input type="radio" name="q219" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>220. The Ga interface in a GRPS network uses which protocol?</p>
+	<p><input type="radio" name="q220" value="0">A.MAP</p>
+	<p><input type="radio" name="q220" value="0">B.CAP</p>
+	<p><input type="radio" name="q220" value="0">C.Frame Relay</p>
+	<p><input type="radio" name="q220" value="1">D.GTP (GPRS Tunneling Protocol)</p>
+</div>
+<div class="question">
+	<p>221. What is the minimum data speed offered by 3G mobile technology for a Stationary user?</p>
+	<p><input type="radio" name="q221" value="0">A.128kbps</p>
+	<p><input type="radio" name="q221" value="0">B.384 kbps</p>
+	<p><input type="radio" name="q221" value="1">C.2 mbps</p>
+	<p><input type="radio" name="q221" value="0">D.8 mbps</p>
+</div>
+<div class="question">
+	<p>222. What is the minimum data speed offered by 3G mobile technology to a Slow Moving user?</p>
+	<p><input type="radio" name="q222" value="0">A.128 kbps</p>
+	<p><input type="radio" name="q222" value="1">B.384 kbps</p>
+	<p><input type="radio" name="q222" value="0">C.2 mbps</p>
+	<p><input type="radio" name="q222" value="0">D.8Mbps</p>
+</div>
+<div class="question">
+	<p>223. What is the minimum speed offered by 3G mobile technology to a Fast moving user?</p>
+	<p><input type="radio" name="q223" value="1">A.128 Kbps</p>
+	<p><input type="radio" name="q223" value="0">B.384 Kbps</p>
+	<p><input type="radio" name="q223" value="0">C.2 Mbps</p>
+	<p><input type="radio" name="q223" value="0">D.8 Mbps</p>
+</div>
+<div class="question">
+	<p>224. WCDMA stands for?</p>
+	<p><input type="radio" name="q224" value="0">A.Wide array CDMA</p>
+	<p><input type="radio" name="q224" value="1">B.Wide band CDMA</p>
+	<p><input type="radio" name="q224" value="0">C.Wireless CDMA</p>
+	<p><input type="radio" name="q224" value="0">D.Wifi CDMA</p>
+</div>
+<div class="question">
+	<p>225. What is the Multiple Access technique used in a 3G mobile network.</p>
+	<p><input type="radio" name="q225" value="0">A.Time Division</p>
+	<p><input type="radio" name="q225" value="0">B.Frequency Division</p>
+	<p><input type="radio" name="q225" value="1">C.Code Division</p>
+	<p><input type="radio" name="q225" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>226. SIM in a 3G network is called _____?</p>
+	<p><input type="radio" name="q226" value="0">A.Micro SIM</p>
+	<p><input type="radio" name="q226" value="0">B.Nano SIM</p>
+	<p><input type="radio" name="q226" value="1">C.USIM</p>
+	<p><input type="radio" name="q226" value="0">D.RSIM</p>
+</div>
+<div class="question">
+	<p>227. What are the parts of a 3G network architecture?</p>
+	<p><input type="radio" name="q227" value="0">A.User Equipment (UE)</p>
+	<p><input type="radio" name="q227" value="0">B.Radio Access Network (RAN)</p>
+	<p><input type="radio" name="q227" value="0">C.Core Network</p>
+	<p><input type="radio" name="q227" value="1">D.All the above. UE, RAN and Core network.</p>
+</div>
+<div class="question">
+	<p>228. What is the name of a BTS in a 3G mobile network?</p>
+	<p><input type="radio" name="q228" value="0">A.Structure</p>
+	<p><input type="radio" name="q228" value="1">B.Node-B</p>
+	<p><input type="radio" name="q228" value="0">C.Node-N</p>
+	<p><input type="radio" name="q228" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>229. What is the name of BSC equivalent part in a 3G mobile network?</p>
+	<p><input type="radio" name="q229" value="0">A.Controller</p>
+	<p><input type="radio" name="q229" value="0">B.Radio Switch Controller</p>
+	<p><input type="radio" name="q229" value="1">C.Radio Network Controller</p>
+	<p><input type="radio" name="q229" value="0">D.Radio Command Center</p>
+</div>
+<div class="question">
+	<p>230. What is the equivalent interface Um(Air interface</p>
+	<p><input type="radio" name="q230" value="0">A.Un</p>
+	<p><input type="radio" name="q230" value="0">B.Us</p>
+	<p><input type="radio" name="q230" value="1">C.Uu</p>
+	<p><input type="radio" name="q230" value="0">D.Uc</p>
+</div>
+<div class="question">
+	<p>231. What is the interface between USIM and ME(Mobile Equipment</p>
+	<p><input type="radio" name="q231" value="0">A.Cm</p>
+	<p><input type="radio" name="q231" value="0">B.Cn</p>
+	<p><input type="radio" name="q231" value="1">C.Cu</p>
+	<p><input type="radio" name="q231" value="0">D.Cc</p>
+</div>
+<div class="question">
+	<p>232. What is the interface between NodeB and RNC in a WCDMA network?</p>
+	<p><input type="radio" name="q232" value="1">A.Lub</p>
+	<p><input type="radio" name="q232" value="0">B.Luc</p>
+	<p><input type="radio" name="q232" value="0">C.Lud</p>
+	<p><input type="radio" name="q232" value="0">D.Lue</p>
+</div>
+<div class="question">
+	<p>233. What is the interface between RNC and MGW (Media Gateway</p>
+	<p><input type="radio" name="q233" value="0">A.Lc</p>
+	<p><input type="radio" name="q233" value="0">B.Ln</p>
+	<p><input type="radio" name="q233" value="1">C.Lu</p>
+	<p><input type="radio" name="q233" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>234. What is the interface between RNC and SGSN?</p>
+	<p><input type="radio" name="q234" value="1">A.Lu</p>
+	<p><input type="radio" name="q234" value="0">B.Lc</p>
+	<p><input type="radio" name="q234" value="0">C.Lm</p>
+	<p><input type="radio" name="q234" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>235. What is the interface between MGW and EIR?</p>
+	<p><input type="radio" name="q235" value="0">A.A interface</p>
+	<p><input type="radio" name="q235" value="1">B.F interface</p>
+	<p><input type="radio" name="q235" value="0">C.B interface</p>
+	<p><input type="radio" name="q235" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>236. What is the interface between MGW and HLR?</p>
+	<p><input type="radio" name="q236" value="0">A.A interface</p>
+	<p><input type="radio" name="q236" value="0">B.B interface</p>
+	<p><input type="radio" name="q236" value="1">C.D interface</p>
+	<p><input type="radio" name="q236" value="0">D.F interface</p>
+</div>
+<div class="question">
+	<p>237. A UMTS(Universal Mobile Telecommunication</p>
+	<p><input type="radio" name="q237" value="0">A.First Generation</p>
+	<p><input type="radio" name="q237" value="0">B.Second Generation</p>
+	<p><input type="radio" name="q237" value="1">C.Third Generation</p>
+	<p><input type="radio" name="q237" value="0">D.Fourth Generation</p>
+</div>
+<div class="question">
+	<p>238. Who developed standards for a UMTS network?</p>
+	<p><input type="radio" name="q238" value="0">A.ANSI (American National Standards Institute)</p>
+	<p><input type="radio" name="q238" value="1">B.3GPP (3rd Generation Partnership Project)</p>
+	<p><input type="radio" name="q238" value="0">C.ITU (International Telecommunication Union)</p>
+	<p><input type="radio" name="q238" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>239. What is the maximum data rate supported by a 3G network or UMTS network?</p>
+	<p><input type="radio" name="q239" value="0">A.384 kbps</p>
+	<p><input type="radio" name="q239" value="0">B.2 Mbps</p>
+	<p><input type="radio" name="q239" value="0">C.32 Mbps</p>
+	<p><input type="radio" name="q239" value="1">D.42 Mbps</p>
+</div>
+<div class="question">
+	<p>240. CDMA2000 technology is also a ___ network.</p>
+	<p><input type="radio" name="q240" value="0">A.2G</p>
+	<p><input type="radio" name="q240" value="1">B.3G</p>
+	<p><input type="radio" name="q240" value="0">C.4G</p>
+	<p><input type="radio" name="q240" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>241. Find differences between CDMA2000 and WCDMA technologies in a 3G network.</p>
+	<p><input type="radio" name="q241" value="0">A.CDMA2000 - Follows 3GPP2 standards.
+WCDMA - Follows 3GPP standards.</p>
+	<p><input type="radio" name="q241" value="0">B.CDMA2000 offered less 3G speed. WCDMA offered more 3G speeds.</p>
+	<p><input type="radio" name="q241" value="0">C.CDMA2000 uses only Code Division. WCDMA uses Code Division along with FDD(Frequency Division Duplexing)</p>
+	<p><input type="radio" name="q241" value="1">D.All the above.</p>
+</div>
+<div class="question">
+	<p>242. What is the modulation technique used by WCDMA technology?</p>
+	<p><input type="radio" name="q242" value="0">A.Amplitude Modulation</p>
+	<p><input type="radio" name="q242" value="0">B.Separate Spectrum Modulation</p>
+	<p><input type="radio" name="q242" value="0">C.Spread Spectrum Modulation</p>
+	<p><input type="radio" name="q242" value="1">D.None</p>
+</div>
+<div class="question">
+	<p>243. As part of Closed Loop Power Control followed by a WCDMA network, power control bits are sent every ___ milliseconds to the User Equipment (Phones</p>
+	<p><input type="radio" name="q243" value="0">A.0.1 ms</p>
+	<p><input type="radio" name="q243" value="0">B.0.66 ms</p>
+	<p><input type="radio" name="q243" value="1">C.1.5 ms</p>
+	<p><input type="radio" name="q243" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>244. State TRUE or FALSE. Closed-Loop Power Control is efficient than Open Loop Power Control.</p>
+	<p><input type="radio" name="q244" value="0">A.FALSE</p>
+	<p><input type="radio" name="q244" value="1">B.TRUE</p>
+	<p><input type="radio" name="q244" value="0">C.-</p>
+	<p><input type="radio" name="q244" value="0">D.-</p>
+</div>
+<div class="question">
+	<p>245. If a 3G tower has 3 antennae, what is the total number of pilot frequencies under the tower?</p>
+	<p><input type="radio" name="q245" value="1">A.1</p>
+	<p><input type="radio" name="q245" value="0">B.3</p>
+	<p><input type="radio" name="q245" value="0">C.6</p>
+	<p><input type="radio" name="q245" value="0">D.8</p>
+</div>
+<div class="question">
+	<p>246. What is the name of the Receiver that can decode signals travelled in different paths (Multipath</p>
+	<p><input type="radio" name="q246" value="0">A.Multipath Receiver</p>
+	<p><input type="radio" name="q246" value="0">B.Frame Receiver</p>
+	<p><input type="radio" name="q246" value="1">C.Rake Receiver</p>
+	<p><input type="radio" name="q246" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>247. What type handovers are possible when moving from one Cell to other Cell ?</p>
+	<p><input type="radio" name="q247" value="0">A.Hard Handover</p>
+	<p><input type="radio" name="q247" value="1">B.Soft Handover</p>
+	<p><input type="radio" name="q247" value="0">C.Hybrid Handover</p>
+	<p><input type="radio" name="q247" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>248. Which is the technology used by WCDMA to transfer data packets in its RAN network (Air Interface + NodeB</p>
+	<p><input type="radio" name="q248" value="0">A.IP</p>
+	<p><input type="radio" name="q248" value="0">B.Frame Relay</p>
+	<p><input type="radio" name="q248" value="1">C.ATM (Asynchronous Transfer Mode)</p>
+	<p><input type="radio" name="q248" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>249. State TRUE or FALSE. ATM cells have a fixed size.</p>
+	<p><input type="radio" name="q249" value="0">A.FALSE</p>
+	<p><input type="radio" name="q249" value="1">B.TRUE</p>
+	<p><input type="radio" name="q249" value="0">C.-</p>
+	<p><input type="radio" name="q249" value="0">D.-</p>
+</div>
+<div class="question">
+	<p>250. Choose the correct statement about ATM technology.</p>
+	<p><input type="radio" name="q250" value="0">A.ATM technology offers Qos(Quality of Service)</p>
+	<p><input type="radio" name="q250" value="0">B.ATM offers variable bit rates.</p>
+	<p><input type="radio" name="q250" value="0">C.ATM is compatible with old and existing technologies.</p>
+	<p><input type="radio" name="q250" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>251. State TRUE of FALSE. UMTS technology can be used in Satellite phones.</p>
+	<p><input type="radio" name="q251" value="0">A.FALSE</p>
+	<p><input type="radio" name="q251" value="1">B.TRUE</p>
+	<p><input type="radio" name="q251" value="0">C.-</p>
+	<p><input type="radio" name="q251" value="0">D.-</p>
+</div>
+<div class="question">
+	<p>252. What the elements introduced commonly in R99, R00(R4 and R5</p>
+	<p><input type="radio" name="q252" value="0">A.BSS Elements like BSC, BTS</p>
+	<p><input type="radio" name="q252" value="0">B.UTRAN elements like RNC, Node B</p>
+	<p><input type="radio" name="q252" value="0">C.Packet Switching Core Network elements like SGSN, GGSN and BG(Border Gateway)</p>
+	<p><input type="radio" name="q252" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>253. What are the network elements introduced in R99 3GPP release?</p>
+	<p><input type="radio" name="q253" value="0">A.HLR, VLR</p>
+	<p><input type="radio" name="q253" value="0">B.AuC, EIR</p>
+	<p><input type="radio" name="q253" value="0">C.SMS MSC</p>
+	<p><input type="radio" name="q253" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>254. What are the network elements introduced in R00(R4 + R5</p>
+	<p><input type="radio" name="q254" value="0">A.MSC Server</p>
+	<p><input type="radio" name="q254" value="0">B.GMSC Server</p>
+	<p><input type="radio" name="q254" value="0">C.MGW</p>
+	<p><input type="radio" name="q254" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>255. What are the network elements introduced in R5-3GPP release?</p>
+	<p><input type="radio" name="q255" value="0">A.HSS (Home Subscriber Server)</p>
+	<p><input type="radio" name="q255" value="0">B.Internet Protocol Multimedia (IM) subsystem</p>
+	<p><input type="radio" name="q255" value="1">C.Both A and B</p>
+	<p><input type="radio" name="q255" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>256. The IFW (Interworking Function</p>
+	<p><input type="radio" name="q256" value="0">A.ISDN (data)</p>
+	<p><input type="radio" name="q256" value="0">B.PSTN (Landline)</p>
+	<p><input type="radio" name="q256" value="0">C.PDN (data)</p>
+	<p><input type="radio" name="q256" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>257. Choose the correct Abbreviations below.</p>
+	<p><input type="radio" name="q257" value="0">A.PSCN (Packet Switched Core Network)</p>
+	<p><input type="radio" name="q257" value="0">B.CSCN (Circuit Switched Core Network)</p>
+	<p><input type="radio" name="q257" value="0">C.UTRAN (Universal Terrestrial Radio Access Network)</p>
+	<p><input type="radio" name="q257" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>258. The R4 release of 3GPP network employs ____ architecture.</p>
+	<p><input type="radio" name="q258" value="0">A.GPRS</p>
+	<p><input type="radio" name="q258" value="1">B.NGN (Next Generation Network)</p>
+	<p><input type="radio" name="q258" value="0">C.SGN (Super Generation Network)</p>
+	<p><input type="radio" name="q258" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>259. The R5-3GPP release employs ___ core network.</p>
+	<p><input type="radio" name="q259" value="0">A.IP and Circuit Switched Data</p>
+	<p><input type="radio" name="q259" value="1">B.All IP Core network</p>
+	<p><input type="radio" name="q259" value="0">C.All Circuit Switched Network</p>
+	<p><input type="radio" name="q259" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>260. Choose the correct abbreviations about 3G technology terms below.</p>
+	<p><input type="radio" name="q260" value="0">A.HSPA = High-Speed Packet Access</p>
+	<p><input type="radio" name="q260" value="0">B.HSDPA = High-Speed Downlink Packet Access</p>
+	<p><input type="radio" name="q260" value="0">C.HSUPA = High-Speed Uplink Packet Access</p>
+	<p><input type="radio" name="q260" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>261. What are the other names of an HSDPA (High-Speed Downlink Packet Access</p>
+	<p><input type="radio" name="q261" value="0">A.3.5G</p>
+	<p><input type="radio" name="q261" value="0">B.3G+</p>
+	<p><input type="radio" name="q261" value="0">C.Turbo 3G</p>
+	<p><input type="radio" name="q261" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>262. What are the data speeds offered by an HSDPA enabled 3G network?</p>
+	<p><input type="radio" name="q262" value="0">A.3.6 Mbps</p>
+	<p><input type="radio" name="q262" value="0">B.7.2 Mbps, 14 Mbps</p>
+	<p><input type="radio" name="q262" value="0">C.21 Mbps, 28 Mbps</p>
+	<p><input type="radio" name="q262" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>263. What is the maximum unlink data rate achieved by an HSUPA (High-Speed Uplink Packet Access</p>
+	<p><input type="radio" name="q263" value="0">A.2 Mbps</p>
+	<p><input type="radio" name="q263" value="0">B.3.6 Mbps</p>
+	<p><input type="radio" name="q263" value="1">C.5.76 Mbps</p>
+	<p><input type="radio" name="q263" value="0">D.8 Mbps</p>
+</div>
+<div class="question">
+	<p>264. What is the network symbol displayed next to Signal in a 3G network?</p>
+	<p><input type="radio" name="q264" value="0">A.H</p>
+	<p><input type="radio" name="q264" value="0">B.H+</p>
+	<p><input type="radio" name="q264" value="0">C.3G</p>
+	<p><input type="radio" name="q264" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>265. Evolved High-Speed Packet Access (HSPA+</p>
+	<p><input type="radio" name="q265" value="0">A.128 Mbps / 32 Mbps [Downlink / Uplink]</p>
+	<p><input type="radio" name="q265" value="0">B.256 Mbps / 8 Mbps</p>
+	<p><input type="radio" name="q265" value="1">C.337 Mbps / 34 Mbps</p>
+	<p><input type="radio" name="q265" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>266. Which is the digital modulation technique used in a 3G/WCDMA network?</p>
+	<p><input type="radio" name="q266" value="0">A.QPSK</p>
+	<p><input type="radio" name="q266" value="0">B.QAM</p>
+	<p><input type="radio" name="q266" value="1">C.Any of QPSK and QAM</p>
+	<p><input type="radio" name="q266" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>267. 3G networks with TD-SCDMA technology are deployed mainly in ___ country.</p>
+	<p><input type="radio" name="q267" value="0">A.Russia</p>
+	<p><input type="radio" name="q267" value="1">B.China</p>
+	<p><input type="radio" name="q267" value="0">C.Finland</p>
+	<p><input type="radio" name="q267" value="0">D.USA</p>
+</div>
+<div class="question">
+	<p>268. Which is the 3G technology suitable for Macro Cells (Big cells</p>
+	<p><input type="radio" name="q268" value="1">A.WCDMA</p>
+	<p><input type="radio" name="q268" value="0">B.TD-CDMA</p>
+	<p><input type="radio" name="q268" value="0">C.TD-SCDMA</p>
+	<p><input type="radio" name="q268" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>269. Which is the 3G technology suitable for densely populated city areas with Micro and Pico Cells?</p>
+	<p><input type="radio" name="q269" value="0">A.WCDMA</p>
+	<p><input type="radio" name="q269" value="1">B.TD-CDMA</p>
+	<p><input type="radio" name="q269" value="0">C.TD-SCDMA</p>
+	<p><input type="radio" name="q269" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>270. Which is the 3G technology suited for Macro and Micro Cell areas?</p>
+	<p><input type="radio" name="q270" value="0">A.WCDMA</p>
+	<p><input type="radio" name="q270" value="0">B.TD-CDMA</p>
+	<p><input type="radio" name="q270" value="1">C.TD-SCDMA</p>
+	<p><input type="radio" name="q270" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>271. What are the advantages of a TD-SCDMA enabled 3G network?</p>
+	<p><input type="radio" name="q271" value="0">A.Variable number of downlink and uplink channels with flexibility for support uneven traffic</p>
+	<p><input type="radio" name="q271" value="0">B.Any spectrum (Spread Spectrum) can be used.</p>
+	<p><input type="radio" name="q271" value="0">C.Sudden traffics can be augmented easily.</p>
+	<p><input type="radio" name="q271" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>272. Choose a frequency band to deploy a UMTS or 3G network.</p>
+	<p><input type="radio" name="q272" value="0">A.2100 Mhz = 1920-1980, 2210-2170</p>
+	<p><input type="radio" name="q272" value="0">B.1900 MHz = 1850-1910, 1930-1990</p>
+	<p><input type="radio" name="q272" value="0">C.1800 MHz = 1710-1785, 1805-1880</p>
+	<p><input type="radio" name="q272" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>273. Choose a frequency band to deploy a UMTS or 3G network.</p>
+	<p><input type="radio" name="q273" value="0">A.1700 Mhz = 1710-1755, 2110-2155</p>
+	<p><input type="radio" name="q273" value="0">B.850 Mhz = 824-845, 869-894</p>
+	<p><input type="radio" name="q273" value="0">C.800 Mhz = 830-840, 875-885</p>
+	<p><input type="radio" name="q273" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>274. CDMA is a ___ generation technology.</p>
+	<p><input type="radio" name="q274" value="0">A.1st generation</p>
+	<p><input type="radio" name="q274" value="1">B.2nd generation</p>
+	<p><input type="radio" name="q274" value="0">C.3rd generation</p>
+	<p><input type="radio" name="q274" value="0">D.4th generation</p>
+</div>
+<div class="question">
+	<p>275. What is the abbreviation of CDMA?</p>
+	<p><input type="radio" name="q275" value="0">A.Code Digital Multiple Access</p>
+	<p><input type="radio" name="q275" value="0">B.Code Duplex Multiple Access</p>
+	<p><input type="radio" name="q275" value="1">C.Code Division Multiple Access</p>
+	<p><input type="radio" name="q275" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>276. 2G CDMA is also called?</p>
+	<p><input type="radio" name="q276" value="0">A.IS-95</p>
+	<p><input type="radio" name="q276" value="0">B.CDMAOne</p>
+	<p><input type="radio" name="q276" value="0">C.1st Generation CDMA</p>
+	<p><input type="radio" name="q276" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>277. A CDMA2000 is a ____ generation network.</p>
+	<p><input type="radio" name="q277" value="0">A.First Generation</p>
+	<p><input type="radio" name="q277" value="0">B.Second Generation</p>
+	<p><input type="radio" name="q277" value="1">C.Third Generation</p>
+	<p><input type="radio" name="q277" value="0">D.Fourth Generation</p>
+</div>
+<div class="question">
+	<p>278. CDMA2000 uses ___ radio system.</p>
+	<p><input type="radio" name="q278" value="0">A.Analog</p>
+	<p><input type="radio" name="q278" value="1">B.Digital</p>
+	<p><input type="radio" name="q278" value="0">C.Analog and Digital</p>
+	<p><input type="radio" name="q278" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>279. What is another name for a CDMA2000 network?</p>
+	<p><input type="radio" name="q279" value="0">A.IS-2000</p>
+	<p><input type="radio" name="q279" value="0">B.C2K</p>
+	<p><input type="radio" name="q279" value="0">C.IMT Multi-Carrier (IMT-MC)</p>
+	<p><input type="radio" name="q279" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>280. Who developed standards for a CDMA2000 3G network system?</p>
+	<p><input type="radio" name="q280" value="0">A.ANSI (Americal National Standards Institute)</p>
+	<p><input type="radio" name="q280" value="0">B.3GPP (Third Generation Partnership Projects)</p>
+	<p><input type="radio" name="q280" value="1">C.3GPP-2</p>
+	<p><input type="radio" name="q280" value="0">D.GSM</p>
+</div>
+<div class="question">
+	<p>281. What are the Evolution stages or versions of a CDMA2000 3G network?</p>
+	<p><input type="radio" name="q281" value="0">A.CDMA2000 1xRTT</p>
+	<p><input type="radio" name="q281" value="0">B.CDMA2000 1x Advanced</p>
+	<p><input type="radio" name="q281" value="0">C.CDMA2000 1xEV-DO</p>
+	<p><input type="radio" name="q281" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>282. The voice capacity of a CDMA2000 1xRTT over CDMAOne is ____.</p>
+	<p><input type="radio" name="q282" value="0">A.The same</p>
+	<p><input type="radio" name="q282" value="1">B.2 times more</p>
+	<p><input type="radio" name="q282" value="0">C.4 times more</p>
+	<p><input type="radio" name="q282" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>283. What are the advancements in the CDMA2000 over CDMAOne technology?</p>
+	<p><input type="radio" name="q283" value="0">A.More Battery Life</p>
+	<p><input type="radio" name="q283" value="0">B.Frequency Band Flexibility</p>
+	<p><input type="radio" name="q283" value="0">C.Higher Capacity for Voice and Data</p>
+	<p><input type="radio" name="q283" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>284. State TRUE or FALSE. An IS-95 compatible Handset works in IS-2000(CDMA2000</p>
+	<p><input type="radio" name="q284" value="0">A.False</p>
+	<p><input type="radio" name="q284" value="1">B.True</p>
+	<p><input type="radio" name="q284" value="0">C.-</p>
+	<p><input type="radio" name="q284" value="0">D.-</p>
+</div>
+<div class="question">
+	<p>285. What are the new features of CDMA2000 3G network?</p>
+	<p><input type="radio" name="q285" value="0">A.Fast power control (saves battery and reduces delay)</p>
+	<p><input type="radio" name="q285" value="0">B.Support for Radio Configurations(RC) from RC1 to RC9 in forward link and RC1 to RC6 in Reverse Link for flexible Rate, Spreading Rate, Channel Coding and Diversity.</p>
+	<p><input type="radio" name="q285" value="0">C.Support for R-UIM (Removable SIM)</p>
+	<p><input type="radio" name="q285" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>286. In a CDMA2000 network, support for EVDO indicates support for ____.</p>
+	<p><input type="radio" name="q286" value="0">A.Voice </p>
+	<p><input type="radio" name="q286" value="1">B.Data</p>
+	<p><input type="radio" name="q286" value="0">C.A and B</p>
+	<p><input type="radio" name="q286" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>287. CDMA2000 uses ___ Access technology.</p>
+	<p><input type="radio" name="q287" value="0">A.Code Division</p>
+	<p><input type="radio" name="q287" value="0">B.Time Division</p>
+	<p><input type="radio" name="q287" value="1">C.Both Code Division and Time Division</p>
+	<p><input type="radio" name="q287" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>288. Which is the 4G version of CDMA2000 technology?</p>
+	<p><input type="radio" name="q288" value="0">A.LTE</p>
+	<p><input type="radio" name="q288" value="1">B.UMB</p>
+	<p><input type="radio" name="q288" value="0">C.EVDV</p>
+	<p><input type="radio" name="q288" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>289. Which is the error correction code used in CDMA based networks?</p>
+	<p><input type="radio" name="q289" value="0">A.Turbo Code</p>
+	<p><input type="radio" name="q289" value="0">B.Convolution Code</p>
+	<p><input type="radio" name="q289" value="1">C.Both Convolution Code and Turbo Code</p>
+	<p><input type="radio" name="q289" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>290. Name the type of Spread Spectrum modulation technique?</p>
+	<p><input type="radio" name="q290" value="0">A.Frequency Hopping SS</p>
+	<p><input type="radio" name="q290" value="0">B.Direct Sequence SS</p>
+	<p><input type="radio" name="q290" value="0">C.Time Hopping SS</p>
+	<p><input type="radio" name="q290" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>291. What are the 4 parts of a CDMA architecture or structure?</p>
+	<p><input type="radio" name="q291" value="0">A.Mobile Station (MS), Base Station Subsystem (BSS)</p>
+	<p><input type="radio" name="q291" value="0">B.Mobile Switching Subsystem (MSS)</p>
+	<p><input type="radio" name="q291" value="0">C.Operation and Maintenance Subsystem (OMM)</p>
+	<p><input type="radio" name="q291" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>292. What are the systems present in a BSS?</p>
+	<p><input type="radio" name="q292" value="0">A.One or more BTS (Base Transceiver Station)</p>
+	<p><input type="radio" name="q292" value="0">B.One or More BSC (Base Station Controller)</p>
+	<p><input type="radio" name="q292" value="1">C.A and B</p>
+	<p><input type="radio" name="q292" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>293. What are the systems present in a MSS?</p>
+	<p><input type="radio" name="q293" value="0">A.MSC (Mobile Switching Center)</p>
+	<p><input type="radio" name="q293" value="0">B.VLR, HLR</p>
+	<p><input type="radio" name="q293" value="0">C.EIR, AuC</p>
+	<p><input type="radio" name="q293" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>294. What is the system present in an OMM (Operation Maintenance and Management Subsystem</p>
+	<p><input type="radio" name="q294" value="1">A.OMC (Operation and Maintenance Center)</p>
+	<p><input type="radio" name="q294" value="0">B.VLR (Visitor Location Register)</p>
+	<p><input type="radio" name="q294" value="0">C.HLR (Home Location Register)</p>
+	<p><input type="radio" name="q294" value="0">D.AuC (Authentication Center)</p>
+</div>
+<div class="question">
+	<p>295. The OMC-S system is used on _____ side.</p>
+	<p><input type="radio" name="q295" value="0">A.BSC</p>
+	<p><input type="radio" name="q295" value="1">B.MSC</p>
+	<p><input type="radio" name="q295" value="0">C.MS</p>
+	<p><input type="radio" name="q295" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>296. The OMC-R is used on _____ side?</p>
+	<p><input type="radio" name="q296" value="1">A.BSC</p>
+	<p><input type="radio" name="q296" value="0">B.MSC</p>
+	<p><input type="radio" name="q296" value="0">C.MS</p>
+	<p><input type="radio" name="q296" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>297. What are the functions of a MS (Mobile Station</p>
+	<p><input type="radio" name="q297" value="0">A.Making a call</p>
+	<p><input type="radio" name="q297" value="0">B.Receiving a call</p>
+	<p><input type="radio" name="q297" value="0">C.Send / Receive SMS</p>
+	<p><input type="radio" name="q297" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>298. What are the functions of a BTS (Base Transceiver Station</p>
+	<p><input type="radio" name="q298" value="0">A.Transmitting and Receiving signals and data</p>
+	<p><input type="radio" name="q298" value="0">B.Listening to commands from BSC</p>
+	<p><input type="radio" name="q298" value="0">C.Allow mobility from BTS to BTS during Handovers</p>
+	<p><input type="radio" name="q298" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>299. What are the functions of a BSC in a CDMA architecture?</p>
+	<p><input type="radio" name="q299" value="0">A.Radio resource management, Radio network management, BTS monitoring</p>
+	<p><input type="radio" name="q299" value="0">B.Positioning, Handoff</p>
+	<p><input type="radio" name="q299" value="0">C.Paging, Voice coding, Rate adjustment</p>
+	<p><input type="radio" name="q299" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>300. What are the functions of MSC in a CDMA Architecture?</p>
+	<p><input type="radio" name="q300" value="0">A.Call connection, VLR-HLR enquiry</p>
+	<p><input type="radio" name="q300" value="0">B.Charging (billing), </p>
+	<p><input type="radio" name="q300" value="0">C.Mobility, Handoffs (BSC to BSC, MSC to BSC)</p>
+	<p><input type="radio" name="q300" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>301. Which among the following is a Static Database?</p>
+	<p><input type="radio" name="q301" value="0">A.VLR (Visitor Location Register)</p>
+	<p><input type="radio" name="q301" value="1">B.HLR (Home Location Register)</p>
+	<p><input type="radio" name="q301" value="0">C.AuC (Authentication Center)</p>
+	<p><input type="radio" name="q301" value="0">D.All</p>
+</div>
+<div class="question">
+	<p>302. Which among the following is a Dynamic Database?</p>
+	<p><input type="radio" name="q302" value="1">A.VLR</p>
+	<p><input type="radio" name="q302" value="0">B.HLR</p>
+	<p><input type="radio" name="q302" value="0">C.AuC</p>
+	<p><input type="radio" name="q302" value="0">D.EIR</p>
+</div>
+<div class="question">
+	<p>303. What are the functions of a VLR (Visitor Location Register</p>
+	<p><input type="radio" name="q303" value="0">A.Stores MS location information</p>
+	<p><input type="radio" name="q303" value="0">B.Stores MS eligible service information</p>
+	<p><input type="radio" name="q303" value="0">C.VLR copies all data from HLR database</p>
+	<p><input type="radio" name="q303" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>304. What are the functions of an HLR (Home Location Register</p>
+	<p><input type="radio" name="q304" value="0">A.HLR stores Subscriber ID, Services</p>
+	<p><input type="radio" name="q304" value="0">B.HLR stores current location of subscriber even in a roaming situation</p>
+	<p><input type="radio" name="q304" value="0">C.Stores current MSC/VLR information for a particular user</p>
+	<p><input type="radio" name="q304" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>305. What are the functions of an Authentication Center (AuC</p>
+	<p><input type="radio" name="q305" value="0">A.Generates, stores and sends Authentication parameters</p>
+	<p><input type="radio" name="q305" value="0">B.Example authentication parameters are A-KEY, SSD, ESN, MIN and AAV.</p>
+	<p><input type="radio" name="q305" value="0">C.AuC sends authentication parameters to the MSC/VLR upon request.</p>
+	<p><input type="radio" name="q305" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>306. What are the functions of a Short Messaging Center (SC</p>
+	<p><input type="radio" name="q306" value="0">A.SC sends two types of Messages namely Point to Point and Broadcasting messages.</p>
+	<p><input type="radio" name="q306" value="0">B.Short Message Center (SC) works like a post office receiving messages, sorting and sending to the correct destination.</p>
+	<p><input type="radio" name="q306" value="0">C.SC is also a database receiving, storing and sending messages.</p>
+	<p><input type="radio" name="q306" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>307. An OSI (Open System Interconnection</p>
+	<p><input type="radio" name="q307" value="0">A.Interfaces</p>
+	<p><input type="radio" name="q307" value="0">B.Protocols</p>
+	<p><input type="radio" name="q307" value="0">C.System functions</p>
+	<p><input type="radio" name="q307" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>308. What is the Interface between a Mobile Station(MS</p>
+	<p><input type="radio" name="q308" value="0">A.Uu</p>
+	<p><input type="radio" name="q308" value="1">B.Um</p>
+	<p><input type="radio" name="q308" value="0">C.Ui</p>
+	<p><input type="radio" name="q308" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>309. In a CDMA architecture, what is the interface between a Base Transceiver Station (BTS</p>
+	<p><input type="radio" name="q309" value="0">A.A</p>
+	<p><input type="radio" name="q309" value="1">B.Abis</p>
+	<p><input type="radio" name="q309" value="0">C.Um</p>
+	<p><input type="radio" name="q309" value="0">D.B</p>
+</div>
+<div class="question">
+	<p>310. In a CDMA architecture, what is the interface between a Base Station Controller (BSC</p>
+	<p><input type="radio" name="q310" value="0">A.P</p>
+	<p><input type="radio" name="q310" value="0">B.H</p>
+	<p><input type="radio" name="q310" value="1">C.Q</p>
+	<p><input type="radio" name="q310" value="0">D.M</p>
+</div>
+<div class="question">
+	<p>311. In a CDMA architecture, what is the interface between an Operation and Maintenance Center (OMC</p>
+	<p><input type="radio" name="q311" value="0">A.P</p>
+	<p><input type="radio" name="q311" value="1">B.Q</p>
+	<p><input type="radio" name="q311" value="0">C.M</p>
+	<p><input type="radio" name="q311" value="0">D.H</p>
+</div>
+<div class="question">
+	<p>312. In a CDMA structure, what is the interface between a Base Station Controller (BSC</p>
+	<p><input type="radio" name="q312" value="1">A.A</p>
+	<p><input type="radio" name="q312" value="0">B.B</p>
+	<p><input type="radio" name="q312" value="0">C.C</p>
+	<p><input type="radio" name="q312" value="0">D.D</p>
+</div>
+<div class="question">
+	<p>313. In a CDMA network, what is the interface between two Mobile Switching Centers (Inter-MSC</p>
+	<p><input type="radio" name="q313" value="0">A.C</p>
+	<p><input type="radio" name="q313" value="0">B.D</p>
+	<p><input type="radio" name="q313" value="1">C.E</p>
+	<p><input type="radio" name="q313" value="0">D.F</p>
+</div>
+<div class="question">
+	<p>314. What is the interface between an MSC and an EIR (Equipment Identification Register</p>
+	<p><input type="radio" name="q314" value="0">A.Q</p>
+	<p><input type="radio" name="q314" value="0">B.M</p>
+	<p><input type="radio" name="q314" value="0">C.N</p>
+	<p><input type="radio" name="q314" value="1">D.F</p>
+</div>
+<div class="question">
+	<p>315. What is the interface between an MSC and an IWF (Interworking Function</p>
+	<p><input type="radio" name="q315" value="0">A.P</p>
+	<p><input type="radio" name="q315" value="0">B.Q</p>
+	<p><input type="radio" name="q315" value="1">C.L</p>
+	<p><input type="radio" name="q315" value="0">D.M</p>
+</div>
+<div class="question">
+	<p>316. What is the interface between an MSC and an HLR (Home Location Register</p>
+	<p><input type="radio" name="q316" value="0">A.P</p>
+	<p><input type="radio" name="q316" value="0">B.Q</p>
+	<p><input type="radio" name="q316" value="0">C.M</p>
+	<p><input type="radio" name="q316" value="1">D.C</p>
+</div>
+<div class="question">
+	<p>317. What is the interface between an MSC and a VLR (Visitor Location Register</p>
+	<p><input type="radio" name="q317" value="0">A.P</p>
+	<p><input type="radio" name="q317" value="0">B.Q</p>
+	<p><input type="radio" name="q317" value="1">C.B</p>
+	<p><input type="radio" name="q317" value="0">D.D</p>
+</div>
+<div class="question">
+	<p>318. What is the interface between a VLR and an HLR?</p>
+	<p><input type="radio" name="q318" value="0">A.E</p>
+	<p><input type="radio" name="q318" value="1">B.D</p>
+	<p><input type="radio" name="q318" value="0">C.B</p>
+	<p><input type="radio" name="q318" value="0">D.Q</p>
+</div>
+<div class="question">
+	<p>319. What is the interface between an HLR and an AuC (Authentication Center</p>
+	<p><input type="radio" name="q319" value="0">A.P</p>
+	<p><input type="radio" name="q319" value="1">B.H</p>
+	<p><input type="radio" name="q319" value="0">C.Q</p>
+	<p><input type="radio" name="q319" value="0">D.M</p>
+</div>
+<div class="question">
+	<p>320. What is the interface between an HLR and an SC (Short Message Center</p>
+	<p><input type="radio" name="q320" value="0">A.P</p>
+	<p><input type="radio" name="q320" value="0">B.Q</p>
+	<p><input type="radio" name="q320" value="1">C.N</p>
+	<p><input type="radio" name="q320" value="0">D.M</p>
+</div>
+<div class="question">
+	<p>321. What is the interface between two Short Message Centers (Inter Short Message Centers - SCs</p>
+	<p><input type="radio" name="q321" value="1">A.M</p>
+	<p><input type="radio" name="q321" value="0">B.N</p>
+	<p><input type="radio" name="q321" value="0">C.P</p>
+	<p><input type="radio" name="q321" value="0">D.Q</p>
+</div>
+<div class="question">
+	<p>322. What is the PCM link speed of Non-Air Interfaces of CDMA2000 ( 3G CDMA </p>
+	<p><input type="radio" name="q322" value="0">A.1024 kbps</p>
+	<p><input type="radio" name="q322" value="0">B.512 kbps</p>
+	<p><input type="radio" name="q322" value="1">C.2048 kbps</p>
+	<p><input type="radio" name="q322" value="0">D.4096 kbps</p>
+</div>
+<div class="question">
+	<p>323. What is the easiest way to avoid congestion in the CDMA2000 (3G CDMA</p>
+	<p><input type="radio" name="q323" value="0">A.Install new BTS in that area</p>
+	<p><input type="radio" name="q323" value="0">B.Increase the number of PCM links ( 2 mbps links) between systems of CDMA architecture.</p>
+	<p><input type="radio" name="q323" value="0">C.Add more links to Packet Data Networks (PDN) and Public Switched Telephone Networks (PSTN)</p>
+	<p><input type="radio" name="q323" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>324. What is the interface between an MSC and a PSPDN (Public Switched Packet Data Network</p>
+	<p><input type="radio" name="q324" value="0">A.Ai</p>
+	<p><input type="radio" name="q324" value="0">B.Di</p>
+	<p><input type="radio" name="q324" value="1">C.Pi</p>
+	<p><input type="radio" name="q324" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>325. What is the interface between an MSC and a PSTN (Public Switched Telephone Network</p>
+	<p><input type="radio" name="q325" value="0">A.Pi</p>
+	<p><input type="radio" name="q325" value="0">B.Di</p>
+	<p><input type="radio" name="q325" value="1">C.Ai</p>
+	<p><input type="radio" name="q325" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>326. What is the interface between an MSC and an ISDN (Integrated Services Digital Network</p>
+	<p><input type="radio" name="q326" value="0">A.Ai</p>
+	<p><input type="radio" name="q326" value="1">B.Di</p>
+	<p><input type="radio" name="q326" value="0">C.Pi</p>
+	<p><input type="radio" name="q326" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>327. In a CDMA2000(3G CDMA or IS-2000</p>
+	<p><input type="radio" name="q327" value="0">A.Mobile Station to the Base Station</p>
+	<p><input type="radio" name="q327" value="1">B.Base Station to the Mobile Station</p>
+	<p><input type="radio" name="q327" value="0">C.BTS to BSC</p>
+	<p><input type="radio" name="q327" value="0">D.BSC to BTS</p>
+</div>
+<div class="question">
+	<p>328. In a CDMA2000(3G CDMA or IS-2000</p>
+	<p><input type="radio" name="q328" value="1">A.Mobile Station to the Base Station</p>
+	<p><input type="radio" name="q328" value="0">B.Base Station to the Mobile Station</p>
+	<p><input type="radio" name="q328" value="0">C.BSC to BTS</p>
+	<p><input type="radio" name="q328" value="0">D.BTS to BSC</p>
+</div>
+<div class="question">
+	<p>329. Most of the CDMA2000 (IS-2000</p>
+	<p><input type="radio" name="q329" value="1">A.IS-95</p>
+	<p><input type="radio" name="q329" value="0">B.EVDO-95</p>
+	<p><input type="radio" name="q329" value="0">C.UMTS</p>
+	<p><input type="radio" name="q329" value="0">D.WCDMA</p>
+</div>
+<div class="question">
+	<p>330. Identify CDMA Forward Channels below.</p>
+	<p><input type="radio" name="q330" value="0">A.F-PICH (Forward Pilot Channel)</p>
+	<p><input type="radio" name="q330" value="0">B.F-PCH (Forward Paging Channel)</p>
+	<p><input type="radio" name="q330" value="0">C.F-SYNCH (Forward Sync Channel)</p>
+	<p><input type="radio" name="q330" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>331. Identify CDMA forward channels below.</p>
+	<p><input type="radio" name="q331" value="0">A.F-QPCH (Forward Quick Paging Channel)</p>
+	<p><input type="radio" name="q331" value="0">B.F-BCCH (Forward Broadcast Control Channel)</p>
+	<p><input type="radio" name="q331" value="0">C.F-CACH (Forward Common Assignment Channel)</p>
+	<p><input type="radio" name="q331" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>332. Identify CDMA Forward Channels below.</p>
+	<p><input type="radio" name="q332" value="0">A.F-CPCCH (Forward Common Power Control Channel)</p>
+	<p><input type="radio" name="q332" value="0">B.F-CCCH (Forward Common Control Channel)</p>
+	<p><input type="radio" name="q332" value="0">C.F-DCCH (Forward Dedicated Control Channel)</p>
+	<p><input type="radio" name="q332" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>333. Identify CDMA Forward channels below.</p>
+	<p><input type="radio" name="q333" value="0">A.F-FCH (Forward Fundamental Traffic Channel)</p>
+	<p><input type="radio" name="q333" value="0">B.F-SCH (Forward Supplemental Channel), F-SCCH (Forward Supplemental Code Channel)</p>
+	<p><input type="radio" name="q333" value="0">C.F-PCSCH (Forward Power Control Sub-Channel)</p>
+	<p><input type="radio" name="q333" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>334. Identify CDMA Reverse Channels below. R is for Reverse.</p>
+	<p><input type="radio" name="q334" value="0">A.R-PICH (Reverse Pilot Channel)</p>
+	<p><input type="radio" name="q334" value="0">B.R-ACH (Reverse Access Channel)</p>
+	<p><input type="radio" name="q334" value="0">C.R-CCCH (Reverse Common Control Channel)</p>
+	<p><input type="radio" name="q334" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>335. Identify CDMA Reverse channels below.</p>
+	<p><input type="radio" name="q335" value="0">A.R-EACH (Reverse Enhanced Access Channel)</p>
+	<p><input type="radio" name="q335" value="0">B.R-DCCH (Reverse Dedicated Control Channel)</p>
+	<p><input type="radio" name="q335" value="0">C.R-FCH (Reverse Fundamental Channel)</p>
+	<p><input type="radio" name="q335" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>336. Identify CDMA Reverse Channels below.</p>
+	<p><input type="radio" name="q336" value="0">A.R-SCH (Reverse Supplemental Channel)</p>
+	<p><input type="radio" name="q336" value="0">B.R-SCCH (Reverse Supplemental Code Channel)</p>
+	<p><input type="radio" name="q336" value="0">C.R-PCSCH (Reverse Power Control Sub-Channel)</p>
+	<p><input type="radio" name="q336" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>337. What is the function of a Forward Pilot Channel (F-PICH</p>
+	<p><input type="radio" name="q337" value="1">A.It assists the Mobile Station to access the network.</p>
+	<p><input type="radio" name="q337" value="0">B.It assists the Base Station to access the data transmitted by Mobile Station.</p>
+	<p><input type="radio" name="q337" value="0">C.It tells the Mobile Station about System Time and Synchronization frame information.</p>
+	<p><input type="radio" name="q337" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>338. What is the function of a Forward Broadcast Control Channel (F-BCCH</p>
+	<p><input type="radio" name="q338" value="0">A.It assists the Mobile station to access the network.</p>
+	<p><input type="radio" name="q338" value="1">B.It is used to send or deliver System Messages to Mobile stations. </p>
+	<p><input type="radio" name="q338" value="0">C.It tells the Mobile Station about System Time and Synchronization Frame information.</p>
+	<p><input type="radio" name="q338" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>339. What is the function of Forward Sync Channel (F-SYNCH</p>
+	<p><input type="radio" name="q339" value="0">A.It assists the Mobile station to access the network.</p>
+	<p><input type="radio" name="q339" value="1">B.It tells the Mobile Station about System Time and Synchronization Frame information.</p>
+	<p><input type="radio" name="q339" value="0">C.It is used to send or deliver System Messages to Mobile stations.</p>
+	<p><input type="radio" name="q339" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>340. What is the function of a Forward Quick Paging Channel (F-QPCH</p>
+	<p><input type="radio" name="q340" value="0">A.It informs the Mobile Station (MS) about the Timeslot.</p>
+	<p><input type="radio" name="q340" value="0">B.It tells the MS about the Timeslot to receive the control messages on F-PCH and F-CCCH channels.</p>
+	<p><input type="radio" name="q340" value="0">C.It saves mobile battery during idle times by not monitoring F-PCH and F-CCCH continuously unless informed with a timeslot.</p>
+	<p><input type="radio" name="q340" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>341. What is the function of a Forward Paging Channel (F-PCH</p>
+	<p><input type="radio" name="q341" value="0">A.Base Station tells the mobile station about paging information using this paging channel.</p>
+	<p><input type="radio" name="q341" value="0">B.Base station tells the Mobile station about commands being used.</p>
+	<p><input type="radio" name="q341" value="0">C.Base station tells the Mobile station about the Traffic channel allotted for communication using this PCH.</p>
+	<p><input type="radio" name="q341" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>342. What is the function of a Forward Common Assignment Channel (F-CACH</p>
+	<p><input type="radio" name="q342" value="0">A.It instructs the Mobile Station about which R-CCCH to use to send access messages.</p>
+	<p><input type="radio" name="q342" value="0">B.It instructs the Mobile Station about which F-CPCH Sub-Channel to use to receive power control bits</p>
+	<p><input type="radio" name="q342" value="0">C.F-CACH messages are in response to R-EACH to the base station. F-CACH is always used along with F-CPCCH, R-EACH and R-CCCH.</p>
+	<p><input type="radio" name="q342" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>343. What is the function of Forward Common Power Control Channel (F-CPCCH</p>
+	<p><input type="radio" name="q343" value="0">A.It is used to send the Power control bits to the mobile station.</p>
+	<p><input type="radio" name="q343" value="0">B.F-CPCCH is in response to R-CCCH from the Mobile station to the Base station</p>
+	<p><input type="radio" name="q343" value="0">C.F-CPCCH works from the Base station to the Mobile station.</p>
+	<p><input type="radio" name="q343" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>344. What is the function of Forward Common Control Channel (F-CCCH</p>
+	<p><input type="radio" name="q344" value="0">A.It is used only when there is no Traffic (Calls) on the Mobile phone.</p>
+	<p><input type="radio" name="q344" value="0">B.It is used to exchange control messages with the Mobile station</p>
+	<p><input type="radio" name="q344" value="0">C.It is used to exchange short impulsive data with the Mobile station.</p>
+	<p><input type="radio" name="q344" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>345. What is the function of Forward Dedicated Control Channel (F-DCCH</p>
+	<p><input type="radio" name="q345" value="0">A.It is used when the mobile is carrying traffic like voice or data.</p>
+	<p><input type="radio" name="q345" value="0">B.It is used by the Base station to transmit low-rate data to the Mobile station</p>
+	<p><input type="radio" name="q345" value="0">C.It is used by the Base station to transmit Circuit Switched Data or Messages to the Mobile station</p>
+	<p><input type="radio" name="q345" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>346. What is the function of a Forward Fundamental Traffic Channel (F-FCH</p>
+	<p><input type="radio" name="q346" value="0">A.FCH actually carries voice and signalling data to the Mobile station. So, it is used during the traffic state.</p>
+	<p><input type="radio" name="q346" value="0">B.FCH carries low-rate data to the Mobile station</p>
+	<p><input type="radio" name="q346" value="0">C.FCH carries Circuit Switched Data to the Mobile station</p>
+	<p><input type="radio" name="q346" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>347. What is the function of a Forward Supplemental Channel (F-SCH</p>
+	<p><input type="radio" name="q347" value="0">A.SCH is used when Mobile station is in the traffic state</p>
+	<p><input type="radio" name="q347" value="0">B.SCH carries High-rate packet data to the mobile station</p>
+	<p><input type="radio" name="q347" value="0">C.It is not used when the Mobile station is in the Idle state.</p>
+	<p><input type="radio" name="q347" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>348. What is the function of Forward Supplemental Code Channel (F-SCCH</p>
+	<p><input type="radio" name="q348" value="1">A.It is used for Data transfer.</p>
+	<p><input type="radio" name="q348" value="0">B.It is used for signalling.</p>
+	<p><input type="radio" name="q348" value="0">C.It is used for data transport.</p>
+	<p><input type="radio" name="q348" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>349. What is the function of Forward Power Control Sub-Channel (F-PCSCH</p>
+	<p><input type="radio" name="q349" value="1">A.It is used for Reverse Power Control.</p>
+	<p><input type="radio" name="q349" value="0">B.It is used for signalling.</p>
+	<p><input type="radio" name="q349" value="0">C.It is used for data transfer.</p>
+	<p><input type="radio" name="q349" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>350. What is the function of Reverse Pilot Channel (R-PICH</p>
+	<p><input type="radio" name="q350" value="1">A.It is used to assist the Base Station to detect the data transmitted by the Mobile Station.</p>
+	<p><input type="radio" name="q350" value="0">B.It is used to transmit the packet data.</p>
+	<p><input type="radio" name="q350" value="0">C.It is used to transmit voice traffic</p>
+	<p><input type="radio" name="q350" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>351. What is the function of Reverse Access Channel (R-ACH or RACH</p>
+	<p><input type="radio" name="q351" value="0">A.It is used by the Mobile station to set up communication with the Base Station</p>
+	<p><input type="radio" name="q351" value="0">B.It is used by the Mobile station to respond to paging channel messages.</p>
+	<p><input type="radio" name="q351" value="0">C.Access channel messages may include Origination of call, data bursts, acknowledgements and registration.</p>
+	<p><input type="radio" name="q351" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>352. What is the function of a Reverse Common Control Channel (R-CCCH</p>
+	<p><input type="radio" name="q352" value="0">A.It is used by the Mobile Station to exchange Control messages and short impulsive data with the Base Station.</p>
+	<p><input type="radio" name="q352" value="0">B.It is used by the Base Station to exchange Control messages and short impulsive data with the Mobile Station.</p>
+	<p><input type="radio" name="q352" value="0">C.It is used only when the Mobile station has not set up any traffic.</p>
+	<p><input type="radio" name="q352" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>353. What is the function of a Reverse Enhanced Access Channel (R-EACH</p>
+	<p><input type="radio" name="q353" value="0">A.It is used when the mobile station has not set up any traffic.</p>
+	<p><input type="radio" name="q353" value="0">B.It is used to improve Mobile Station accessibility.</p>
+	<p><input type="radio" name="q353" value="0">C.It is used by the Mobile Station to send control messages to the base station.</p>
+	<p><input type="radio" name="q353" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>354. What is the function of a Reverse Dedicated Control Channel (R-DCCH</p>
+	<p><input type="radio" name="q354" value="0">A.It is used only when the Mobile station is in the traffic state.</p>
+	<p><input type="radio" name="q354" value="0">B.It is used to transmit messages to the Base station.</p>
+	<p><input type="radio" name="q354" value="0">C.It is used to transmit low-rate packet data and Circuit Switched data to the Base station.</p>
+	<p><input type="radio" name="q354" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>355. What is the function of Reverse Fundamental Traffic Channel (R-FCH</p>
+	<p><input type="radio" name="q355" value="0">A.It is used to carry voice data to the Mobile station.</p>
+	<p><input type="radio" name="q355" value="0">B.It is used to carry signalling data to the Mobile station.</p>
+	<p><input type="radio" name="q355" value="0">C.It is used to carry low-rate packet data and Circuit Switched data</p>
+	<p><input type="radio" name="q355" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>356. What is the function of a Reverse Supplemental Channel (R-SCH</p>
+	<p><input type="radio" name="q356" value="0">A.It is used to carry high-rate data to the Mobile Station (MS).</p>
+	<p><input type="radio" name="q356" value="0">B.It is used only when the Mobile station enters the traffic state.</p>
+	<p><input type="radio" name="q356" value="0">C.It carries Packet data.</p>
+	<p><input type="radio" name="q356" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>357. What is the function of a Reverse Supplemental Code Channel (R-SCCH</p>
+	<p><input type="radio" name="q357" value="0">A.It carries voice traffic.</p>
+	<p><input type="radio" name="q357" value="1">B.It sends User information to the Base station during a call (Traffic state)</p>
+	<p><input type="radio" name="q357" value="0">C.It sends Power control bits to the Mobile station.</p>
+	<p><input type="radio" name="q357" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>358. What is the function of a Reverse Power Control Sub-Channel (R-PCSCH</p>
+	<p><input type="radio" name="q358" value="0">A.It is the sub-channel of Reverse Pilot Channel (R-PICH).</p>
+	<p><input type="radio" name="q358" value="0">B.It is used for Forward power control</p>
+	<p><input type="radio" name="q358" value="0">C.It contains Reverse Main Power Control Sub-Channel and Reverse Auxiliary Power Control Sub-Channel.</p>
+	<p><input type="radio" name="q358" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>359. What does EVDO stand for in a CDMA2000 1x network?</p>
+	<p><input type="radio" name="q359" value="0">A.Evolved Variable Data Optimized</p>
+	<p><input type="radio" name="q359" value="1">B.Evolution-Data Optimized</p>
+	<p><input type="radio" name="q359" value="0">C.Enhanced Data Optimized</p>
+	<p><input type="radio" name="q359" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>360. CDMA 1x Ev-DO is a successor to ____.</p>
+	<p><input type="radio" name="q360" value="0">A.CDMAOne</p>
+	<p><input type="radio" name="q360" value="1">B.CDMA2000 1x</p>
+	<p><input type="radio" name="q360" value="0">C.CDMA IS-95</p>
+	<p><input type="radio" name="q360" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>361. What is the Code name for CDMA2000 1xEV-DO?</p>
+	<p><input type="radio" name="q361" value="0">A.IS-95</p>
+	<p><input type="radio" name="q361" value="0">B.IS-2000</p>
+	<p><input type="radio" name="q361" value="1">C.IS-856</p>
+	<p><input type="radio" name="q361" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>362. What does EVDO traffic carry?</p>
+	<p><input type="radio" name="q362" value="0">A.Voice</p>
+	<p><input type="radio" name="q362" value="1">B.Data</p>
+	<p><input type="radio" name="q362" value="0">C.Voice and Data</p>
+	<p><input type="radio" name="q362" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>363. Who developed and improved the specifications for EVDO?</p>
+	<p><input type="radio" name="q363" value="0">A.Qualcomm</p>
+	<p><input type="radio" name="q363" value="0">B.Lucent</p>
+	<p><input type="radio" name="q363" value="1">C.Qualcomm and Lucent</p>
+	<p><input type="radio" name="q363" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>364. What does CDMA2000 1x provides?</p>
+	<p><input type="radio" name="q364" value="0">A.Voice</p>
+	<p><input type="radio" name="q364" value="0">B.Data</p>
+	<p><input type="radio" name="q364" value="1">C.Voice and Data</p>
+	<p><input type="radio" name="q364" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>365. What is the data-rate offered by plain CDMA2000 1x network?</p>
+	<p><input type="radio" name="q365" value="0">A.High-speed data</p>
+	<p><input type="radio" name="q365" value="1">B.Low-speed and Medium-speed data</p>
+	<p><input type="radio" name="q365" value="0">C.No data support</p>
+	<p><input type="radio" name="q365" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>366. Which technology among the following offers High-Speed Packet Data?</p>
+	<p><input type="radio" name="q366" value="0">A.CDMAOne</p>
+	<p><input type="radio" name="q366" value="0">B.CDMA2000 1x</p>
+	<p><input type="radio" name="q366" value="1">C.CDMA 1xEV</p>
+	<p><input type="radio" name="q366" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>367. What are the Multiplexing and Access techniques used by an EVDO network?</p>
+	<p><input type="radio" name="q367" value="0">A.CDMA</p>
+	<p><input type="radio" name="q367" value="0">B.TDM</p>
+	<p><input type="radio" name="q367" value="1">C.CDMA and TDM</p>
+	<p><input type="radio" name="q367" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>368. What is the Channel bandwidth of an EV-DO carrier?</p>
+	<p><input type="radio" name="q368" value="0">A.1 MHz</p>
+	<p><input type="radio" name="q368" value="1">B.1.25 MHz</p>
+	<p><input type="radio" name="q368" value="0">C.5 MHz</p>
+	<p><input type="radio" name="q368" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>369. An EV-DO carrier has the same bandwidth of ____.</p>
+	<p><input type="radio" name="q369" value="0">A.IS-95A CDMA</p>
+	<p><input type="radio" name="q369" value="0">B.IS-2000 1xRTT</p>
+	<p><input type="radio" name="q369" value="1">C.IS-95A and IS-2000 1xRTT</p>
+	<p><input type="radio" name="q369" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>370. A CDMA2000 1x network offers data services through ___ technology.</p>
+	<p><input type="radio" name="q370" value="1">A.Circuit Switching</p>
+	<p><input type="radio" name="q370" value="0">B.Packet Switching</p>
+	<p><input type="radio" name="q370" value="0">C.Both Circuit Switching and Packet Switching</p>
+	<p><input type="radio" name="q370" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>371. A CDMA2000 1xEV-DO offers data services through ___ switching.</p>
+	<p><input type="radio" name="q371" value="0">A.Circuit Switching</p>
+	<p><input type="radio" name="q371" value="1">B.Packet Switching</p>
+	<p><input type="radio" name="q371" value="0">C.Circuit and Packet Switching</p>
+	<p><input type="radio" name="q371" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>372. What are the popular specifications or releases of CDMA 1xEV-DO?</p>
+	<p><input type="radio" name="q372" value="0">A.Release 0</p>
+	<p><input type="radio" name="q372" value="0">B.Revision A, Revision B</p>
+	<p><input type="radio" name="q372" value="0">C.Revision C</p>
+	<p><input type="radio" name="q372" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>373. What is the download speed of EV-DO Rev A - CDMA network?</p>
+	<p><input type="radio" name="q373" value="0">A.1 Mbps</p>
+	<p><input type="radio" name="q373" value="0">B.2.4 Mbps</p>
+	<p><input type="radio" name="q373" value="1">C.3.1 Mbps</p>
+	<p><input type="radio" name="q373" value="0">D.4 Mbps</p>
+</div>
+<div class="question">
+	<p>374. What is the upload speed of EV-DO Rev A - CDMA network?</p>
+	<p><input type="radio" name="q374" value="0">A.0.5 Mbps</p>
+	<p><input type="radio" name="q374" value="1">B.1.8 Mbps</p>
+	<p><input type="radio" name="q374" value="0">C.2.4 Mbps</p>
+	<p><input type="radio" name="q374" value="0">D.3.1 Mbps</p>
+</div>
+<div class="question">
+	<p>375. What is the download data rate of a CDMA 1XEV-DO Release 0 network?</p>
+	<p><input type="radio" name="q375" value="0">A.1.2 Mbps</p>
+	<p><input type="radio" name="q375" value="1">B.2.4 Mbps</p>
+	<p><input type="radio" name="q375" value="0">C.3.1 Mbps</p>
+	<p><input type="radio" name="q375" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>376. What is the upload data rate of a CDMA2000 1xEV-DO Release 0 network?</p>
+	<p><input type="radio" name="q376" value="0">A.128 Kbps</p>
+	<p><input type="radio" name="q376" value="1">B.153 Kbps</p>
+	<p><input type="radio" name="q376" value="0">C.256 Kbps</p>
+	<p><input type="radio" name="q376" value="0">D.512 Kbps</p>
+</div>
+<div class="question">
+	<p>377. What are the other names given to Downlink and Uplink in a CDMA 1xEV-DO network?</p>
+	<p><input type="radio" name="q377" value="1">A.Forward Link, Reverse Link</p>
+	<p><input type="radio" name="q377" value="0">B.Reverse Link, Forward Link</p>
+	<p><input type="radio" name="q377" value="0">C.First Link, Second Link</p>
+	<p><input type="radio" name="q377" value="0">D.Second Link, First Link</p>
+</div>
+<div class="question">
+	<p>378. What does EV-DO Revision C support?</p>
+	<p><input type="radio" name="q378" value="0">A.Voice</p>
+	<p><input type="radio" name="q378" value="0">B.Data</p>
+	<p><input type="radio" name="q378" value="1">C.Voice and Data</p>
+	<p><input type="radio" name="q378" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>379. What is the new name given to a EV-DO Revision C network?</p>
+	<p><input type="radio" name="q379" value="0">A.EV-DO</p>
+	<p><input type="radio" name="q379" value="1">B.EV-DV</p>
+	<p><input type="radio" name="q379" value="0">C.DV-EV</p>
+	<p><input type="radio" name="q379" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>380. EV-DV stands for ___.</p>
+	<p><input type="radio" name="q380" value="0">A.Evolution-Data Variable</p>
+	<p><input type="radio" name="q380" value="0">B.Evolution-Data Versatile</p>
+	<p><input type="radio" name="q380" value="1">C.Evolution Data and Voice</p>
+	<p><input type="radio" name="q380" value="0">D.Enhanced Data and Voice</p>
+</div>
+<div class="question">
+	<p>381. What is the other name given to EV-DV in the year 2006?</p>
+	<p><input type="radio" name="q381" value="0">A.LTE (Long Term Evolution)</p>
+	<p><input type="radio" name="q381" value="1">B.UMB (Ultra Mobile Broadband)</p>
+	<p><input type="radio" name="q381" value="0">C.UMB Advanced</p>
+	<p><input type="radio" name="q381" value="0">D.LTE Advanced</p>
+</div>
+<div class="question">
+	<p>382. The UMB (Ultra Mobile Broadband</p>
+	<p><input type="radio" name="q382" value="0">A.Single Carrier</p>
+	<p><input type="radio" name="q382" value="1">B.OFDMA</p>
+	<p><input type="radio" name="q382" value="0">C.TDMA</p>
+	<p><input type="radio" name="q382" value="0">D.Multiple Carrier</p>
+</div>
+<div class="question">
+	<p>383. High Rate Packet Data Access (HRPDA</p>
+	<p><input type="radio" name="q383" value="0">A.Spread Carrier</p>
+	<p><input type="radio" name="q383" value="0">B.Mobility Management</p>
+	<p><input type="radio" name="q383" value="1">C.Both SC (Spread Carrier) and MM (Mobility Management)</p>
+	<p><input type="radio" name="q383" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>384. What do AN and AT stand for?</p>
+	<p><input type="radio" name="q384" value="0">A.AN = Access Network, AT = Access Terminal</p>
+	<p><input type="radio" name="q384" value="0">B.AN = Asynchronous Node, AT = Asynchronous Terminal</p>
+	<p><input type="radio" name="q384" value="1">C.AN = Access Node, AT = Access Terminal</p>
+	<p><input type="radio" name="q384" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>385. A Forward Channel works from ___ to ___.</p>
+	<p><input type="radio" name="q385" value="0">A.AT to AN</p>
+	<p><input type="radio" name="q385" value="1">B.AN to AT</p>
+	<p><input type="radio" name="q385" value="0">C.BTS to MSC</p>
+	<p><input type="radio" name="q385" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>386. A Reverse Channel works from ___ to ___.</p>
+	<p><input type="radio" name="q386" value="0">A.AN to AT</p>
+	<p><input type="radio" name="q386" value="1">B.AT to AN</p>
+	<p><input type="radio" name="q386" value="0">C.BTS to MSC</p>
+	<p><input type="radio" name="q386" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>387. What is the basic data rate (Minimum data rate</p>
+	<p><input type="radio" name="q387" value="0">A.32 Kbps</p>
+	<p><input type="radio" name="q387" value="1">B.38.4 Kbps</p>
+	<p><input type="radio" name="q387" value="0">C.56 Kbps</p>
+	<p><input type="radio" name="q387" value="0">D.64 Kbps</p>
+</div>
+<div class="question">
+	<p>388. In a CDMA2000 1xEV-DO network, Forward channels always transmit at ____ power.</p>
+	<p><input type="radio" name="q388" value="0">A.Half power</p>
+	<p><input type="radio" name="q388" value="0">B.Variable Power</p>
+	<p><input type="radio" name="q388" value="1">C.Full Power</p>
+	<p><input type="radio" name="q388" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>389. Forward channels in a CDMA2000 1xEV-DO transmit data at ___ rate.</p>
+	<p><input type="radio" name="q389" value="0">A.Half rate</p>
+	<p><input type="radio" name="q389" value="0">B.Full rate</p>
+	<p><input type="radio" name="q389" value="1">C.Variable-rate</p>
+	<p><input type="radio" name="q389" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>390. In an EVDO network, which selects a possible highest data rate between AT and AN?</p>
+	<p><input type="radio" name="q390" value="1">A.AT (Mobile)</p>
+	<p><input type="radio" name="q390" value="0">B.AN (BTS)</p>
+	<p><input type="radio" name="q390" value="0">C.BSC</p>
+	<p><input type="radio" name="q390" value="0">D.MSC</p>
+</div>
+<div class="question">
+	<p>391. In an EVDO network, all users of the same Sector share ___ in a TDMA mode.</p>
+	<p><input type="radio" name="q391" value="1">A.Channel</p>
+	<p><input type="radio" name="q391" value="0">B.Frequency</p>
+	<p><input type="radio" name="q391" value="0">C.Code</p>
+	<p><input type="radio" name="q391" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>392. Selecting a data rate for a Forward Channel or Reverse Channel is based on the ___ Ratio.</p>
+	<p><input type="radio" name="q392" value="0">A.A/B</p>
+	<p><input type="radio" name="q392" value="0">B.VSWR</p>
+	<p><input type="radio" name="q392" value="1">C.C/I</p>
+	<p><input type="radio" name="q392" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>393. What is the maximum data rate of a Forward Channel?</p>
+	<p><input type="radio" name="q393" value="0">A.1.2 Mbps</p>
+	<p><input type="radio" name="q393" value="0">B.2.4 Mbps</p>
+	<p><input type="radio" name="q393" value="1">C.3.1 Mbps</p>
+	<p><input type="radio" name="q393" value="0">D.3.6 Mbps</p>
+</div>
+<div class="question">
+	<p>394. State TRUE or FALSE. CDMA2000 1x and CDMA2000 1xEV-DO have different channel structure.</p>
+	<p><input type="radio" name="q394" value="0">A.FALSE</p>
+	<p><input type="radio" name="q394" value="1">B.TRUE</p>
+	<p><input type="radio" name="q394" value="0">C.-</p>
+	<p><input type="radio" name="q394" value="0">D.-</p>
+</div>
+<div class="question">
+	<p>395. What is the maximum data rate of an EV-DO Reverse Channel?</p>
+	<p><input type="radio" name="q395" value="0">A.512 Kbps</p>
+	<p><input type="radio" name="q395" value="0">B.1.2 Mbps</p>
+	<p><input type="radio" name="q395" value="1">C.1.8 Mbps</p>
+	<p><input type="radio" name="q395" value="0">D.2 Mbps</p>
+</div>
+<div class="question">
+	<p>396. CDMA2000 1xEV-DO follows ___ power control for Reverse channels.</p>
+	<p><input type="radio" name="q396" value="0">A.Fixed</p>
+	<p><input type="radio" name="q396" value="1">B.Dynamic</p>
+	<p><input type="radio" name="q396" value="0">C.No power control</p>
+	<p><input type="radio" name="q396" value="0">D.-</p>
+</div>
+<div class="question">
+	<p>397. What is the advantage of Reverse Link Power Control (Dynamic power control</p>
+	<p><input type="radio" name="q397" value="0">A.It increases Signal to Noise Ration (SNR)</p>
+	<p><input type="radio" name="q397" value="0">B.All Mobiles transmit controlled power towards the AN.</p>
+	<p><input type="radio" name="q397" value="0">C.System capacity is increased</p>
+	<p><input type="radio" name="q397" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>398. What are the techniques or mechanisms followed to avoid too many users transmitting at a high data rate towards the AN (Access Node or BTS</p>
+	<p><input type="radio" name="q398" value="0">A.Unicast Reverse Rate Limit (URRL)</p>
+	<p><input type="radio" name="q398" value="0">B.Broadcast Reverse Rate Limit (BRRL)</p>
+	<p><input type="radio" name="q398" value="0">C.By Restricting the maximum rate of AT(Mobiles)s to a level below 307.2 Kbps.</p>
+	<p><input type="radio" name="q398" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>399. How many different data rates which are multiples of 38.4 kbps are available in an EVDO network?</p>
+	<p><input type="radio" name="q399" value="0">A.5</p>
+	<p><input type="radio" name="q399" value="1">B.9</p>
+	<p><input type="radio" name="q399" value="0">C.14</p>
+	<p><input type="radio" name="q399" value="0">D.21</p>
+</div>
+<div class="question">
+	<p>400. What are the possible data rates available in a CDMA2000 1xEV-DO network?</p>
+	<p><input type="radio" name="q400" value="0">A.38.4, 153.6 and 307.2 Kbps</p>
+	<p><input type="radio" name="q400" value="0">B.76.8, 614.4 and 921.5 Kbps</p>
+	<p><input type="radio" name="q400" value="0">C.1228.8, 1843.2 and 2457.6 Kbps</p>
+	<p><input type="radio" name="q400" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>401. What is the Multiplexing technique followed by an 1xEV-DO network?</p>
+	<p><input type="radio" name="q401" value="0">A.FDM (Frequency Division Multiplexing)</p>
+	<p><input type="radio" name="q401" value="0">B.PDM (Phase Division Multiplexing)</p>
+	<p><input type="radio" name="q401" value="1">C.TDM (Time Division Multiplexing)</p>
+	<p><input type="radio" name="q401" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>402. EVDO implements Time Division Multiplexing for its ___ Links.</p>
+	<p><input type="radio" name="q402" value="1">A.Forward Link</p>
+	<p><input type="radio" name="q402" value="0">B.Reverse Link</p>
+	<p><input type="radio" name="q402" value="0">C.Both Forward and Reverse Links</p>
+	<p><input type="radio" name="q402" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>403. In a 1xEV-DO network, Reverse Links are implemented with ___ multiplexing.</p>
+	<p><input type="radio" name="q403" value="0">A.Time Division</p>
+	<p><input type="radio" name="q403" value="1">B.Code Division</p>
+	<p><input type="radio" name="q403" value="0">C.Time Division and Code Division</p>
+	<p><input type="radio" name="q403" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>404. The process of Scheduling forward link data to all users aiming to achieve maximum throughput is called?</p>
+	<p><input type="radio" name="q404" value="0">A.Equalisation</p>
+	<p><input type="radio" name="q404" value="1">B.Forward Link Scheduling</p>
+	<p><input type="radio" name="q404" value="0">C.Forward Pooling Strategy</p>
+	<p><input type="radio" name="q404" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>405. After measuring C/I (Carrier to Interference Ratio</p>
+	<p><input type="radio" name="q405" value="0">A.DCCH</p>
+	<p><input type="radio" name="q405" value="0">B.PICH</p>
+	<p><input type="radio" name="q405" value="1">C.DRC</p>
+	<p><input type="radio" name="q405" value="0">D.BCCH</p>
+</div>
+<div class="question">
+	<p>406. What is the name of Soft Handoff in which the Mobile Station (AT - Access Terminal</p>
+	<p><input type="radio" name="q406" value="0">A.Very Soft Handoff</p>
+	<p><input type="radio" name="q406" value="1">B.Virtual Soft Handoff</p>
+	<p><input type="radio" name="q406" value="0">C.Adaptive Soft Handoff</p>
+	<p><input type="radio" name="q406" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>407. A Virtual Soft Handoff in a 1xEVDO system works in ___ way.</p>
+	<p><input type="radio" name="q407" value="1">A.Forward</p>
+	<p><input type="radio" name="q407" value="0">B.Reverse</p>
+	<p><input type="radio" name="q407" value="0">C.Both Forward and Reverse</p>
+	<p><input type="radio" name="q407" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>408. The technology that allows an AT in a 1xEV-DO network to choose a data rate from 38.4 Kbps to 3.1 Mbps using a UATI request is called?</p>
+	<p><input type="radio" name="q408" value="0">A.Dynamic Modulation Coding</p>
+	<p><input type="radio" name="q408" value="1">B.Adaptive Modulation Coding</p>
+	<p><input type="radio" name="q408" value="0">C.Bipolar Modulation Coding</p>
+	<p><input type="radio" name="q408" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>409. What is the channel used to send UATI request by the AT to AN for rate adaption?</p>
+	<p><input type="radio" name="q409" value="1">A.Access channel</p>
+	<p><input type="radio" name="q409" value="0">B.Dedicated channel</p>
+	<p><input type="radio" name="q409" value="0">C.Power control channel</p>
+	<p><input type="radio" name="q409" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>410. State TRUE or FALSE. A CDMA2000 1x network has no Rate control.</p>
+	<p><input type="radio" name="q410" value="0">A.FALSE</p>
+	<p><input type="radio" name="q410" value="1">B.TRUE</p>
+	<p><input type="radio" name="q410" value="0">C.-</p>
+	<p><input type="radio" name="q410" value="0">D.-</p>
+</div>
+<div class="question">
+	<p>411. State TRUE of FALSE. A CDMA2000 1x network follows Fast Power control in both Forward and Reverse links.</p>
+	<p><input type="radio" name="q411" value="0">A.FALSE</p>
+	<p><input type="radio" name="q411" value="1">B.TRUE</p>
+	<p><input type="radio" name="q411" value="0">C.-</p>
+	<p><input type="radio" name="q411" value="0">D.-</p>
+</div>
+<div class="question">
+	<p>412. State TRUE or FALSE. A CDMA2000 1x network follows the same CDM technique in both Forward and Reverse links.</p>
+	<p><input type="radio" name="q412" value="0">A.FALSE</p>
+	<p><input type="radio" name="q412" value="1">B.TRUE</p>
+	<p><input type="radio" name="q412" value="0">C.-</p>
+	<p><input type="radio" name="q412" value="0">D.-</p>
+</div>
+<div class="question">
+	<p>413. What are the channels used in a CDMA 1xEVDO network?</p>
+	<p><input type="radio" name="q413" value="1">A.Access channels similar to CDMA2000 1x systems</p>
+	<p><input type="radio" name="q413" value="0">B.Similar to Enhanced Access channels of CDMA2000 1x</p>
+	<p><input type="radio" name="q413" value="0">C.DeAccess channels</p>
+	<p><input type="radio" name="q413" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>414. What are the handoffs implemented in a CDMA2000 1x network?</p>
+	<p><input type="radio" name="q414" value="0">A.Soft Forward and Soft Reverse handoffs</p>
+	<p><input type="radio" name="q414" value="0">B.Hard Forward and Hard Reverse Handoffs</p>
+	<p><input type="radio" name="q414" value="1">C.Both A and B</p>
+	<p><input type="radio" name="q414" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>415. Choose a correct statement about CDMA2000 1x network.</p>
+	<p><input type="radio" name="q415" value="0">A.It uses Convolution Code</p>
+	<p><input type="radio" name="q415" value="0">B.It uses Turbo Code</p>
+	<p><input type="radio" name="q415" value="0">C.It uses 48 Order FIR filter.</p>
+	<p><input type="radio" name="q415" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>416. Choose a correct statement about a 1xEV-DO network?</p>
+	<p><input type="radio" name="q416" value="0">A.It uses 48 Order FIR Filter</p>
+	<p><input type="radio" name="q416" value="0">B.It uses Turbo Code</p>
+	<p><input type="radio" name="q416" value="1">C.Both A and B</p>
+	<p><input type="radio" name="q416" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>417. What are the Handoffs implemented in a CDMA2000 1x-EV-DO network?</p>
+	<p><input type="radio" name="q417" value="0">A.Forward Virtual Soft Handoff</p>
+	<p><input type="radio" name="q417" value="0">B.Reverse Soft Handoff</p>
+	<p><input type="radio" name="q417" value="1">C.A and B</p>
+	<p><input type="radio" name="q417" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>418. Choose a correct statement about a 1xEVDO network.</p>
+	<p><input type="radio" name="q418" value="0">A.Only Rate control is present in the forward link</p>
+	<p><input type="radio" name="q418" value="0">B.Rate control is present in the Reverse link</p>
+	<p><input type="radio" name="q418" value="0">C.Power control is present in the Reverse link</p>
+	<p><input type="radio" name="q418" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>419. Who gave the TIA-856 name to the 1xEV-DO standard?</p>
+	<p><input type="radio" name="q419" value="0">A.ANSI</p>
+	<p><input type="radio" name="q419" value="1">B.ITU</p>
+	<p><input type="radio" name="q419" value="0">C.3GPP</p>
+	<p><input type="radio" name="q419" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>420. What is the length of each Time Slot or Channel in a CDMA2000 1xEV-DO network architecture?</p>
+	<p><input type="radio" name="q420" value="1">A.1.667 ms</p>
+	<p><input type="radio" name="q420" value="0">B.4.166 ms</p>
+	<p><input type="radio" name="q420" value="0">C.8.235 ms</p>
+	<p><input type="radio" name="q420" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>421. Which channel tells the mobile (AT</p>
+	<p><input type="radio" name="q421" value="0">A.Control channel</p>
+	<p><input type="radio" name="q421" value="1">B.Media Access Channel (MAC)</p>
+	<p><input type="radio" name="q421" value="0">C.PICH</p>
+	<p><input type="radio" name="q421" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>422. What is the range of a DRC (Digital Rate Control</p>
+	<p><input type="radio" name="q422" value="0">A.9-12</p>
+	<p><input type="radio" name="q422" value="0">B.13-24</p>
+	<p><input type="radio" name="q422" value="1">C.1-12</p>
+	<p><input type="radio" name="q422" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>423. What does the number sent by a mobile device (AT</p>
+	<p><input type="radio" name="q423" value="0">A.Error rate</p>
+	<p><input type="radio" name="q423" value="1">B.Data Rate</p>
+	<p><input type="radio" name="q423" value="0">C.Modulation rate</p>
+	<p><input type="radio" name="q423" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>424. A DRC-0 or Null Rate indicates?</p>
+	<p><input type="radio" name="q424" value="0">A.Mobile (AT) can not take any data.</p>
+	<p><input type="radio" name="q424" value="0">B.AT is handing off to another sector</p>
+	<p><input type="radio" name="q424" value="1">C.A and B</p>
+	<p><input type="radio" name="q424" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>425. The Forward Link Scheduling algorithm is also called ___ as it guarantees minimum service to all users.</p>
+	<p><input type="radio" name="q425" value="0">A.Hybrid Algorithm</p>
+	<p><input type="radio" name="q425" value="0">B.Kries Algorithm</p>
+	<p><input type="radio" name="q425" value="1">C.Proportional Fair algorithm</p>
+	<p><input type="radio" name="q425" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>426. If a DRC number is more then the channel quality to receive high data rate is ___.</p>
+	<p><input type="radio" name="q426" value="0">A.Less</p>
+	<p><input type="radio" name="q426" value="1">B.More</p>
+	<p><input type="radio" name="q426" value="0">C.-</p>
+	<p><input type="radio" name="q426" value="0">D.-</p>
+</div>
+<div class="question">
+	<p>427. What is the type of ARQ (Automatic Repeat Request</p>
+	<p><input type="radio" name="q427" value="0">A.Hybrid ARQ</p>
+	<p><input type="radio" name="q427" value="0">B.Redundancy ARQ</p>
+	<p><input type="radio" name="q427" value="1">C.Incremental Redundancy Hybrid ARQ</p>
+	<p><input type="radio" name="q427" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>428. Choose a correct statement about Multi-packet transmissions using Hybrid ARQ technique in an EVDO network?</p>
+	<p><input type="radio" name="q428" value="0">A.The data can be sent in any parts using multiple time slots at the same time or different time</p>
+	<p><input type="radio" name="q428" value="0">B.Sending an early acknowledgement even before receiving all packets simply cancels sending the remaining packets by the AN (Access Node or BTS)</p>
+	<p><input type="radio" name="q428" value="0">C.If there is no Acknowledgement about packets by the mobile (AT), all packets are sent and resent again and again withing permissible times.</p>
+	<p><input type="radio" name="q428" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>429. What is the Closed Loop power control frequency to adjust power levels in the AT or AN in the Reverse Link of an EVDO network?</p>
+	<p><input type="radio" name="q429" value="0">A.512 ms</p>
+	<p><input type="radio" name="q429" value="1">B.1.25 ms</p>
+	<p><input type="radio" name="q429" value="0">C.5 ms</p>
+	<p><input type="radio" name="q429" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>430. What does LTE stands for?</p>
+	<p><input type="radio" name="q430" value="0">A.Level Telecom Advanced</p>
+	<p><input type="radio" name="q430" value="0">B.Long Terminal Advanced</p>
+	<p><input type="radio" name="q430" value="1">C.Long Term Evolution</p>
+	<p><input type="radio" name="q430" value="0">D.Long Time Evolution</p>
+</div>
+<div class="question">
+	<p>431. Though LTE is treated as a 4G (Fourth Generation</p>
+	<p><input type="radio" name="q431" value="0">A.2.5G</p>
+	<p><input type="radio" name="q431" value="0">B.3G</p>
+	<p><input type="radio" name="q431" value="0">C.3.5G</p>
+	<p><input type="radio" name="q431" value="1">D.3.9G</p>
+</div>
+<div class="question">
+	<p>432. What is the Access technique used by an LTE or LTE-A network?</p>
+	<p><input type="radio" name="q432" value="0">A.WCDMA</p>
+	<p><input type="radio" name="q432" value="0">B.FDMA</p>
+	<p><input type="radio" name="q432" value="0">C.PDMA</p>
+	<p><input type="radio" name="q432" value="1">D.OFDMA</p>
+</div>
+<div class="question">
+	<p>433. What does OFDMA stands for?</p>
+	<p><input type="radio" name="q433" value="0">A.Original Frequency Division Multiple Access</p>
+	<p><input type="radio" name="q433" value="1">B.Orthogonal Frequency Division Multiple Access</p>
+	<p><input type="radio" name="q433" value="0">C.Omitted Frequency Division Multiple Access</p>
+	<p><input type="radio" name="q433" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>434. What is the carrier Bandwidth in a typical 3G WCDMA based network?</p>
+	<p><input type="radio" name="q434" value="0">A.1.4 Mhz</p>
+	<p><input type="radio" name="q434" value="0">B.3MHz</p>
+	<p><input type="radio" name="q434" value="1">C.5 MHz</p>
+	<p><input type="radio" name="q434" value="0">D.10 MHz</p>
+</div>
+<div class="question">
+	<p>435. The Air interface or Radio interface of a 4G LTE network is ____ as a 3G network.</p>
+	<p><input type="radio" name="q435" value="0">A.Same</p>
+	<p><input type="radio" name="q435" value="1">B.Not same</p>
+	<p><input type="radio" name="q435" value="0">C.-</p>
+	<p><input type="radio" name="q435" value="0">D.-</p>
+</div>
+<div class="question">
+	<p>436. ITU stands for ___.</p>
+	<p><input type="radio" name="q436" value="0">A.International Television Union</p>
+	<p><input type="radio" name="q436" value="0">B.Internal Telecommunication Union</p>
+	<p><input type="radio" name="q436" value="0">C.Inventions for Telecommunication Union</p>
+	<p><input type="radio" name="q436" value="1">D.International Telecommunication Union</p>
+</div>
+<div class="question">
+	<p>437. IMT-A (International Mobile Telecommunications Advanced</p>
+	<p><input type="radio" name="q437" value="0">A.LTE-A (LTE Advanced)</p>
+	<p><input type="radio" name="q437" value="0">B.The system that implements specifications of ITU-R(ITU Radiocommunication)</p>
+	<p><input type="radio" name="q437" value="0">C.Also known as 4.5G</p>
+	<p><input type="radio" name="q437" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>438. What is the name of a Base Transceiver Station in 2G system equivalent in a 4G LTE system?</p>
+	<p><input type="radio" name="q438" value="0">A.nodeB</p>
+	<p><input type="radio" name="q438" value="1">B.eNodeB</p>
+	<p><input type="radio" name="q438" value="0">C.aNodeB</p>
+	<p><input type="radio" name="q438" value="0">D.nodeBPro</p>
+</div>
+<div class="question">
+	<p>439. The Evolution-Data Optimized Voice (EVDV</p>
+	<p><input type="radio" name="q439" value="0">A.3GPP</p>
+	<p><input type="radio" name="q439" value="0">B.3GPP2</p>
+	<p><input type="radio" name="q439" value="0">C.-</p>
+	<p><input type="radio" name="q439" value="1">D.-</p>
+</div>
+<div class="question">
+	<p>440. What is the other name for a 3GPP2 based 4G network?</p>
+	<p><input type="radio" name="q440" value="0">A.Super Mobile Broadband (SMB)</p>
+	<p><input type="radio" name="q440" value="0">B.Advanced Mobile Broadband (AMB)</p>
+	<p><input type="radio" name="q440" value="1">C.Ultra Mobile Broadband (UMB)</p>
+	<p><input type="radio" name="q440" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>441. UMB 4G networks are superseded by ___ networks.</p>
+	<p><input type="radio" name="q441" value="0">A.EV-DV networks</p>
+	<p><input type="radio" name="q441" value="1">B.LTE</p>
+	<p><input type="radio" name="q441" value="0">C.WCDMA</p>
+	<p><input type="radio" name="q441" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>442. What does WIMAX stands for?</p>
+	<p><input type="radio" name="q442" value="0">A.Wireless Maximum</p>
+	<p><input type="radio" name="q442" value="0">B.Wireless Intermediate Microwave Access</p>
+	<p><input type="radio" name="q442" value="1">C.Wireless Interoperability for Microwave Access</p>
+	<p><input type="radio" name="q442" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>443. What are the advantages of a 4G LTE network over 3G network?</p>
+	<p><input type="radio" name="q443" value="0">A.More Spectral Efficiency</p>
+	<p><input type="radio" name="q443" value="0">B.Low power consumption</p>
+	<p><input type="radio" name="q443" value="0">C.Scalability and Flexibility with other networks</p>
+	<p><input type="radio" name="q443" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>444. What does MIMO stand for?</p>
+	<p><input type="radio" name="q444" value="0">A.Minimum Interference Maximum Output</p>
+	<p><input type="radio" name="q444" value="0">B.Minimum Input Multiple Output</p>
+	<p><input type="radio" name="q444" value="1">C.Multiple Input Multiple Output</p>
+	<p><input type="radio" name="q444" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>445. What is the round trip latency between a Mobile phone and Base station in a 4G LTE network?</p>
+	<p><input type="radio" name="q445" value="0">A.1ms</p>
+	<p><input type="radio" name="q445" value="0">B.5ms</p>
+	<p><input type="radio" name="q445" value="1">C.10ms</p>
+	<p><input type="radio" name="q445" value="0">D.20ms</p>
+</div>
+<div class="question">
+	<p>446. What does AAS represent in a UMB (Ultra Mobile Broadband</p>
+	<p><input type="radio" name="q446" value="0">A.Antenna Average System</p>
+	<p><input type="radio" name="q446" value="1">B.Advanced Antenna System</p>
+	<p><input type="radio" name="q446" value="0">C.Analog Amplitude System</p>
+	<p><input type="radio" name="q446" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>447. What is the name given to a 4G LTE or UMB based Core Network Architecture?</p>
+	<p><input type="radio" name="q447" value="1">A.SAE (System Architecture Evolution)</p>
+	<p><input type="radio" name="q447" value="0">B.SAP (System Architecture Pro)</p>
+	<p><input type="radio" name="q447" value="0">C.CAS (Core System Architecture)</p>
+	<p><input type="radio" name="q447" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>448. What are the differences between FDM and OFDM?</p>
+	<p><input type="radio" name="q448" value="0">A.FDM uses Guard bands. OFDM does not need Guard bands.</p>
+	<p><input type="radio" name="q448" value="0">B.FDM transmits data in a big channel. OFDM transmits chunks of data through a group of small channels.</p>
+	<p><input type="radio" name="q448" value="0">C.FDM is sensitive to Multipath effects and Noise. In OFDM, only very few Sub-channels are affected by Noise and Multipath diversity.</p>
+	<p><input type="radio" name="q448" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>449. Initial 4G LTE standard supported Carrier Aggregation. State TRUE or FALSE.</p>
+	<p><input type="radio" name="q449" value="0">A.TRUE</p>
+	<p><input type="radio" name="q449" value="1">B.FALSE</p>
+	<p><input type="radio" name="q449" value="0">C.-</p>
+	<p><input type="radio" name="q449" value="0">D.-</p>
+</div>
+<div class="question">
+	<p>450. Which organization provides standards for VoWi-Fi technology?</p>
+	<p><input type="radio" name="q450" value="0">A.ANSI (American National Standards Institute)</p>
+	<p><input type="radio" name="q450" value="1">B.3GPP (Third Generation Partnership Projects)</p>
+	<p><input type="radio" name="q450" value="0">C.3GPP2 (Third Generation Partnership Projects 2)</p>
+	<p><input type="radio" name="q450" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>451. Voice Over Wi-Fi uses ____ spectrum. (Unlicensed/Licensed</p>
+	<p><input type="radio" name="q451" value="1">A.Unlicensed</p>
+	<p><input type="radio" name="q451" value="0">B.Licensed</p>
+	<p><input type="radio" name="q451" value="0">C.-</p>
+	<p><input type="radio" name="q451" value="0">D.-</p>
+</div>
+<div class="question">
+	<p>452. What is the problem with Licensed spectrum for Mobile Network Operator (MNO</p>
+	<p><input type="radio" name="q452" value="0">A.It is provided in limited quantity (Mhz or Ghz) to each network operator of the respective country.</p>
+	<p><input type="radio" name="q452" value="0">B.It is provided after action from Regulatory authorities.</p>
+	<p><input type="radio" name="q452" value="0">C.Spectrum fee is either one time or recurring.</p>
+	<p><input type="radio" name="q452" value="1">D.All the above</p>
+</div>
+<div class="question">
+	<p>453. State TRUE or FALSE. To use the Unlicensed spectrum, either the Operator or the Customer has to apply for permission from the government.</p>
+	<p><input type="radio" name="q453" value="1">A.FALSE</p>
+	<p><input type="radio" name="q453" value="0">B.TRUE</p>
+	<p><input type="radio" name="q453" value="0">C.-</p>
+	<p><input type="radio" name="q453" value="0">D.-</p>
+</div>
+<div class="question">
+	<p>454. What does WiFi (Wi-Fi</p>
+	<p><input type="radio" name="q454" value="0">A.Wireless Feature</p>
+	<p><input type="radio" name="q454" value="0">B.Wide Area Network Feature</p>
+	<p><input type="radio" name="q454" value="1">C.Wireless Fidelity</p>
+	<p><input type="radio" name="q454" value="0">D.Wide Area Network Fidelity</p>
+</div>
+<div class="question">
+	<p>455. What is the IEEE standard for a Wi-Fi technology?</p>
+	<p><input type="radio" name="q455" value="0">A.802.1</p>
+	<p><input type="radio" name="q455" value="1">B.802.11</p>
+	<p><input type="radio" name="q455" value="0">C.802.3</p>
+	<p><input type="radio" name="q455" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>456. State TRUE or FALSE. All modern Wi-Fi modems or routers support VoWiFi feature?</p>
+	<p><input type="radio" name="q456" value="1">A.FALSE</p>
+	<p><input type="radio" name="q456" value="0">B.TRUE</p>
+	<p><input type="radio" name="q456" value="0">C.-</p>
+	<p><input type="radio" name="q456" value="0">D.-</p>
+</div>
+<div class="question">
+	<p>457. Voice over WiFi works on ____ network.</p>
+	<p><input type="radio" name="q457" value="0">A.Same operator WiFi hotspot</p>
+	<p><input type="radio" name="q457" value="0">B.Different operator WiFi hotspot</p>
+	<p><input type="radio" name="q457" value="0">C.Any Operator Internet Service like Broadband with a WiFi router</p>
+	<p><input type="radio" name="q457" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>458. Voice Over Wi-Fi or VoWi-FI is also called ___.</p>
+	<p><input type="radio" name="q458" value="0">A.Wi-Fi Calling</p>
+	<p><input type="radio" name="q458" value="0">B.Hotspot Calling</p>
+	<p><input type="radio" name="q458" value="0">C.Home Free Calling</p>
+	<p><input type="radio" name="q458" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>459. Which is a 3GPP based network below?</p>
+	<p><input type="radio" name="q459" value="0">A.2G (GSM)</p>
+	<p><input type="radio" name="q459" value="0">B.3G (UMTS)</p>
+	<p><input type="radio" name="q459" value="0">C.4G LTE-A, 4G LTE-A Pro</p>
+	<p><input type="radio" name="q459" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>460. Which is a Non-3GPP network below?</p>
+	<p><input type="radio" name="q460" value="1">A.Wi-Fi</p>
+	<p><input type="radio" name="q460" value="0">B.WiMax</p>
+	<p><input type="radio" name="q460" value="0">C.4G LTE-A</p>
+	<p><input type="radio" name="q460" value="0">D.3G UMTS</p>
+</div>
+<div class="question">
+	<p>461. VoWi-Fi calling usually allows seamless handover of calls from and to the Cellular network. State TRUE or FALSE.</p>
+	<p><input type="radio" name="q461" value="0">A.FALSE</p>
+	<p><input type="radio" name="q461" value="1">B.TRUE</p>
+	<p><input type="radio" name="q461" value="0">C.-</p>
+	<p><input type="radio" name="q461" value="0">D.-</p>
+</div>
+<div class="question">
+	<p>462. A Generic Access Network (GAN</p>
+	<p><input type="radio" name="q462" value="1">A.FALSE</p>
+	<p><input type="radio" name="q462" value="0">B.TRUE</p>
+	<p><input type="radio" name="q462" value="0">C.-</p>
+	<p><input type="radio" name="q462" value="0">D.-</p>
+</div>
+<div class="question">
+	<p>463. What does VoLTE stand for?</p>
+	<p><input type="radio" name="q463" value="1">A.Voice over LTE</p>
+	<p><input type="radio" name="q463" value="0">B.Voice Offload LTE</p>
+	<p><input type="radio" name="q463" value="0">C.Voice Outgoing LTE</p>
+	<p><input type="radio" name="q463" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>464. Over VoLTE or VoWi-Fi, a customer is authenticated through ____.</p>
+	<p><input type="radio" name="q464" value="0">A.Username, Password</p>
+	<p><input type="radio" name="q464" value="1">B.SIM</p>
+	<p><input type="radio" name="q464" value="0">C.Fingerprint</p>
+	<p><input type="radio" name="q464" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>465. What is the other name for GAN network?</p>
+	<p><input type="radio" name="q465" value="0">A.Virtual Network Access (VMA)</p>
+	<p><input type="radio" name="q465" value="0">B.Licensed Mobile Access (LMA)</p>
+	<p><input type="radio" name="q465" value="1">C.Unlicensed Mobile Access (UMA)</p>
+	<p><input type="radio" name="q465" value="0">D.All</p>
+</div>
+<div class="question">
+	<p>466. What is the operating frequency of a Wi-Fi access point?</p>
+	<p><input type="radio" name="q466" value="0">A.2.4 GHz</p>
+	<p><input type="radio" name="q466" value="0">B.5 GHz</p>
+	<p><input type="radio" name="q466" value="1">C.Both 2.4 GHz and 5 GHz</p>
+	<p><input type="radio" name="q466" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>467. What is the advantage for a Mobile Network Operator of implementing VoWi-Fi on its network?</p>
+	<p><input type="radio" name="q467" value="0">A.Good call quality as Home Wi-Fi offers superior data speed.</p>
+	<p><input type="radio" name="q467" value="0">B.Network operator saves its precious spectrum or radio resources as calls are routed through an External-IP or Public IP network.</p>
+	<p><input type="radio" name="q467" value="0">C.Network operator need not upgrade its Tower or Base Station hardware to support too many users. Coverage issues are solved by customers themselves by using WiFi.</p>
+	<p><input type="radio" name="q467" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>468. How many UMA or GAN based handset modes are available?</p>
+	<p><input type="radio" name="q468" value="0">A.2</p>
+	<p><input type="radio" name="q468" value="1">B.4</p>
+	<p><input type="radio" name="q468" value="0">C.8</p>
+	<p><input type="radio" name="q468" value="0">D.16</p>
+</div>
+<div class="question">
+	<p>469. What does GERAN stand for?</p>
+	<p><input type="radio" name="q469" value="0">A.General Radio Access Network</p>
+	<p><input type="radio" name="q469" value="0">B.Generic Edge Radio Access Network</p>
+	<p><input type="radio" name="q469" value="1">C.GSM EDGE Radio Access Network</p>
+	<p><input type="radio" name="q469" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>470. A GERAN-Only network mode supports ___ network.</p>
+	<p><input type="radio" name="q470" value="1">A.Cellular Only</p>
+	<p><input type="radio" name="q470" value="0">B.Wi-Fi only</p>
+	<p><input type="radio" name="q470" value="0">C.Both Cellular and WiFi</p>
+	<p><input type="radio" name="q470" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>471. A GERAN-Preferred network mode supports ___ network.</p>
+	<p><input type="radio" name="q471" value="0">A.Cellular only</p>
+	<p><input type="radio" name="q471" value="0">B.WiFi only</p>
+	<p><input type="radio" name="q471" value="1">C.Cellular if available, otherwise WiFi or 802.11 network</p>
+	<p><input type="radio" name="q471" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>472. A GAN-Preferred network mode supports ___ network.</p>
+	<p><input type="radio" name="q472" value="0">A.Cellular only</p>
+	<p><input type="radio" name="q472" value="0">B.WiFi only</p>
+	<p><input type="radio" name="q472" value="0">C.Cellular only if available, otherwise 802.11 network</p>
+	<p><input type="radio" name="q472" value="1">D.WiFi or 802.11 network if available, otherwise a cellular network</p>
+</div>
+<div class="question">
+	<p>473. A GAN-Only network mode supports ___ network.</p>
+	<p><input type="radio" name="q473" value="0">A.Cellular only</p>
+	<p><input type="radio" name="q473" value="1">B.WiFi or 802.11 only</p>
+	<p><input type="radio" name="q473" value="0">C.Cellular and WiFi</p>
+	<p><input type="radio" name="q473" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>474. What is the problem of using VoWi-Fi network for a customer?</p>
+	<p><input type="radio" name="q474" value="0">A.Switching ON Wi-Fi and Mobile Data at the same time drains more battery</p>
+	<p><input type="radio" name="q474" value="0">B.The customer has to waste his Home Wifi or Broadband data for calls</p>
+	<p><input type="radio" name="q474" value="0">C.The customer has to purchase a Compatible Phone and Wi-Fi Router and spend extra money</p>
+	<p><input type="radio" name="q474" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>475. Which 3GPP standard defined accessing Mobile Core IP network from the WLAN network?</p>
+	<p><input type="radio" name="q475" value="0">A.3GPP R4</p>
+	<p><input type="radio" name="q475" value="0">B.3GPP R5</p>
+	<p><input type="radio" name="q475" value="1">C.3GPP R6</p>
+	<p><input type="radio" name="q475" value="0">D.3GPP R7</p>
+</div>
+<div class="question">
+	<p>476. A GAN (Generic Access Network</p>
+	<p><input type="radio" name="q476" value="0">A.IP Multimedia Subsystem (IMS)</p>
+	<p><input type="radio" name="q476" value="0">B.Session Initiation Protocol (SIP)</p>
+	<p><input type="radio" name="q476" value="1">C.Both IMS and SIP</p>
+	<p><input type="radio" name="q476" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>477. To support VoWi-Fi, mobile phones have to confirm to which 3GPP standards?</p>
+	<p><input type="radio" name="q477" value="0">A.3GPP R8</p>
+	<p><input type="radio" name="q477" value="0">B.3GPP R9</p>
+	<p><input type="radio" name="q477" value="1">C.3GPP R10</p>
+	<p><input type="radio" name="q477" value="0">D.All</p>
+</div>
+<div class="question">
+	<p>478. Voice quality of VoWi-Fi compared to VoLTE network?</p>
+	<p><input type="radio" name="q478" value="0">A.More</p>
+	<p><input type="radio" name="q478" value="0">B.Less</p>
+	<p><input type="radio" name="q478" value="1">C.Same</p>
+	<p><input type="radio" name="q478" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>479. What is the difference between VoWiFi and VoLTE?</p>
+	<p><input type="radio" name="q479" value="0">A.VoLTE calls work on the same core network as the data is served from the core network itself.</p>
+	<p><input type="radio" name="q479" value="0">B.VoWiFi calls may be originated from either the Same network data or Different network data</p>
+	<p><input type="radio" name="q479" value="0">C.VoLTE calls require good network coverage whereas VoWiFi calls require any WiFi internet signal.</p>
+	<p><input type="radio" name="q479" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>480. What is the core cellular technology generation supporting VoWiFi technology?</p>
+	<p><input type="radio" name="q480" value="0">A.2G</p>
+	<p><input type="radio" name="q480" value="0">B.3G</p>
+	<p><input type="radio" name="q480" value="0">C.4G and above</p>
+	<p><input type="radio" name="q480" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>481. For untrusted VoWiFi (calling from any network wifi</p>
+	<p><input type="radio" name="q481" value="0">A.IMS (IP Multimedia Subsystem)</p>
+	<p><input type="radio" name="q481" value="0">B.IPsec (IP Security)</p>
+	<p><input type="radio" name="q481" value="0">C.ePDG</p>
+	<p><input type="radio" name="q481" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>482. VoWiFi allows calling from a Mobile even without a mobile signal. State TRUE or FALSE.</p>
+	<p><input type="radio" name="q482" value="0">A.FALSE</p>
+	<p><input type="radio" name="q482" value="1">B.TRUE</p>
+	<p><input type="radio" name="q482" value="0">C.-</p>
+	<p><input type="radio" name="q482" value="0">D.-</p>
+</div>
+<div class="question">
+	<p>483. What is the main element of VoWiFi architecture?</p>
+	<p><input type="radio" name="q483" value="0">A.PDG (Packet Data Gateway)</p>
+	<p><input type="radio" name="q483" value="0">B.ePDG (Evolved PDG)</p>
+	<p><input type="radio" name="q483" value="1">C.PDG or ePDG</p>
+	<p><input type="radio" name="q483" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>484. What is the interface between a UE (User Equipment</p>
+	<p><input type="radio" name="q484" value="0">A.SWm</p>
+	<p><input type="radio" name="q484" value="0">B.SWn</p>
+	<p><input type="radio" name="q484" value="1">C.SWu</p>
+	<p><input type="radio" name="q484" value="0">D.SWa</p>
+</div>
+<div class="question">
+	<p>485. What is the interface between ePDG (Evolved Packet Data Gateway</p>
+	<p><input type="radio" name="q485" value="0">A.S2a</p>
+	<p><input type="radio" name="q485" value="1">B.S2b</p>
+	<p><input type="radio" name="q485" value="0">C.SWu</p>
+	<p><input type="radio" name="q485" value="0">D.SWm</p>
+</div>
+<div class="question">
+	<p>486. A Trusted Non-3GPP network element can directly communicate with PDN Gateway using ___ interface.</p>
+	<p><input type="radio" name="q486" value="1">A.S2a</p>
+	<p><input type="radio" name="q486" value="0">B.S2b</p>
+	<p><input type="radio" name="q486" value="0">C.S2c</p>
+	<p><input type="radio" name="q486" value="0">D.SWu</p>
+</div>
+<div class="question">
+	<p>487. A Trusted Non-3GPP network element can directly communicate with a PCRF (Policy and Charging Rules Function</p>
+	<p><input type="radio" name="q487" value="1">A.Gxa</p>
+	<p><input type="radio" name="q487" value="0">B.Gxb</p>
+	<p><input type="radio" name="q487" value="0">C.Gxc</p>
+	<p><input type="radio" name="q487" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>488. A Trusted Non-3GPP network element can directly communicate with AAA authentication server using ___ interface.</p>
+	<p><input type="radio" name="q488" value="1">A.STa</p>
+	<p><input type="radio" name="q488" value="0">B.STb</p>
+	<p><input type="radio" name="q488" value="0">C.STc</p>
+	<p><input type="radio" name="q488" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>489. An Untrusted Non-3GPP network element can communicate with ePDG (Evolved Packet Data Gateway</p>
+	<p><input type="radio" name="q489" value="0">A.SWm</p>
+	<p><input type="radio" name="q489" value="1">B.SWn</p>
+	<p><input type="radio" name="q489" value="0">C.SWa</p>
+	<p><input type="radio" name="q489" value="0">D.SWb</p>
+</div>
+<div class="question">
+	<p>490. An Untrusted Non-3GPP network element can communicate with the 3GPP AAA authentication server using ___ interface.</p>
+	<p><input type="radio" name="q490" value="1">A.SWa</p>
+	<p><input type="radio" name="q490" value="0">B.SWb</p>
+	<p><input type="radio" name="q490" value="0">C.SWc</p>
+	<p><input type="radio" name="q490" value="0">D.STa</p>
+</div>
+<div class="question">
+	<p>491. What is the interface between an ePDG and 3GPP AAA server in a GAN or VoWiFi architecture?</p>
+	<p><input type="radio" name="q491" value="0">A.SWa</p>
+	<p><input type="radio" name="q491" value="0">B.SWb</p>
+	<p><input type="radio" name="q491" value="1">C.SWm</p>
+	<p><input type="radio" name="q491" value="0">D.SWn</p>
+</div>
+<div class="question">
+	<p>492. What is the interface between a 3GPP AAA server and a PDN Gateway element in a VoWi-Fi network architecture?</p>
+	<p><input type="radio" name="q492" value="0">A.S2a</p>
+	<p><input type="radio" name="q492" value="0">B.S2b</p>
+	<p><input type="radio" name="q492" value="0">C.S6a</p>
+	<p><input type="radio" name="q492" value="1">D.S6b</p>
+</div>
+<div class="question">
+	<p>493. What is the interface between ePDG and PCRF elements in a VoWiFi architecture?</p>
+	<p><input type="radio" name="q493" value="0">A.Gxa</p>
+	<p><input type="radio" name="q493" value="1">B.Gxb</p>
+	<p><input type="radio" name="q493" value="0">C.S6a</p>
+	<p><input type="radio" name="q493" value="0">D.S6b</p>
+</div>
+<div class="question">
+	<p>494. What is the interface between a PDN Gateway and PCRF element in GAN (Generic Access Network</p>
+	<p><input type="radio" name="q494" value="0">A.Gxa</p>
+	<p><input type="radio" name="q494" value="0">B.Gxb</p>
+	<p><input type="radio" name="q494" value="0">C.Gxc</p>
+	<p><input type="radio" name="q494" value="1">D.Gx</p>
+</div>
+<div class="question">
+	<p>495. What is the interface between a PCRF and IP Services (IMS, PSS etc</p>
+	<p><input type="radio" name="q495" value="0">A.Gx</p>
+	<p><input type="radio" name="q495" value="0">B.Gxc</p>
+	<p><input type="radio" name="q495" value="0">C.Rx</p>
+	<p><input type="radio" name="q495" value="1">D.SGi</p>
+</div>
+<div class="question">
+	<p>496. What is the interface between PCRF and Operator's IP Services element in a Non-Roaming GAN architecture?</p>
+	<p><input type="radio" name="q496" value="0">A.S2a</p>
+	<p><input type="radio" name="q496" value="0">B.S2b</p>
+	<p><input type="radio" name="q496" value="1">C.Rx</p>
+	<p><input type="radio" name="q496" value="0">D.SGi</p>
+</div>
+<div class="question">
+	<p>497. What is the interface between PCRF and Serving-Gateway in a Non-Roaming VoWi-Fi architecture?</p>
+	<p><input type="radio" name="q497" value="0">A.Gx</p>
+	<p><input type="radio" name="q497" value="0">B.Gxa</p>
+	<p><input type="radio" name="q497" value="0">C.Gxb</p>
+	<p><input type="radio" name="q497" value="1">D.Gxc</p>
+</div>
+<div class="question">
+	<p>498. What is the interface between a HSS (Home Suscriber Server</p>
+	<p><input type="radio" name="q498" value="0">A.S2a</p>
+	<p><input type="radio" name="q498" value="0">B.S2b</p>
+	<p><input type="radio" name="q498" value="1">C.S6a</p>
+	<p><input type="radio" name="q498" value="0">D.S6</p>
+</div>
+<div class="question">
+	<p>499. What is the interface between HSS (Home Subscriber Server</p>
+	<p><input type="radio" name="q499" value="0">A.SWu</p>
+	<p><input type="radio" name="q499" value="1">B.SWx</p>
+	<p><input type="radio" name="q499" value="0">C.SWm</p>
+	<p><input type="radio" name="q499" value="0">D.SWn</p>
+</div>
+<div class="question">
+	<p>500. State TRUE or FALSE. In a Roaming GAN architecture, PCRF element is divided as vPCRF (Visitor PCRF</p>
+	<p><input type="radio" name="q500" value="0">A.FALSE</p>
+	<p><input type="radio" name="q500" value="1">B.TRUE</p>
+	<p><input type="radio" name="q500" value="0">C.-</p>
+	<p><input type="radio" name="q500" value="0">D.-</p>
+</div>
+<div class="question">
+	<p>501. In an Evolved Packet System (EPS</p>
+	<p><input type="radio" name="q501" value="0">A.S6</p>
+	<p><input type="radio" name="q501" value="1">B.S9</p>
+	<p><input type="radio" name="q501" value="0">C.S8</p>
+	<p><input type="radio" name="q501" value="0">D.S6a</p>
+</div>
+<div class="question">
+	<p>502. In a Roaming GAN architecture, ePDG uses vPCRF and PDN-Gateway uses hPCRF. State TRUE or FALSE.</p>
+	<p><input type="radio" name="q502" value="0">A.FALSE</p>
+	<p><input type="radio" name="q502" value="1">B.TRUE</p>
+	<p><input type="radio" name="q502" value="0">C.-</p>
+	<p><input type="radio" name="q502" value="0">D.-</p>
+</div>
+<div class="question">
+	<p>503. Choose the correct statement about Roaming GAN architecture elements below.</p>
+	<p><input type="radio" name="q503" value="0">A.vPCRF interfaces with Serving Gateway and ePDG through Gxc and Gxb interfaces respectively.</p>
+	<p><input type="radio" name="q503" value="0">B.hPCRF communicates with PDN Gateway and IP-Services-Element through Gx and Rx interfaces respectively.</p>
+	<p><input type="radio" name="q503" value="0">C.A Trusted Non-3GPP access element communicates directly with vPCRF using Gxa interface.</p>
+	<p><input type="radio" name="q503" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>504. Choose the correct abbreviations below.</p>
+	<p><input type="radio" name="q504" value="0">A.EPS = Evolved Packet System</p>
+	<p><input type="radio" name="q504" value="0">B.PMIP = Proxy Mobile IP</p>
+	<p><input type="radio" name="q504" value="0">C.GANC = Generic Access Network Controller</p>
+	<p><input type="radio" name="q504" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>505. Choose the correct abbreviations below.</p>
+	<p><input type="radio" name="q505" value="0">A.SON = Self Configuring and Self-Optimizing Network</p>
+	<p><input type="radio" name="q505" value="0">B.WMM = WiFi Multimedia</p>
+	<p><input type="radio" name="q505" value="0">C.NSWO = Non-Seamless WLAN Offload</p>
+	<p><input type="radio" name="q505" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>506. Rove-In refers to hand-over of call to ___ network.</p>
+	<p><input type="radio" name="q506" value="0">A.3GPP network</p>
+	<p><input type="radio" name="q506" value="1">B.802.11 or Wi-Fi network or GAN network</p>
+	<p><input type="radio" name="q506" value="0">C.Any to any network</p>
+	<p><input type="radio" name="q506" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>507. Rove-out refers to handing of Call to ___ network.</p>
+	<p><input type="radio" name="q507" value="1">A.3GPP network</p>
+	<p><input type="radio" name="q507" value="0">B.802.11 or Wi-Fi or GAN network</p>
+	<p><input type="radio" name="q507" value="0">C.Any to Any network</p>
+	<p><input type="radio" name="q507" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>508. To provide roaming of calls between Wi-Fi and 3GPP networks, the user SIM contains ____.</p>
+	<p><input type="radio" name="q508" value="0">A.FQDN (Fully Qualified Domain Name) or IP address of GANC (GAN Controller)</p>
+	<p><input type="radio" name="q508" value="0">B.SEGW (Security Gateway) IP address</p>
+	<p><input type="radio" name="q508" value="0">C.GANC information associated with Cell Index of 2G, 3G or 4G Base Station.</p>
+	<p><input type="radio" name="q508" value="1">D.All</p>
+</div>
+<div class="question">
+	<p>509. State TRUE or FALSE. In Non-Roaming scenario, the mobile can use any local IP of the WiFi network to make and receive calls. In a Roaming scenario, unique global IP is mandatory.</p>
+	<p><input type="radio" name="q509" value="0">A.FALSE</p>
+	<p><input type="radio" name="q509" value="1">B.TRUE</p>
+	<p><input type="radio" name="q509" value="0">C.-</p>
+	<p><input type="radio" name="q509" value="0">D.-</p>
+</div>
+<div class="question">
+	<p>510. State TRUE or FALSE. The mobile periodically informs to GANC (Generic Access Network Controller</p>
+	<p><input type="radio" name="q510" value="0">A.FALSE</p>
+	<p><input type="radio" name="q510" value="1">B.TRUE</p>
+	<p><input type="radio" name="q510" value="0">C.-</p>
+	<p><input type="radio" name="q510" value="0">D.-</p>
+</div>
+<div class="question">
+	<p>511. The authentication of user SIM to the GANC is done using ___.</p>
+	<p><input type="radio" name="q511" value="0">A.EAP-SIM</p>
+	<p><input type="radio" name="q511" value="0">B.EAP-AKA</p>
+	<p><input type="radio" name="q511" value="1">C.Both EAP-SIM and EAP-AKA</p>
+	<p><input type="radio" name="q511" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>512. A GAN network supports __ type of SMS services.</p>
+	<p><input type="radio" name="q512" value="0">A.GSM Circuit Switched</p>
+	<p><input type="radio" name="q512" value="0">B.GPRS Packet-Switched</p>
+	<p><input type="radio" name="q512" value="1">C.Both GSM-Circuit-Switched and GPRS-Packet-Switched</p>
+	<p><input type="radio" name="q512" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>513. GAN network uses __ to deliver SMS securely.</p>
+	<p><input type="radio" name="q513" value="0">A.IPsec Tunneling</p>
+	<p><input type="radio" name="q513" value="0">B.TCP Sessions</p>
+	<p><input type="radio" name="q513" value="1">C.Both IPsec Tunneling and TCP Sessions.</p>
+	<p><input type="radio" name="q513" value="0">D.None</p>
+</div>
+<div class="question">
+	<p>514. Choose the correct statement about GANC call setup.</p>
+	<p><input type="radio" name="q514" value="0">A.GANC sends Channel Mode to the MS</p>
+	<p><input type="radio" name="q514" value="0">B.GANC sends Multi-rate Codec Configuration to the MS</p>
+	<p><input type="radio" name="q514" value="0">C.GAC sends information bout UDP port, IP address for Uplink RTP stream and Voice Sample size.</p>
+	<p><input type="radio" name="q514" value="1">D.All</p>
+</div>

@@ -1,0 +1,4117 @@
+1. What is the Uplink frequency in a GSM system?
+ A.935-960MHz
+ B.890-915MHz
+ C.940-956MHz
+ D.810-826MHz
+ Answer:b
+ _____________________________________________ 
+ 
+2. What is the Downlink frequency in a GSM system?
+ A.935-960MHz
+ B.890-915MHz
+ C.940-956MHz
+ D.810-826MHz
+ Answer:a
+ _____________________________________________ 
+ 
+3. What is an Uplink in a Cellular network?
+ A.Sending of data from Base Station to Mobile.
+ B.Sending of data from Mobile to the Base Station
+ C.Sending of data from Base Station to Base Station Controller
+ D.None of the above
+ Answer:b
+ _____________________________________________ 
+ 
+4. What is a Downlink in a GSM network?
+ A.Sending of data from Mobile to the Base Station.
+ B.Sending of data from Base station to the Mobile
+ C.Sending of data from Base Station Controller to the Mobile
+ D.None of the above
+ Answer:b
+ _____________________________________________ 
+ 
+5. What is the frequency band of a DCS - Digital Cellular System?
+ A.1800 Band (1710-1785, 1805-1880MHz)
+ B.900 Band ( 890-915, 935-960MHz)
+ C.850 Band (824-849, 869-894MHz)
+ D.None of the above
+ Answer:a
+ _____________________________________________ 
+ 
+6. What is the frequency band of PCS (Personal Communication Service
+ A.900 Band (890-915, 935-960MHz)
+ B.1900 Band (1850-1910, 1930-1990MHz)
+ C.1800 Band (1710-1785, 1805-1880MHz)
+ D.None of the above
+ Answer:b
+ _____________________________________________ 
+ 
+7. What is True about any Frequency Band?
+ A.First range corresponds to UPLINK.
+ B.Second range corresponds to DOWNLINK
+ C.20MHz gap between Uplink and Downlink
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+8. Most used GSM frequency bands in the U.S are ____?
+ A.900, 1800MHz
+ B.850, 900MHz
+ C.850, 1900 MHz
+ D.1800, 1900MHz
+ Answer:c
+ _____________________________________________ 
+ 
+9. What are the Rural and Urban Frequency bands used for GSM in the US?
+ A.850MHz - Rural Band
+1900MHz - Urban band
+ B.850MHz - Urban band
+1900MHz - Rural band
+ C.900MHz - Rural band
+1800MHz - Urban band
+ D.None of the above
+ Answer:a
+ _____________________________________________ 
+ 
+10. What are the frequency bands supported by the European Triband Phones?
+ A.850, 900, 1800MHz
+ B.900, 1800, 1900MHz
+ C.850, 1800, 1900MHz
+ D.None of the above
+ Answer:b
+ _____________________________________________ 
+ 
+11. The Quad band phone supporting all four major GSM frequency bands like 850MHz, 1900MHz, 900MHz and 1800MHz is also called ______ phone.
+ A.Real Phone
+ B.World Phone
+ C.Super Phone
+ D.Global Phone
+ Answer:b
+ _____________________________________________ 
+ 
+12. The term "Cellular Communication" was introduced by which GSM frequency band?
+ A.900MHz
+ B.1800MHz
+ C.850MHz
+ D.1900MHz
+ Answer:c
+ _____________________________________________ 
+ 
+13. Multiple access technique employed in a GSM network is/are _____?
+ A.TDMA
+ B.FDMA
+ C.CDMA
+ D.Both TDMA and FDMA
+ Answer:d
+ _____________________________________________ 
+ 
+14. Who developed protocols to implement GSM, GPRS and EDGE services?
+ A.ANSI
+ B.SOLARIS
+ C.3GPP
+ D.None of the above
+ Answer:c
+ _____________________________________________ 
+ 
+15. 3GPP stands for ____?
+ A.3rd Generation Pulse Project
+ B.3rd Generation Partnership Project
+ C.3rd Generation Protocols Project
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+16. The area covered by one Transmitter in a GSM network is called _____?
+ A.Licensed area
+ B.Octagon
+ C.Cell
+ D.Yard
+ Answer:c
+ _____________________________________________ 
+ 
+17. What is the maximum distance that a GSM Cell can radiate it's signal?
+ A.10Km
+ B.22Km
+ C.35Km
+ D.50Km
+ Answer:c
+ _____________________________________________ 
+ 
+18. In a GSM network, a Cell radius depends on ________?
+ A.Tower or Antenna height
+ B.Antenna gain
+ C.Weather conditions
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+19. What are the types of Cells in a GSM network?
+ A.Micro Cell, Macro Cell
+ B.Pico Cell, Femto Cell
+ C.Umbrella Cell
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+20. If an Antenna or Transmitter is mounted on top of a Tower or building, what is the Cell type formed?
+ A.Micro cell
+ B.Macro cell
+ C.Pico cell
+ D.Tento cell
+ Answer:b
+ _____________________________________________ 
+ 
+21. If an Antenna or Transmitter is mounted at less height on the tower or building, what is the Cell type formed?
+ A.Micro cell
+ B.Macro cell
+ C.Pico cell
+ D.Tento cell
+ Answer:c
+ _____________________________________________ 
+ 
+22. What is the type of cell that covers only 10-20 meters?
+ A.Micro cell
+ B.Macro cell
+ C.Pico cell
+ D.Femto cell
+ Answer:c
+ _____________________________________________ 
+ 
+23. What is the type Cell that connects to the Service provider network through a Broadband or Internet connection at a remote village? (Transmission media is internet instead of OFC / Microwave
+ A.Micro cell
+ B.Macro cell
+ C.Pico cell
+ D.Femto cell
+ Answer:d
+ _____________________________________________ 
+ 
+24. A Cell that covers already existing small cells is called ____ cell.
+ A.Micro cell
+ B.Macro cell
+ C.Umbrella cell
+ D.Pico cell
+ Answer:c
+ _____________________________________________ 
+ 
+25. What is main purpose of Umbrella Cells?
+ A.Vast coverage area
+ B.Easy handovers from fast moving vehicles
+ C.Good signal to noise ratio
+ D.Useful only inside tunnels
+ Answer:b
+ _____________________________________________ 
+ 
+26. The power level of an Umbrella cell compared to inner cells is ______?
+ A.More
+ B.Less
+ C.Equal
+ D.Very high
+ Answer:b
+ _____________________________________________ 
+ 
+27. What do you call an Equipment that Receives and Transmits radio signals?
+ A.BTS
+ B.Transceiver
+ C.Transistor
+ D.Controller
+ Answer:b
+ _____________________________________________ 
+ 
+28. Which type of GSM Cell provides indoor coverage in shopping malls, tunnels and airports?
+ A.Macro cell
+ B.Micro cell
+ C.Pico cell
+ D.Femto cell
+ Answer:c
+ _____________________________________________ 
+ 
+29. What is a repeater in cellular communication?
+ A.A repeater picks a weak signal and boosts it.
+ B.Repeaters are installed in indoor areas usually.
+ C.Each repeater has a band of frequencies.
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+30. A GSM technique Timing Advance used by BTS or Base station can _______ Cell radius.
+ A.Decrease
+ B.Increase
+ C.Both increase and decrease
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+31. A group of Cells is also called ____ ?
+ A.BSC
+ B.BTS
+ C.Cluster
+ D.Atom
+ Answer:c
+ _____________________________________________ 
+ 
+32. What is the number of Cells a Cluster contains?
+ A.4
+ B.7
+ C.12 or 21
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+33. What is the reason for using Cluster in a GSM network?
+ A.Easy to to Operation and Maintenance
+ B.Frequency Reuse
+ C.Less delay in transmission
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+34. When reusing a Frequency, what is the minimum distance (in terms of Diameter of cell
+ A.1.5D
+ B.2D
+ C.2.5D
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+35. What is the need for Frequency Reuse in a GSM network?
+ A.Frequency or Spectrum is costly. It is allotted limitedly to each Operator. Say 5MHz to each.
+ B.Frequency Reuse increases the overall capacity of the operator.
+ C.Using TDMA, a single carrier frequency can serve up to 8 simultaneous customers in a 4.615ms time frame. So, simply adding more frames improves call quality in densely populated areas.
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+36. What are the three main parts of a GSM Architecture or Structure?
+ A.Mobile Station
+ B.BSS - Base Station Subsystem
+ C.NSS - Network and Switching Subsystem
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+37. What are the main parts of a Mobile Station in a GSM Network?
+ A.MT - Mobile Terminal
+ B.SIM - Subscriber Identity Module
+ C.Both A and B
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+38. What are the main parts of a BSS (Base Station Subsystem
+ A.BTS - Base Transceiver Station
+ B.BSC - Base Station Controller
+ C.A and B
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+39. What are the main parts of a NSS (Network and Switching Subsystem
+ A.MSC - Mobile Switching Center
+ B.HLR & AuC
+ C.VLR, EIR
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+40. What are the main parts of an MSC (Mobile Switching Center
+ A.MGW - Media Gateway
+ B.MSC Server
+ C.Both A and B
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+41. A GPRS Core network is part of System in a GSM Network Structure?
+ A.Mobile Station
+ B.BSS
+ C.MSS
+ D.NSS
+ Answer:d
+ _____________________________________________ 
+ 
+42. A BTS is also called _____ by general public?
+ A.Mobile tower
+ B.Exchange
+ C.Charging Point
+ D.None
+ Answer:a
+ _____________________________________________ 
+ 
+43. Each Mobile Terminal is identified by a unique ______ number?
+ A.IMEI
+ B.SIM
+ C.IMSI
+ D.None
+ Answer:a
+ _____________________________________________ 
+ 
+44. IMEI stands for?
+ A.Internal Mobile Equipment Identity
+ B.International Mobile Equipment Identity
+ C.Intra Mobile Enable Identity
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+45. Each SIM is identified by a unique _____ number?
+ A.IMSI
+ B.IMEI
+ C.MSDN
+ D.None
+ Answer:a
+ _____________________________________________ 
+ 
+46. IMSI stands for?
+ A.Internal Mobile Subscriber Identity
+ B.International Mobile Subscriber Identity
+ C.Investigating Mobile Subscriber Identity
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+47. Your mobile number is actually called ______ number.
+ A.IMSI
+ B.SIM
+ C.MSISDN
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+48. IMSI number of a SIM is also called?
+ A.MSISDN
+ B.IMEI
+ C.ICCID
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+49. What controller a group of BTS or Cell Towers?
+ A.BSC
+ B.MSC
+ C.HLR
+ D.VLR
+ Answer:a
+ _____________________________________________ 
+ 
+50. How many digits of PIN (Personal Identification Number
+ A.4
+ B.8
+ C.10
+ D.None
+ Answer:a
+ _____________________________________________ 
+ 
+51. What is PUK code of a SIM?
+ A.PIN Unlock Key
+ B.4 digit code
+ C.It is like a password to enter after inserting SIM in a mobile for the first time. It prevents misuse.
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+52. The only element that personalises a Mobile Station is _______?
+ A.Back cover
+ B.SIM
+ C.Screen guard
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+53. What is the maximum number of Transceivers a BTS can handle is ?
+ A.8
+ B.12
+ C.16
+ D.22
+ Answer:c
+ _____________________________________________ 
+ 
+54. What are the functions of a BSC?
+ A.Handovers, exchange functions
+ B.Frequency hopping
+ C.Control of radio frequency power level of BTS
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+55. What is the main function of NSS?
+ A.Establishing communication between mobile and landline numbers.
+ B.Providing eligible services to the subscriber
+ C.Providing parameters for Authentication and Encryption
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+56. What is the name of the database that stores subscriber information under an MSC and his eligible services?
+ A.MSC
+ B.HLR
+ C.EIR
+ D.AuC
+ Answer:b
+ _____________________________________________ 
+ 
+57. What is the name of a database used mainly that stores information of a subscriber along with eligible services under roaming or another MSC area?
+ A.HLR
+ B.VLR
+ C.EIR
+ D.AuC
+ Answer:b
+ _____________________________________________ 
+ 
+58. Covering area of an MSC is also called ____ ?
+ A.VLR
+ B.HLR
+ C.EIR
+ D.AUC
+ Answer:b
+ _____________________________________________ 
+ 
+59. Usually, VLR contains a copy of data of ______ ?
+ A.HLR
+ B.EIR
+ C.AUC
+ D.none
+ Answer:a
+ _____________________________________________ 
+ 
+60. Between VLR and HLR, which one is used mostly allow or bar services to the user?
+ A.VLR
+ B.HLR
+ C.Both are used equally
+ D.None
+ Answer:a
+ _____________________________________________ 
+ 
+61. State true or false.
+The area under one MSC or HLR is also the area under one VLR.
+ A.True
+ B.False
+ C.-
+ D.-
+ Answer:a
+ _____________________________________________ 
+ 
+62. Usually, VLR is part of _____ ?
+ A.HLR
+ B.EIR
+ C.AUC
+ D.MSC
+ Answer:d
+ _____________________________________________ 
+ 
+63. As VLR is fast to access, VLR avoids frequent accessing of ________ ?
+ A.EIR
+ B.AUC
+ C.HLR
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+64. In a GSM architecture, which system provides Authentication and Encryption services?
+ A.HLR
+ B.VLR
+ C.EIR
+ D.AUC
+ Answer:d
+ _____________________________________________ 
+ 
+65. In a GSM architecture, which system stores the IMEI numbers of all working mobile phones under the network?
+ A.HLR
+ B.VLR
+ C.EIR
+ D.AUC
+ Answer:c
+ _____________________________________________ 
+ 
+66. What are the types of lists maintained by EIR (Equipment Identification Register
+ A.Whitelist
+ B.Grey List
+ C.Black List
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+67. Choose a correct statement about EIR list of IMEIs.
+ A.Whitelist - List of allowed IMEIs or Mobile Devices
+ B.Grey List - List of IMEIs with limited allowed services
+ C.Blacklist - List of forbidden IMEIs or mobiles
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+68. Mobile calls to or from Fixed Networks (Landlines
+ A.MSC
+ B.GMSC (Gateway MSC)
+ C.HLR
+ D.VLR
+ Answer:b
+ _____________________________________________ 
+ 
+69. Each cell in a GSM network has ?
+ A.Cell number
+ B.Cell Global number
+ C.Cell Global Identity number
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+70. A group of cells in a GSM network has a _________ number.
+ A.Location number
+ B.Location Area number
+ C.Location Area Identity number
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+71. A single MSC or VLR can have many ______ ?
+ A.HLR
+ B.Location Areas (LA)
+ C.CGI - Cell Global Index
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+72. Total area served by one network operator is called ______ ?
+ A.PSTN
+ B.PLMN
+ C.LA
+ D.CGI
+ Answer:b
+ _____________________________________________ 
+ 
+73. What is DTX or Discontinuous Transmission in a GSM network?
+ A.DTC stops transmitter when the person is not talking. So less number of voice signals reach BTS with less noise.
+ B.With the help of VAD (Voice Activity Detection), mobile identifies conversation and noise to turn off transmission.
+ C.On the opposite end, the receiver produces a noise called Comfort Noise. With out this, DTX makes the opposite person think that the line or call is cut.
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+74. Which technique of GSM Architecture tells the mobile to advance it's transmission bursts (data
+ A.DTX
+ B.TA - Timing Advance
+ C.Power Control
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+75. Timing Advance (TA
+ A.The distance between the BTS and Mobile
+ B.Time delay of bursts from mobile
+ C.Time advance of bursts from mobile
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+76. What is OSS in a GSM architecture?
+ A.Operation and Support Service
+ B.Operation and Support Subsystem
+ C.Operation and System support
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+77. Choose a correct statement about OSS system in GSM architecture?
+ A.OSS helps to access and configure MSC parameters
+ B.OSS helps to configure BSC parameters
+ C.OSS helps to add new BTS into the system
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+78. Radio interface between Mobile Station and BTS is also called _____ ?
+ A.Gorilla interface
+ B.Air interface
+ C.Voice interface
+ D.Spectrum interface
+ Answer:b
+ _____________________________________________ 
+ 
+79. Power control feature in a GSM network works on the _______ side?
+ A.Mobile side
+ B.BTS side
+ C.Both Mobile side and BTS side
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+80. Power control feature aims at receiving all bursts of transmission at _______ power level.
+ A.Different
+ B.Variable
+ C.Same
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+81. Discontinuous Reception in a GSM network is aimed at saving __________ power.
+ A.BTS
+ B.BSC
+ C.Mobile Station
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+82. Discontinuous Reception is implemented with _______ in a GSM network.
+ A.Sideband channel
+ B.Pilot channel
+ C.Paging channel Sub channels
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+83. What is the problem with Multipath traversal of radio signal between a Mobile and a BTS?
+ A.A copy the first signal arrives at the destination with a different phase
+ B.Arrived signal with two or more variants confuse receiver and cause noise.
+ C.Original signal may be lost or deteriorated
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+84. What is the solution to Multipath traversal of radio signal? Use a ______.
+ A.Low pass filter
+ B.High pass filter
+ C.Equalizer or Inverse filter
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+85. The functions of a MSC (Mobile Services Switching Center
+ A.Call handling and paging
+ B.Inter BSS and Inter MSC handovers
+ C.Acting as a gateway to HLR
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+86. The functions of an MSC are ______?
+ A.Charging the call or billing
+ B.Signalling with outside systems
+ C.Logical radio link control
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+87. A HLR database contains ________ ?
+ A.IMSI and ISDN numbers
+ B.Location info for call routing
+ C.Information about Bearer services and Supplementary services
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+88. A VLR Database contains _____ data.
+ A.ISDN number and Subscriber identity
+ B.Location information to route calls
+ C.Part of HLR data
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+89. An Equipment Identity Register (EIR
+ A.White list or Valid list
+ B.Grey or Monitored list
+ C.Black or Prohibited list
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+90. An Authentication Center (AUC
+ A.Authentication Keys (Ki)
+ B.Cipher Keys (Kc) for encryption and Decryption
+ C.Security parameters
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+91. For BSS Types 1, 4 and 5, Speech Transcoding unit presents ______ BSC.
+ A.Inside
+ B.Outside
+ C.-
+ D.-
+ Answer:a
+ _____________________________________________ 
+ 
+92. In BSS Types 2, 6 and 7, Speech Transcoding unit is present ______ BSS.
+ A.Internally
+ B.Externally (Co-located with MSC)
+ C.--
+ D.--
+ Answer:b
+ _____________________________________________ 
+ 
+93. In BSS Type 3, TRAU (Transcoder Unit
+ A.BSC
+ B.BTS
+ C.MSC
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+94. Transmission bitrate between BSC and MSC is ____ ?
+ A.8 kbps
+ B.16kbps
+ C.32kpbs
+ D.64kbps
+ Answer:d
+ _____________________________________________ 
+ 
+95. What is the transmission bitrate between BTS and BSC?
+ A.8kbps
+ B.16kbps
+ C.32kbps
+ D.64kbps
+ Answer:b
+ _____________________________________________ 
+ 
+96. What is the interface between a Mobile Station and a BTS?
+ A.M interface
+ B.A interface
+ C.Abis interface
+ D.U interface
+ Answer:d
+ _____________________________________________ 
+ 
+97. What is the interface between BTS and BSC?
+ A.U interface
+ B.Um interface
+ C.Abis interface
+ D.A interface
+ Answer:c
+ _____________________________________________ 
+ 
+98. What is the interface between BSC and TRAU?
+ A.M interface
+ B.A interface
+ C.Abis interface
+ D.C interface
+ Answer:a
+ _____________________________________________ 
+ 
+99. What is the interface between BSC and MSC?
+ A.A interface
+ B.Abis interface
+ C.B interface
+ D.C interface
+ Answer:a
+ _____________________________________________ 
+ 
+100. What is the interface between MSC and VLR?
+ A.A interface
+ B.B interface
+ C.C interface
+ D.D interface
+ Answer:b
+ _____________________________________________ 
+ 
+101. What is the interface between MSC and HLR?
+ A.Abis interface
+ B.A interface
+ C.C interface
+ D.D interface
+ Answer:c
+ _____________________________________________ 
+ 
+102. What is the interface between VLR and HLR?
+ A.B interface
+ B.C interface
+ C.D interface
+ D.E interface
+ Answer:c
+ _____________________________________________ 
+ 
+103. What is the interface between two MSCs?
+ A.A interface
+ B.C interface
+ C.D interface
+ D.E interface
+ Answer:d
+ _____________________________________________ 
+ 
+104. What is the interface between MSC and EIR?
+ A.M interface
+ B.Abis interface
+ C.F interface
+ D.U interface
+ Answer:c
+ _____________________________________________ 
+ 
+105. What is the interface between one VLR to other MSC VLRs?
+ A.Abis interface
+ B.E interface
+ C.F interface
+ D.G interface
+ Answer:d
+ _____________________________________________ 
+ 
+106. What is the interface between HLR and AUC?
+ A.E interface
+ B.F interface
+ C.H interface
+ D.M interface
+ Answer:c
+ _____________________________________________ 
+ 
+107. What is the interface between MSC and GMSC?
+ A.Na
+ B.Nb
+ C.Nc
+ D.Nd
+ Answer:c
+ _____________________________________________ 
+ 
+108. What is the interface between MSC Server and MGW which are part of MSC?
+ A.Nc
+ B.Mc
+ C.Um
+ D.U
+ Answer:b
+ _____________________________________________ 
+ 
+109. What is the interface between BSC and SGSN (Serving GPRS Serving Node
+ A.Ga
+ B.Gb
+ C.Gc
+ D.Gd
+ Answer:b
+ _____________________________________________ 
+ 
+110. What is the interface between SGSN and Internet Server?
+ A.Ga
+ B.Gb
+ C.Gc
+ D.Gi
+ Answer:d
+ _____________________________________________ 
+ 
+111. What is the interface between SGSN and GGSN(Gateway GPRS Serving Node
+ A.Ga
+ B.Gb
+ C.Gn
+ D.Gi
+ Answer:c
+ _____________________________________________ 
+ 
+112. What is the interface between GGSN and Internet Server?
+ A.Ga
+ B.Gn
+ C.Gi
+ D.Gp
+ Answer:d
+ _____________________________________________ 
+ 
+113. What is the interface between GGSN and HLR?
+ A.Ga
+ B.Gb
+ C.Gc
+ D.Gi
+ Answer:c
+ _____________________________________________ 
+ 
+114. What is the interface between SGSN and SMS-GMSC?
+ A.Ga
+ B.Gb
+ C.Gc
+ D.Gd
+ Answer:d
+ _____________________________________________ 
+ 
+115. The interfaces Gf and Sv are between SGSN and _____ ?
+ A.Auc
+ B.MSC
+ C.EIR
+ D.VLR
+ Answer:c
+ _____________________________________________ 
+ 
+116. What is the total number of Carrier Frequencies that can be formed in a 25MHz band width of either Uplink or Downlink of GSM?
+ A.128
+ B.126
+ C.124
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+117. What is the spacing between each carrier frequency to avoid interference and crosstalk?
+ A.100KHz
+ B.200KHz
+ C.128KHz
+ D.256KHz
+ Answer:b
+ _____________________________________________ 
+ 
+118. In GSM-1800 band, the total number of Carrier Frequencies are ?
+ A.124
+ B.248
+ C.374
+ D.448
+ Answer:c
+ _____________________________________________ 
+ 
+119. Each Carrier frequency is divided or shared among _______ number of channels.
+ A.4
+ B.6
+ C.8
+ D.10
+ Answer:c
+ _____________________________________________ 
+ 
+120. In a GSM-900 Band, what is the duplex spacing between uplink and downlink channels?
+ A.25MHz
+ B.35MHz
+ C.45MHz
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+121. In a GSM-1800 Band, what is the duplex spacing between downlink and uplink channels?
+ A.75MHz
+ B.85MHz
+ C.95MHz
+ D.None
+ Answer:d
+ _____________________________________________ 
+ 
+122. What is the name of a single transmission burst that lasts for only 0.577ms in a GSM TDMA frame?
+ A.Frame
+ B.Channel (or Physical channel)
+ C.Link
+ D.None of the above
+ Answer:b
+ _____________________________________________ 
+ 
+123. What is the duration of a GSM TDMA Frame?
+ A.4.614ms
+ B.5.614ms
+ C.6.614ms
+ D.None
+ Answer:a
+ _____________________________________________ 
+ 
+124. What are the types of Logical channels in a GSM Structure or Architecture?
+ A.Traffic channels
+ B.Broadcasting channels
+ C.Common control channels, Dedicated control channels
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+125. Broadcasting is a concept of transferring information from _______ to _______?
+ A.One to one
+ B.Many to one
+ C.One to many
+ D.Many to many
+ Answer:c
+ _____________________________________________ 
+ 
+126. BCCH (Broadcast Control Channel
+ A.Engine
+ B.Driver
+ C.Pilot
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+127. Majority of the GSM Channels work on ______ interface?
+ A.Abis interface
+ B.A interface
+ C.Um interface
+ D.M interface
+ Answer:c
+ _____________________________________________ 
+ 
+128. The type of information transferred in Traffic Channel (TCH
+ A.Voice
+ B.Data
+ C.Both Voice and Data
+ D.Signalling
+ Answer:c
+ _____________________________________________ 
+ 
+129. Choose a Channel that carries Signalling information?
+ A.Broadcast Control channel
+ B.Common control channel
+ C.Dedicated control channel
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+130. What is the other type of information that a TCH channel contain or carry?
+ A.Signalling to forward a call
+ B.Short Message Service signalling
+ C.Both A and B
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+131. What is TRUE about a Full Rate TCH channel?
+ A.It carries a speech of 13kbps before encoding
+ B.It carries a total of 22.8kbs information after channel coding
+ C.Data rates supported are 3.6, 6 and 12 kbps respectively.
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+132. What are the data rates of services available in ISDN and other services that can be transmitted in a TCH channel?
+ A.2.4kbps
+ B.4.8kbps
+ C.9.6kbps
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+133. What is the total bitrate after channel coding in a Half Rate TCH channel?
+ A.11.4kbps
+ B.22.8kbps
+ C.34.2kbps
+ D.None
+ Answer:a
+ _____________________________________________ 
+ 
+134. What is the speech rate before coding in a Half Rate TCH channel?
+ A.11.4kbps
+ B.22.8kbps
+ C.5.6kbps
+ D.11.2kbps
+ Answer:c
+ _____________________________________________ 
+ 
+135. Possible data rates in a Half Rate TCH channel are _____ ?
+ A.3.6kbps
+ B.6kbps
+ C.3.6, 6kbps
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+136. Choose a Broadcast channel in GSM Architecture?
+ A.BCCH (Broadcast Control Channel)
+ B.FCCH (Frequency Correction Channel)
+ C.SCH (Synchronization Channel), CBCH (Cell Broadcast Channel)
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+137. What ia TRUE about BCCH channel in a GSM structure?
+ A.It is like a BEACON that guides a mobile to attach to a Cell
+ B.It contains Configuration parameters like LAC (Location Area Code), CID (Cell Identity) and Neighbor cell info
+ C.It is the first frequency to be sampled by a Mobile station. If parameters are ok, MT attaches to the Cell.
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+138. Which is the Broadcast channel that tells the MT (Mobile Station
+ A.BCCH
+ B.FCCH
+ C.SCH
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+139. What is TRUE about a SCH channel of GSM Architecture?
+ A.It carries Time Synchronization data
+ B.It contains BSIC (Base Station Identity Code)
+ C.It contains TDMA Frame number
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+140. Which is TRUE about a CBCH channel of a GSM structure?
+ A.It carries Short Messages
+ B.It carries Service Messages
+ C.It carries both Short Message and Service Messages
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+141. Choose a Common Control Channel below.
+ A.PCH (paging Channel)
+ B.AGCH (Access Grant Channel)
+ C.RACH (Random Access Channel)
+ D.None
+ Answer:d
+ _____________________________________________ 
+ 
+142. What is TRUE about a PCH (paging Channel
+ A.Paging works in a Downlink (BTS to Mobile)
+ B.Paging alerts the MT (Mobile Terminal) about an incoming Call or SMS.
+ C.Paging is a One to One communication initiated by NSS (Network Subsystem)
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+143. What is the Uplink channel used by a Mobile to request for a Channel?
+ A.PCH
+ B.BCCH
+ C.RACH
+ D.SDCCH
+ Answer:c
+ _____________________________________________ 
+ 
+144. Which is the downlink channel allotted to a Mobile after requesting with a RACH channel?
+ A.AGH
+ B.PCH
+ C.SDCCH
+ D.None
+ Answer:a
+ _____________________________________________ 
+ 
+145. Which is a Full Duplex (both Downlink and Uplink
+ A.SACCH (Slow Associated Control Channel)
+ B.FACCH (Fast Associated Control Channel)
+ C.SDCCH (Stand-alone Dedicated Control Channel)
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+146. Which is the Dedicated Control channel that is used to transmit Power Control data, Timing Advance (TA
+ A.TCH
+ B.SDCCH
+ C.FACCH
+ D.SACCH
+ Answer:d
+ _____________________________________________ 
+ 
+147. State True or False. SACCH is used to transmit Urgent signalling data like Call setup.
+ A.TRUE
+ B.False
+ C.-
+ D.-
+ Answer:b
+ _____________________________________________ 
+ 
+148. What are the functions of a FACCH channel?
+ A.Call Setup
+ B.Call Termination
+ C.Call Handovers
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+149. If FACCH signalling data is transmitted over TCH instead of Traffic data by setting a Stealing Flag, the process is called?
+ A.Overloading
+ B.Burdening
+ C.Preemption
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+150. What are the functions of the dedicated control channel SDCCH?
+ A.Location updates, Equipment validation
+ B.Subscriber authentication, Ciphering initiation
+ C.SMS delivery, Assigning a TCH for call or data
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+151. What is the bitrate of SDCCH channel?
+ A.0.5kbps
+ B.0.8kbps
+ C.1kbps
+ D.1.2kbps
+ Answer:b
+ _____________________________________________ 
+ 
+152. CCCH (Common Control Channel
+ A.PCH on downlink
+ B.AGCH on downlink
+ C.RACH on uplink
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+153. The channel BCCH is always defined in which time slot?
+ A.Timeslot 0
+ B.Timeslot 1
+ C.Timeslot 4
+ D.Timeslot 8
+ Answer:a
+ _____________________________________________ 
+ 
+154. If there are two TRX in a given Sector or Cell, BCCH is defined on the _______ TRX or frequency.
+ A.First
+ B.Second
+ C.First or second
+ D.First and second
+ Answer:a
+ _____________________________________________ 
+ 
+155. One Burst Period is also called _____.
+ A.Timeslot
+ B.Group
+ C.Byte
+ D.None
+ Answer:a
+ _____________________________________________ 
+ 
+156. How many timeslots are present in a GSM TDMA frame whose time duration is 4.615ms?
+ A.4
+ B.8
+ C.16
+ D.32
+ Answer:b
+ _____________________________________________ 
+ 
+157. What are the TDMA Multi frames used for TCH/H and TCH/F ?
+ A.26 TDMA frames
+ B.51 TDMA frames
+ C.26 or 51 TDMA frames
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+158. A super frame contains _______ TDMA frames with all possible combinations of channels.
+ A.51 x 26 TDMA
+ B.51 x 51 TDMA
+ C.1024 x 26TDMA
+ D.None
+ Answer:a
+ _____________________________________________ 
+ 
+159. A Hyper Frame contains ______ TDMA frames, which can be used for Frequency Hopping and Ciphering.
+ A.1024 x 26 TDMA
+ B.1024 x 51 TDMA
+ C.2048 x 26 TDMA
+ D.2048 x 51 x 26 TDMA
+ Answer:d
+ _____________________________________________ 
+ 
+160. What is the duration of a Super Frame?
+ A.5.12s
+ B.6.12s
+ C.7.12s
+ D.8.12s
+ Answer:b
+ _____________________________________________ 
+ 
+161. What is the duration of a HYPERFRAME?
+ A.3H 28M 2.2S
+ B.3H 28M 50S
+ C.3H 28M 53.76s
+ D.3.5H
+ Answer:c
+ _____________________________________________ 
+ 
+162. Choose a method of selecting a Cell (sector
+ A.MS maintains a list of BCCH signal levels in descending order
+ B.A good BCCH is chosen and the mobile tunes to that frequency to communicate with the BTS.
+ C.After successful authentication, Mobile attachea to the cell and will be in IDLE mode without using TCH channel.
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+163. During a phone call, an SMS (Short Message Service
+ A.SDCCH
+ B.TCH
+ C.SACCH
+ D.BCCH
+ Answer:c
+ _____________________________________________ 
+ 
+164. When NO call is in progress (IDLE mode
+ A.TCH
+ B.BCCH
+ C.SACCH
+ D.SDCCH
+ Answer:d
+ _____________________________________________ 
+ 
+165. What is the problem with sending a huge number of SMS?
+ A.SDCCH channels will be busy.
+ B.So call handling capacity will be reduced.
+ C.Free SDCCH will be less. So TCH allocation for new calls will be slow.
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+166. What is the length of a single SMS in GSM architecture?
+ A.140
+ B.150
+ C.160
+ D.256
+ Answer:c
+ _____________________________________________ 
+ 
+167. Which is TRUE about maximum length of an SMS in a GSM network?
+ A.160 7-bit characters
+ B.140 8-bit characters
+ C.70 16-bit characters
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+168. What is the maximum number of SMS that can be sent to a Mobile in one minute time?
+ A.1-5
+ B.6-10
+ C.11-15
+ D.15-20
+ Answer:b
+ _____________________________________________ 
+ 
+169. What are the SMS categories?
+ A.Point to Point
+ B.Point to Multipoint
+ C.Both P2P and P2M
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+170. All SMS are stored in which system in a GSM Architecture before forwarding to the recipient?
+ A.SC (SMS Center)
+ B.SMS-GMSC
+ C.MSC
+ D.VLR
+ Answer:a
+ _____________________________________________ 
+ 
+171. To deliver an SMS to a Mobile Station, HLR enquiry is done through which system in GSM network?
+ A.SMS-GMSC
+ B.SC (SMS Center)
+ C.MSC
+ D.VLR
+ Answer:a
+ _____________________________________________ 
+ 
+172. To deliver an SMS to a Mobile Station, VLR enquiry is done via which system in a GSM Network?
+ A.SC (SMS Center)
+ B.SMS-GMSC
+ C.MSC
+ D.HLR
+ Answer:c
+ _____________________________________________ 
+ 
+173. Choose a correct flow of SMS from one system to the other in a GSM network.
+ A.SC to SMS-GMSC
+ B.SMS-GMSC to MSC
+ C.MSC to MS ( via BSC and BTS)
+ D.ALL
+ Answer:d
+ _____________________________________________ 
+ 
+174. GPRS stands for?
+ A.General Packet Repair Service
+ B.General Packet Radio Service
+ C.Graphics Packet Radio Service
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+175. What is the data rate or speed offered by a GPRS connection?
+ A.56-115kbps
+ B.9-256kbps
+ C.64-128kbps
+ D.None
+ Answer:a
+ _____________________________________________ 
+ 
+176. GPRS services belong to which generation?
+ A.1G
+ B.2G
+ C.3G
+ D.4G
+ Answer:b
+ _____________________________________________ 
+ 
+177. Choose a correct abbreviation below.
+ A.SGSN - Serving GPRS Support Node
+ B.GGSN - Gateway GPRS Support Node
+ C.IP - Internet Protocol
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+178. Choose a correct Abbreviation below.
+ A.PCU - Packet Control Unit
+ B.CG - Charging Gateway
+ C.BG - Border Gateway
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+179. Choose a correct Abbreviation below.
+ A.PCU - Packet Control Unit
+ B.CCU - Channel Codec Unit
+ C.GTP - GPRS Tunneling Protocol
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+180. GPRS is a Connection Oriented service. True/False?
+ A.False
+ B.True
+ C.-
+ D.-
+ Answer:a
+ _____________________________________________ 
+ 
+181. GPRS is a Circuit Switched Data (CSD
+ A.False
+ B.True
+ C.-
+ D.-
+ Answer:a
+ _____________________________________________ 
+ 
+182. GPRS uses which unused channels for transportation of Data in general?
+ A.SDCCH
+ B.BCCH
+ C.TCH
+ D.SCH
+ Answer:c
+ _____________________________________________ 
+ 
+183. Type-A Mobile Station supports ________.
+ A.Only Speech
+ B.Only Data
+ C.Speech and Data Simultaneously
+ D.Speech or Data one at a time.
+ Answer:c
+ _____________________________________________ 
+ 
+184. Type-B Mobile Station supports _______.
+ A.Speech only
+ B.GPRS only
+ C.GPRS or Speech One at a time
+ D.GPRS and Speech simultaneously
+ Answer:c
+ _____________________________________________ 
+ 
+185. Type-C Mobile Station supports _______.
+ A.Speech only
+ B.Data only
+ C.Speech and Data simultaneously
+ D.Speech or Data automatically
+ Answer:b
+ _____________________________________________ 
+ 
+186. What is the abbreviation of EDGE?
+ A.Enhanced Digital Generation Gap
+ B.Enhanced Data rate for GSM Evolution
+ C.Encryption Data rate for GSM Evolution
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+187. What is the maximum speed offered by an EDGE connection?
+ A.64kbps
+ B.128kbps
+ C.256kbps
+ D.236 kbps
+ Answer:d
+ _____________________________________________ 
+ 
+188. An EDGE connection is ______?
+ A.CS data
+ B.PS data
+ C.CS and PS data
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+189. A PCU separates Packet  Switched and Circuit Switched traffic and passes PSD to _______?
+ A.MSS
+ B.SGSN
+ C.GGSN
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+190. In a GPRS network, SGSN is the equivalent of ______ system in GSM.
+ A.BSC
+ B.MSC
+ C.VLR
+ D.GMSC
+ Answer:b
+ _____________________________________________ 
+ 
+191. What are the functions of a CCU?
+ A.Power Control
+ B.Timing Advance
+ C.Coding algorithms
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+192. GPRS Roaming from one SGSN to another SGSN is offered by ?
+ A.GMSC
+ B.GGSN
+ C.HLR
+ D.VLR
+ Answer:b
+ _____________________________________________ 
+ 
+193. Which is the system in GPRS that connects to External Networks using GTP?
+ A.SGSN
+ B.HLR
+ C.GGSN
+ D.GMSC
+ Answer:c
+ _____________________________________________ 
+ 
+194. What are the functions of SGSN in a GPRS Architecture?
+ A.Authentication, Authorization, Ciphering
+ B.GTP tunneling to GGSN, Charging (Billing), Session management
+ C.Mobility manage, interaction with HLR, MSC/VLR, NMS interface
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+195. What are the functions of GGSN of a GPRS network?
+ A.Charging (Billing), Filter user traffic
+ B.Routing mobile originated traffic, GTP Tunneling to SGSN
+ C.Interface external networks
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+196. A DNS (Domain Name Server
+ A.Packets
+ B.Bytes
+ C.IP address
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+197. A BG(Border Gateway
+ A.Same operator's GPRS network
+ B.Different operator's GPRS network
+ C.Same or different operator GPRS N/W
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+198. Which system in a GPRS architecture collects all Charging (Billing
+ A.SGSN
+ B.GGSN
+ C.CH (Charging Gateway)
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+199. A GPRS network contains Firewalls to _______?
+ A.Hack phones
+ B.Intercept phones
+ C.Protection from Virus
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+200. An LIG(Legal Interception Gateway
+ A.Parallel access to law agencies
+ B.Eavesdrop user sessions
+ C.Sample packets to get information
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+201. A GPRS Network is a part of ____ in GSM network.
+ A.BTS
+ B.BSS
+ C.NSS
+ D.VLR
+ Answer:c
+ _____________________________________________ 
+ 
+202. Which is the organization providing standards for GPRS network?
+ A.ANSI
+ B.ETSI
+ C.3GPP
+ D.UMTS
+ Answer:c
+ _____________________________________________ 
+ 
+203. Which is the main protocol that transfers packets in a GPRS Core network?
+ A.GTP
+ B.SSTP
+ C.SCTP
+ D.None
+ Answer:a
+ _____________________________________________ 
+ 
+204. A GPRS Network works same in _____.
+ A.2G
+ B.3G
+ C.2G and /or 3G
+ D.4G
+ Answer:c
+ _____________________________________________ 
+ 
+205. What is the interface between BSC and SGSN in a GPRS Network Structure?
+ A.Ga
+ B.Gb
+ C.Gc
+ D.Gd
+ Answer:b
+ _____________________________________________ 
+ 
+206. What is the interface betalen SGSN and GGSN in a GPRS network?
+ A.Gs
+ B.Gn
+ C.Ga
+ D.Gb
+ Answer:b
+ _____________________________________________ 
+ 
+207. What is the interface between GGSN and Inter-PLMN GPRS network?
+ A.Ga
+ B.Gs
+ C.Gi
+ D.Gp
+ Answer:d
+ _____________________________________________ 
+ 
+208. What is the interface between GGSN and External Packet Network( Internet 
+ A.Gs
+ B.Gn
+ C.Gi
+ D.Gp
+ Answer:c
+ _____________________________________________ 
+ 
+209. What is the interface between SGSN and MSC/VLR in a GPRS network?
+ A.Gs
+ B.Gn
+ C.Ga
+ D.Gb
+ Answer:a
+ _____________________________________________ 
+ 
+210. What is the interface between SGSN and HLR in a GPRS network structure?
+ A.Gs
+ B.Gn
+ C.Gr
+ D.Gf
+ Answer:c
+ _____________________________________________ 
+ 
+211. What is the interface between SGSN and EIR in a GPRS network?
+ A.Gr
+ B.Gf
+ C.Gd
+ D.Ga
+ Answer:b
+ _____________________________________________ 
+ 
+212. What is the interface between SGSN and SMS-GMSC in a GPRS network?
+ A.Gf
+ B.Gr
+ C.Gd
+ D.Gs
+ Answer:c
+ _____________________________________________ 
+ 
+213. What is the interface between a Mobile Station and a BTS in a GPRS network?
+ A.Ui
+ B.Um
+ C.Uu
+ D.Uk
+ Answer:b
+ _____________________________________________ 
+ 
+214. What is the interface between CG(Charging Gateway
+ A.Ga
+ B.Gb
+ C.Gc
+ D.Gd
+ Answer:a
+ _____________________________________________ 
+ 
+215. What is the interface between GGSN and HLR in a GPRS network?
+ A.Ga
+ B.Gb
+ C.Gc
+ D.Gd
+ Answer:c
+ _____________________________________________ 
+ 
+216. The Gb interface in a GRPS network uses which protocol?
+ A.Frame Relay
+ B.IP
+ C.Frame Realy or IP protocol
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+217. The Gd interface in a GPRS network uses which protocol?
+ A.MAP 1 (MAP- Message Application Protocol)
+ B.MAP 2
+ C.MAP 3
+ D.All MAP1, MAP2 and MAP3
+ Answer:d
+ _____________________________________________ 
+ 
+218. The Ge interface between SGSN and Service Control Point(SCP
+ A.MAP 1
+ B.IP
+ C.CAP (Camel Application Protocol)
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+219. The Gr interface in a GRPS network uses which protocol?
+ A.MAP1
+ B.MAP2
+ C.MAP3
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+220. The Ga interface in a GRPS network uses which protocol?
+ A.MAP
+ B.CAP
+ C.Frame Relay
+ D.GTP (GPRS Tunneling Protocol)
+ Answer:d
+ _____________________________________________ 
+ 
+221. What is the minimum data speed offered by 3G mobile technology for a Stationary user?
+ A.128kbps
+ B.384 kbps
+ C.2 mbps
+ D.8 mbps
+ Answer:c
+ _____________________________________________ 
+ 
+222. What is the minimum data speed offered by 3G mobile technology to a Slow Moving user?
+ A.128 kbps
+ B.384 kbps
+ C.2 mbps
+ D.8Mbps
+ Answer:b
+ _____________________________________________ 
+ 
+223. What is the minimum speed offered by 3G mobile technology to a Fast moving user?
+ A.128 Kbps
+ B.384 Kbps
+ C.2 Mbps
+ D.8 Mbps
+ Answer:a
+ _____________________________________________ 
+ 
+224. WCDMA stands for?
+ A.Wide array CDMA
+ B.Wide band CDMA
+ C.Wireless CDMA
+ D.Wifi CDMA
+ Answer:b
+ _____________________________________________ 
+ 
+225. What is the Multiple Access technique used in a 3G mobile network.
+ A.Time Division
+ B.Frequency Division
+ C.Code Division
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+226. SIM in a 3G network is called _____?
+ A.Micro SIM
+ B.Nano SIM
+ C.USIM
+ D.RSIM
+ Answer:c
+ _____________________________________________ 
+ 
+227. What are the parts of a 3G network architecture?
+ A.User Equipment (UE)
+ B.Radio Access Network (RAN)
+ C.Core Network
+ D.All the above. UE, RAN and Core network.
+ Answer:d
+ _____________________________________________ 
+ 
+228. What is the name of a BTS in a 3G mobile network?
+ A.Structure
+ B.Node-B
+ C.Node-N
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+229. What is the name of BSC equivalent part in a 3G mobile network?
+ A.Controller
+ B.Radio Switch Controller
+ C.Radio Network Controller
+ D.Radio Command Center
+ Answer:c
+ _____________________________________________ 
+ 
+230. What is the equivalent interface Um(Air interface
+ A.Un
+ B.Us
+ C.Uu
+ D.Uc
+ Answer:c
+ _____________________________________________ 
+ 
+231. What is the interface between USIM and ME(Mobile Equipment
+ A.Cm
+ B.Cn
+ C.Cu
+ D.Cc
+ Answer:c
+ _____________________________________________ 
+ 
+232. What is the interface between NodeB and RNC in a WCDMA network?
+ A.Lub
+ B.Luc
+ C.Lud
+ D.Lue
+ Answer:a
+ _____________________________________________ 
+ 
+233. What is the interface between RNC and MGW (Media Gateway
+ A.Lc
+ B.Ln
+ C.Lu
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+234. What is the interface between RNC and SGSN?
+ A.Lu
+ B.Lc
+ C.Lm
+ D.None
+ Answer:a
+ _____________________________________________ 
+ 
+235. What is the interface between MGW and EIR?
+ A.A interface
+ B.F interface
+ C.B interface
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+236. What is the interface between MGW and HLR?
+ A.A interface
+ B.B interface
+ C.D interface
+ D.F interface
+ Answer:c
+ _____________________________________________ 
+ 
+237. A UMTS(Universal Mobile Telecommunication
+ A.First Generation
+ B.Second Generation
+ C.Third Generation
+ D.Fourth Generation
+ Answer:c
+ _____________________________________________ 
+ 
+238. Who developed standards for a UMTS network?
+ A.ANSI (American National Standards Institute)
+ B.3GPP (3rd Generation Partnership Project)
+ C.ITU (International Telecommunication Union)
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+239. What is the maximum data rate supported by a 3G network or UMTS network?
+ A.384 kbps
+ B.2 Mbps
+ C.32 Mbps
+ D.42 Mbps
+ Answer:d
+ _____________________________________________ 
+ 
+240. CDMA2000 technology is also a ___ network.
+ A.2G
+ B.3G
+ C.4G
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+241. Find differences between CDMA2000 and WCDMA technologies in a 3G network.
+ A.CDMA2000 - Follows 3GPP2 standards.
+WCDMA - Follows 3GPP standards.
+ B.CDMA2000 offered less 3G speed. WCDMA offered more 3G speeds.
+ C.CDMA2000 uses only Code Division. WCDMA uses Code Division along with FDD(Frequency Division Duplexing)
+ D.All the above.
+ Answer:d
+ _____________________________________________ 
+ 
+242. What is the modulation technique used by WCDMA technology?
+ A.Amplitude Modulation
+ B.Separate Spectrum Modulation
+ C.Spread Spectrum Modulation
+ D.None
+ Answer:d
+ _____________________________________________ 
+ 
+243. As part of Closed Loop Power Control followed by a WCDMA network, power control bits are sent every ___ milliseconds to the User Equipment (Phones
+ A.0.1 ms
+ B.0.66 ms
+ C.1.5 ms
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+244. State TRUE or FALSE. Closed-Loop Power Control is efficient than Open Loop Power Control.
+ A.FALSE
+ B.TRUE
+ C.-
+ D.-
+ Answer:b
+ _____________________________________________ 
+ 
+245. If a 3G tower has 3 antennae, what is the total number of pilot frequencies under the tower?
+ A.1
+ B.3
+ C.6
+ D.8
+ Answer:a
+ _____________________________________________ 
+ 
+246. What is the name of the Receiver that can decode signals travelled in different paths (Multipath
+ A.Multipath Receiver
+ B.Frame Receiver
+ C.Rake Receiver
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+247. What type handovers are possible when moving from one Cell to other Cell ?
+ A.Hard Handover
+ B.Soft Handover
+ C.Hybrid Handover
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+248. Which is the technology used by WCDMA to transfer data packets in its RAN network (Air Interface + NodeB
+ A.IP
+ B.Frame Relay
+ C.ATM (Asynchronous Transfer Mode)
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+249. State TRUE or FALSE. ATM cells have a fixed size.
+ A.FALSE
+ B.TRUE
+ C.-
+ D.-
+ Answer:b
+ _____________________________________________ 
+ 
+250. Choose the correct statement about ATM technology.
+ A.ATM technology offers Qos(Quality of Service)
+ B.ATM offers variable bit rates.
+ C.ATM is compatible with old and existing technologies.
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+251. State TRUE of FALSE. UMTS technology can be used in Satellite phones.
+ A.FALSE
+ B.TRUE
+ C.-
+ D.-
+ Answer:b
+ _____________________________________________ 
+ 
+252. What the elements introduced commonly in R99, R00(R4 and R5
+ A.BSS Elements like BSC, BTS
+ B.UTRAN elements like RNC, Node B
+ C.Packet Switching Core Network elements like SGSN, GGSN and BG(Border Gateway)
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+253. What are the network elements introduced in R99 3GPP release?
+ A.HLR, VLR
+ B.AuC, EIR
+ C.SMS MSC
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+254. What are the network elements introduced in R00(R4 + R5
+ A.MSC Server
+ B.GMSC Server
+ C.MGW
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+255. What are the network elements introduced in R5-3GPP release?
+ A.HSS (Home Subscriber Server)
+ B.Internet Protocol Multimedia (IM) subsystem
+ C.Both A and B
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+256. The IFW (Interworking Function
+ A.ISDN (data)
+ B.PSTN (Landline)
+ C.PDN (data)
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+257. Choose the correct Abbreviations below.
+ A.PSCN (Packet Switched Core Network)
+ B.CSCN (Circuit Switched Core Network)
+ C.UTRAN (Universal Terrestrial Radio Access Network)
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+258. The R4 release of 3GPP network employs ____ architecture.
+ A.GPRS
+ B.NGN (Next Generation Network)
+ C.SGN (Super Generation Network)
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+259. The R5-3GPP release employs ___ core network.
+ A.IP and Circuit Switched Data
+ B.All IP Core network
+ C.All Circuit Switched Network
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+260. Choose the correct abbreviations about 3G technology terms below.
+ A.HSPA = High-Speed Packet Access
+ B.HSDPA = High-Speed Downlink Packet Access
+ C.HSUPA = High-Speed Uplink Packet Access
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+261. What are the other names of an HSDPA (High-Speed Downlink Packet Access
+ A.3.5G
+ B.3G+
+ C.Turbo 3G
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+262. What are the data speeds offered by an HSDPA enabled 3G network?
+ A.3.6 Mbps
+ B.7.2 Mbps, 14 Mbps
+ C.21 Mbps, 28 Mbps
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+263. What is the maximum unlink data rate achieved by an HSUPA (High-Speed Uplink Packet Access
+ A.2 Mbps
+ B.3.6 Mbps
+ C.5.76 Mbps
+ D.8 Mbps
+ Answer:c
+ _____________________________________________ 
+ 
+264. What is the network symbol displayed next to Signal in a 3G network?
+ A.H
+ B.H+
+ C.3G
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+265. Evolved High-Speed Packet Access (HSPA+
+ A.128 Mbps / 32 Mbps [Downlink / Uplink]
+ B.256 Mbps / 8 Mbps
+ C.337 Mbps / 34 Mbps
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+266. Which is the digital modulation technique used in a 3G/WCDMA network?
+ A.QPSK
+ B.QAM
+ C.Any of QPSK and QAM
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+267. 3G networks with TD-SCDMA technology are deployed mainly in ___ country.
+ A.Russia
+ B.China
+ C.Finland
+ D.USA
+ Answer:b
+ _____________________________________________ 
+ 
+268. Which is the 3G technology suitable for Macro Cells (Big cells
+ A.WCDMA
+ B.TD-CDMA
+ C.TD-SCDMA
+ D.None
+ Answer:a
+ _____________________________________________ 
+ 
+269. Which is the 3G technology suitable for densely populated city areas with Micro and Pico Cells?
+ A.WCDMA
+ B.TD-CDMA
+ C.TD-SCDMA
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+270. Which is the 3G technology suited for Macro and Micro Cell areas?
+ A.WCDMA
+ B.TD-CDMA
+ C.TD-SCDMA
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+271. What are the advantages of a TD-SCDMA enabled 3G network?
+ A.Variable number of downlink and uplink channels with flexibility for support uneven traffic
+ B.Any spectrum (Spread Spectrum) can be used.
+ C.Sudden traffics can be augmented easily.
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+272. Choose a frequency band to deploy a UMTS or 3G network.
+ A.2100 Mhz = 1920-1980, 2210-2170
+ B.1900 MHz = 1850-1910, 1930-1990
+ C.1800 MHz = 1710-1785, 1805-1880
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+273. Choose a frequency band to deploy a UMTS or 3G network.
+ A.1700 Mhz = 1710-1755, 2110-2155
+ B.850 Mhz = 824-845, 869-894
+ C.800 Mhz = 830-840, 875-885
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+274. CDMA is a ___ generation technology.
+ A.1st generation
+ B.2nd generation
+ C.3rd generation
+ D.4th generation
+ Answer:b
+ _____________________________________________ 
+ 
+275. What is the abbreviation of CDMA?
+ A.Code Digital Multiple Access
+ B.Code Duplex Multiple Access
+ C.Code Division Multiple Access
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+276. 2G CDMA is also called?
+ A.IS-95
+ B.CDMAOne
+ C.1st Generation CDMA
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+277. A CDMA2000 is a ____ generation network.
+ A.First Generation
+ B.Second Generation
+ C.Third Generation
+ D.Fourth Generation
+ Answer:c
+ _____________________________________________ 
+ 
+278. CDMA2000 uses ___ radio system.
+ A.Analog
+ B.Digital
+ C.Analog and Digital
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+279. What is another name for a CDMA2000 network?
+ A.IS-2000
+ B.C2K
+ C.IMT Multi-Carrier (IMT-MC)
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+280. Who developed standards for a CDMA2000 3G network system?
+ A.ANSI (Americal National Standards Institute)
+ B.3GPP (Third Generation Partnership Projects)
+ C.3GPP-2
+ D.GSM
+ Answer:c
+ _____________________________________________ 
+ 
+281. What are the Evolution stages or versions of a CDMA2000 3G network?
+ A.CDMA2000 1xRTT
+ B.CDMA2000 1x Advanced
+ C.CDMA2000 1xEV-DO
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+282. The voice capacity of a CDMA2000 1xRTT over CDMAOne is ____.
+ A.The same
+ B.2 times more
+ C.4 times more
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+283. What are the advancements in the CDMA2000 over CDMAOne technology?
+ A.More Battery Life
+ B.Frequency Band Flexibility
+ C.Higher Capacity for Voice and Data
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+284. State TRUE or FALSE. An IS-95 compatible Handset works in IS-2000(CDMA2000
+ A.False
+ B.True
+ C.-
+ D.-
+ Answer:b
+ _____________________________________________ 
+ 
+285. What are the new features of CDMA2000 3G network?
+ A.Fast power control (saves battery and reduces delay)
+ B.Support for Radio Configurations(RC) from RC1 to RC9 in forward link and RC1 to RC6 in Reverse Link for flexible Rate, Spreading Rate, Channel Coding and Diversity.
+ C.Support for R-UIM (Removable SIM)
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+286. In a CDMA2000 network, support for EVDO indicates support for ____.
+ A.Voice 
+ B.Data
+ C.A and B
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+287. CDMA2000 uses ___ Access technology.
+ A.Code Division
+ B.Time Division
+ C.Both Code Division and Time Division
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+288. Which is the 4G version of CDMA2000 technology?
+ A.LTE
+ B.UMB
+ C.EVDV
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+289. Which is the error correction code used in CDMA based networks?
+ A.Turbo Code
+ B.Convolution Code
+ C.Both Convolution Code and Turbo Code
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+290. Name the type of Spread Spectrum modulation technique?
+ A.Frequency Hopping SS
+ B.Direct Sequence SS
+ C.Time Hopping SS
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+291. What are the 4 parts of a CDMA architecture or structure?
+ A.Mobile Station (MS), Base Station Subsystem (BSS)
+ B.Mobile Switching Subsystem (MSS)
+ C.Operation and Maintenance Subsystem (OMM)
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+292. What are the systems present in a BSS?
+ A.One or more BTS (Base Transceiver Station)
+ B.One or More BSC (Base Station Controller)
+ C.A and B
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+293. What are the systems present in a MSS?
+ A.MSC (Mobile Switching Center)
+ B.VLR, HLR
+ C.EIR, AuC
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+294. What is the system present in an OMM (Operation Maintenance and Management Subsystem
+ A.OMC (Operation and Maintenance Center)
+ B.VLR (Visitor Location Register)
+ C.HLR (Home Location Register)
+ D.AuC (Authentication Center)
+ Answer:a
+ _____________________________________________ 
+ 
+295. The OMC-S system is used on _____ side.
+ A.BSC
+ B.MSC
+ C.MS
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+296. The OMC-R is used on _____ side?
+ A.BSC
+ B.MSC
+ C.MS
+ D.None
+ Answer:a
+ _____________________________________________ 
+ 
+297. What are the functions of a MS (Mobile Station
+ A.Making a call
+ B.Receiving a call
+ C.Send / Receive SMS
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+298. What are the functions of a BTS (Base Transceiver Station
+ A.Transmitting and Receiving signals and data
+ B.Listening to commands from BSC
+ C.Allow mobility from BTS to BTS during Handovers
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+299. What are the functions of a BSC in a CDMA architecture?
+ A.Radio resource management, Radio network management, BTS monitoring
+ B.Positioning, Handoff
+ C.Paging, Voice coding, Rate adjustment
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+300. What are the functions of MSC in a CDMA Architecture?
+ A.Call connection, VLR-HLR enquiry
+ B.Charging (billing), 
+ C.Mobility, Handoffs (BSC to BSC, MSC to BSC)
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+301. Which among the following is a Static Database?
+ A.VLR (Visitor Location Register)
+ B.HLR (Home Location Register)
+ C.AuC (Authentication Center)
+ D.All
+ Answer:b
+ _____________________________________________ 
+ 
+302. Which among the following is a Dynamic Database?
+ A.VLR
+ B.HLR
+ C.AuC
+ D.EIR
+ Answer:a
+ _____________________________________________ 
+ 
+303. What are the functions of a VLR (Visitor Location Register
+ A.Stores MS location information
+ B.Stores MS eligible service information
+ C.VLR copies all data from HLR database
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+304. What are the functions of an HLR (Home Location Register
+ A.HLR stores Subscriber ID, Services
+ B.HLR stores current location of subscriber even in a roaming situation
+ C.Stores current MSC/VLR information for a particular user
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+305. What are the functions of an Authentication Center (AuC
+ A.Generates, stores and sends Authentication parameters
+ B.Example authentication parameters are A-KEY, SSD, ESN, MIN and AAV.
+ C.AuC sends authentication parameters to the MSC/VLR upon request.
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+306. What are the functions of a Short Messaging Center (SC
+ A.SC sends two types of Messages namely Point to Point and Broadcasting messages.
+ B.Short Message Center (SC) works like a post office receiving messages, sorting and sending to the correct destination.
+ C.SC is also a database receiving, storing and sending messages.
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+307. An OSI (Open System Interconnection
+ A.Interfaces
+ B.Protocols
+ C.System functions
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+308. What is the Interface between a Mobile Station(MS
+ A.Uu
+ B.Um
+ C.Ui
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+309. In a CDMA architecture, what is the interface between a Base Transceiver Station (BTS
+ A.A
+ B.Abis
+ C.Um
+ D.B
+ Answer:b
+ _____________________________________________ 
+ 
+310. In a CDMA architecture, what is the interface between a Base Station Controller (BSC
+ A.P
+ B.H
+ C.Q
+ D.M
+ Answer:c
+ _____________________________________________ 
+ 
+311. In a CDMA architecture, what is the interface between an Operation and Maintenance Center (OMC
+ A.P
+ B.Q
+ C.M
+ D.H
+ Answer:b
+ _____________________________________________ 
+ 
+312. In a CDMA structure, what is the interface between a Base Station Controller (BSC
+ A.A
+ B.B
+ C.C
+ D.D
+ Answer:a
+ _____________________________________________ 
+ 
+313. In a CDMA network, what is the interface between two Mobile Switching Centers (Inter-MSC
+ A.C
+ B.D
+ C.E
+ D.F
+ Answer:c
+ _____________________________________________ 
+ 
+314. What is the interface between an MSC and an EIR (Equipment Identification Register
+ A.Q
+ B.M
+ C.N
+ D.F
+ Answer:d
+ _____________________________________________ 
+ 
+315. What is the interface between an MSC and an IWF (Interworking Function
+ A.P
+ B.Q
+ C.L
+ D.M
+ Answer:c
+ _____________________________________________ 
+ 
+316. What is the interface between an MSC and an HLR (Home Location Register
+ A.P
+ B.Q
+ C.M
+ D.C
+ Answer:d
+ _____________________________________________ 
+ 
+317. What is the interface between an MSC and a VLR (Visitor Location Register
+ A.P
+ B.Q
+ C.B
+ D.D
+ Answer:c
+ _____________________________________________ 
+ 
+318. What is the interface between a VLR and an HLR?
+ A.E
+ B.D
+ C.B
+ D.Q
+ Answer:b
+ _____________________________________________ 
+ 
+319. What is the interface between an HLR and an AuC (Authentication Center
+ A.P
+ B.H
+ C.Q
+ D.M
+ Answer:b
+ _____________________________________________ 
+ 
+320. What is the interface between an HLR and an SC (Short Message Center
+ A.P
+ B.Q
+ C.N
+ D.M
+ Answer:c
+ _____________________________________________ 
+ 
+321. What is the interface between two Short Message Centers (Inter Short Message Centers - SCs
+ A.M
+ B.N
+ C.P
+ D.Q
+ Answer:a
+ _____________________________________________ 
+ 
+322. What is the PCM link speed of Non-Air Interfaces of CDMA2000 ( 3G CDMA 
+ A.1024 kbps
+ B.512 kbps
+ C.2048 kbps
+ D.4096 kbps
+ Answer:c
+ _____________________________________________ 
+ 
+323. What is the easiest way to avoid congestion in the CDMA2000 (3G CDMA
+ A.Install new BTS in that area
+ B.Increase the number of PCM links ( 2 mbps links) between systems of CDMA architecture.
+ C.Add more links to Packet Data Networks (PDN) and Public Switched Telephone Networks (PSTN)
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+324. What is the interface between an MSC and a PSPDN (Public Switched Packet Data Network
+ A.Ai
+ B.Di
+ C.Pi
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+325. What is the interface between an MSC and a PSTN (Public Switched Telephone Network
+ A.Pi
+ B.Di
+ C.Ai
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+326. What is the interface between an MSC and an ISDN (Integrated Services Digital Network
+ A.Ai
+ B.Di
+ C.Pi
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+327. In a CDMA2000(3G CDMA or IS-2000
+ A.Mobile Station to the Base Station
+ B.Base Station to the Mobile Station
+ C.BTS to BSC
+ D.BSC to BTS
+ Answer:b
+ _____________________________________________ 
+ 
+328. In a CDMA2000(3G CDMA or IS-2000
+ A.Mobile Station to the Base Station
+ B.Base Station to the Mobile Station
+ C.BSC to BTS
+ D.BTS to BSC
+ Answer:a
+ _____________________________________________ 
+ 
+329. Most of the CDMA2000 (IS-2000
+ A.IS-95
+ B.EVDO-95
+ C.UMTS
+ D.WCDMA
+ Answer:a
+ _____________________________________________ 
+ 
+330. Identify CDMA Forward Channels below.
+ A.F-PICH (Forward Pilot Channel)
+ B.F-PCH (Forward Paging Channel)
+ C.F-SYNCH (Forward Sync Channel)
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+331. Identify CDMA forward channels below.
+ A.F-QPCH (Forward Quick Paging Channel)
+ B.F-BCCH (Forward Broadcast Control Channel)
+ C.F-CACH (Forward Common Assignment Channel)
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+332. Identify CDMA Forward Channels below.
+ A.F-CPCCH (Forward Common Power Control Channel)
+ B.F-CCCH (Forward Common Control Channel)
+ C.F-DCCH (Forward Dedicated Control Channel)
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+333. Identify CDMA Forward channels below.
+ A.F-FCH (Forward Fundamental Traffic Channel)
+ B.F-SCH (Forward Supplemental Channel), F-SCCH (Forward Supplemental Code Channel)
+ C.F-PCSCH (Forward Power Control Sub-Channel)
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+334. Identify CDMA Reverse Channels below. R is for Reverse.
+ A.R-PICH (Reverse Pilot Channel)
+ B.R-ACH (Reverse Access Channel)
+ C.R-CCCH (Reverse Common Control Channel)
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+335. Identify CDMA Reverse channels below.
+ A.R-EACH (Reverse Enhanced Access Channel)
+ B.R-DCCH (Reverse Dedicated Control Channel)
+ C.R-FCH (Reverse Fundamental Channel)
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+336. Identify CDMA Reverse Channels below.
+ A.R-SCH (Reverse Supplemental Channel)
+ B.R-SCCH (Reverse Supplemental Code Channel)
+ C.R-PCSCH (Reverse Power Control Sub-Channel)
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+337. What is the function of a Forward Pilot Channel (F-PICH
+ A.It assists the Mobile Station to access the network.
+ B.It assists the Base Station to access the data transmitted by Mobile Station.
+ C.It tells the Mobile Station about System Time and Synchronization frame information.
+ D.None
+ Answer:a
+ _____________________________________________ 
+ 
+338. What is the function of a Forward Broadcast Control Channel (F-BCCH
+ A.It assists the Mobile station to access the network.
+ B.It is used to send or deliver System Messages to Mobile stations. 
+ C.It tells the Mobile Station about System Time and Synchronization Frame information.
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+339. What is the function of Forward Sync Channel (F-SYNCH
+ A.It assists the Mobile station to access the network.
+ B.It tells the Mobile Station about System Time and Synchronization Frame information.
+ C.It is used to send or deliver System Messages to Mobile stations.
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+340. What is the function of a Forward Quick Paging Channel (F-QPCH
+ A.It informs the Mobile Station (MS) about the Timeslot.
+ B.It tells the MS about the Timeslot to receive the control messages on F-PCH and F-CCCH channels.
+ C.It saves mobile battery during idle times by not monitoring F-PCH and F-CCCH continuously unless informed with a timeslot.
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+341. What is the function of a Forward Paging Channel (F-PCH
+ A.Base Station tells the mobile station about paging information using this paging channel.
+ B.Base station tells the Mobile station about commands being used.
+ C.Base station tells the Mobile station about the Traffic channel allotted for communication using this PCH.
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+342. What is the function of a Forward Common Assignment Channel (F-CACH
+ A.It instructs the Mobile Station about which R-CCCH to use to send access messages.
+ B.It instructs the Mobile Station about which F-CPCH Sub-Channel to use to receive power control bits
+ C.F-CACH messages are in response to R-EACH to the base station. F-CACH is always used along with F-CPCCH, R-EACH and R-CCCH.
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+343. What is the function of Forward Common Power Control Channel (F-CPCCH
+ A.It is used to send the Power control bits to the mobile station.
+ B.F-CPCCH is in response to R-CCCH from the Mobile station to the Base station
+ C.F-CPCCH works from the Base station to the Mobile station.
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+344. What is the function of Forward Common Control Channel (F-CCCH
+ A.It is used only when there is no Traffic (Calls) on the Mobile phone.
+ B.It is used to exchange control messages with the Mobile station
+ C.It is used to exchange short impulsive data with the Mobile station.
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+345. What is the function of Forward Dedicated Control Channel (F-DCCH
+ A.It is used when the mobile is carrying traffic like voice or data.
+ B.It is used by the Base station to transmit low-rate data to the Mobile station
+ C.It is used by the Base station to transmit Circuit Switched Data or Messages to the Mobile station
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+346. What is the function of a Forward Fundamental Traffic Channel (F-FCH
+ A.FCH actually carries voice and signalling data to the Mobile station. So, it is used during the traffic state.
+ B.FCH carries low-rate data to the Mobile station
+ C.FCH carries Circuit Switched Data to the Mobile station
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+347. What is the function of a Forward Supplemental Channel (F-SCH
+ A.SCH is used when Mobile station is in the traffic state
+ B.SCH carries High-rate packet data to the mobile station
+ C.It is not used when the Mobile station is in the Idle state.
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+348. What is the function of Forward Supplemental Code Channel (F-SCCH
+ A.It is used for Data transfer.
+ B.It is used for signalling.
+ C.It is used for data transport.
+ D.None
+ Answer:a
+ _____________________________________________ 
+ 
+349. What is the function of Forward Power Control Sub-Channel (F-PCSCH
+ A.It is used for Reverse Power Control.
+ B.It is used for signalling.
+ C.It is used for data transfer.
+ D.None
+ Answer:a
+ _____________________________________________ 
+ 
+350. What is the function of Reverse Pilot Channel (R-PICH
+ A.It is used to assist the Base Station to detect the data transmitted by the Mobile Station.
+ B.It is used to transmit the packet data.
+ C.It is used to transmit voice traffic
+ D.None
+ Answer:a
+ _____________________________________________ 
+ 
+351. What is the function of Reverse Access Channel (R-ACH or RACH
+ A.It is used by the Mobile station to set up communication with the Base Station
+ B.It is used by the Mobile station to respond to paging channel messages.
+ C.Access channel messages may include Origination of call, data bursts, acknowledgements and registration.
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+352. What is the function of a Reverse Common Control Channel (R-CCCH
+ A.It is used by the Mobile Station to exchange Control messages and short impulsive data with the Base Station.
+ B.It is used by the Base Station to exchange Control messages and short impulsive data with the Mobile Station.
+ C.It is used only when the Mobile station has not set up any traffic.
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+353. What is the function of a Reverse Enhanced Access Channel (R-EACH
+ A.It is used when the mobile station has not set up any traffic.
+ B.It is used to improve Mobile Station accessibility.
+ C.It is used by the Mobile Station to send control messages to the base station.
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+354. What is the function of a Reverse Dedicated Control Channel (R-DCCH
+ A.It is used only when the Mobile station is in the traffic state.
+ B.It is used to transmit messages to the Base station.
+ C.It is used to transmit low-rate packet data and Circuit Switched data to the Base station.
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+355. What is the function of Reverse Fundamental Traffic Channel (R-FCH
+ A.It is used to carry voice data to the Mobile station.
+ B.It is used to carry signalling data to the Mobile station.
+ C.It is used to carry low-rate packet data and Circuit Switched data
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+356. What is the function of a Reverse Supplemental Channel (R-SCH
+ A.It is used to carry high-rate data to the Mobile Station (MS).
+ B.It is used only when the Mobile station enters the traffic state.
+ C.It carries Packet data.
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+357. What is the function of a Reverse Supplemental Code Channel (R-SCCH
+ A.It carries voice traffic.
+ B.It sends User information to the Base station during a call (Traffic state)
+ C.It sends Power control bits to the Mobile station.
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+358. What is the function of a Reverse Power Control Sub-Channel (R-PCSCH
+ A.It is the sub-channel of Reverse Pilot Channel (R-PICH).
+ B.It is used for Forward power control
+ C.It contains Reverse Main Power Control Sub-Channel and Reverse Auxiliary Power Control Sub-Channel.
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+359. What does EVDO stand for in a CDMA2000 1x network?
+ A.Evolved Variable Data Optimized
+ B.Evolution-Data Optimized
+ C.Enhanced Data Optimized
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+360. CDMA 1x Ev-DO is a successor to ____.
+ A.CDMAOne
+ B.CDMA2000 1x
+ C.CDMA IS-95
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+361. What is the Code name for CDMA2000 1xEV-DO?
+ A.IS-95
+ B.IS-2000
+ C.IS-856
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+362. What does EVDO traffic carry?
+ A.Voice
+ B.Data
+ C.Voice and Data
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+363. Who developed and improved the specifications for EVDO?
+ A.Qualcomm
+ B.Lucent
+ C.Qualcomm and Lucent
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+364. What does CDMA2000 1x provides?
+ A.Voice
+ B.Data
+ C.Voice and Data
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+365. What is the data-rate offered by plain CDMA2000 1x network?
+ A.High-speed data
+ B.Low-speed and Medium-speed data
+ C.No data support
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+366. Which technology among the following offers High-Speed Packet Data?
+ A.CDMAOne
+ B.CDMA2000 1x
+ C.CDMA 1xEV
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+367. What are the Multiplexing and Access techniques used by an EVDO network?
+ A.CDMA
+ B.TDM
+ C.CDMA and TDM
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+368. What is the Channel bandwidth of an EV-DO carrier?
+ A.1 MHz
+ B.1.25 MHz
+ C.5 MHz
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+369. An EV-DO carrier has the same bandwidth of ____.
+ A.IS-95A CDMA
+ B.IS-2000 1xRTT
+ C.IS-95A and IS-2000 1xRTT
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+370. A CDMA2000 1x network offers data services through ___ technology.
+ A.Circuit Switching
+ B.Packet Switching
+ C.Both Circuit Switching and Packet Switching
+ D.None
+ Answer:a
+ _____________________________________________ 
+ 
+371. A CDMA2000 1xEV-DO offers data services through ___ switching.
+ A.Circuit Switching
+ B.Packet Switching
+ C.Circuit and Packet Switching
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+372. What are the popular specifications or releases of CDMA 1xEV-DO?
+ A.Release 0
+ B.Revision A, Revision B
+ C.Revision C
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+373. What is the download speed of EV-DO Rev A - CDMA network?
+ A.1 Mbps
+ B.2.4 Mbps
+ C.3.1 Mbps
+ D.4 Mbps
+ Answer:c
+ _____________________________________________ 
+ 
+374. What is the upload speed of EV-DO Rev A - CDMA network?
+ A.0.5 Mbps
+ B.1.8 Mbps
+ C.2.4 Mbps
+ D.3.1 Mbps
+ Answer:b
+ _____________________________________________ 
+ 
+375. What is the download data rate of a CDMA 1XEV-DO Release 0 network?
+ A.1.2 Mbps
+ B.2.4 Mbps
+ C.3.1 Mbps
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+376. What is the upload data rate of a CDMA2000 1xEV-DO Release 0 network?
+ A.128 Kbps
+ B.153 Kbps
+ C.256 Kbps
+ D.512 Kbps
+ Answer:b
+ _____________________________________________ 
+ 
+377. What are the other names given to Downlink and Uplink in a CDMA 1xEV-DO network?
+ A.Forward Link, Reverse Link
+ B.Reverse Link, Forward Link
+ C.First Link, Second Link
+ D.Second Link, First Link
+ Answer:a
+ _____________________________________________ 
+ 
+378. What does EV-DO Revision C support?
+ A.Voice
+ B.Data
+ C.Voice and Data
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+379. What is the new name given to a EV-DO Revision C network?
+ A.EV-DO
+ B.EV-DV
+ C.DV-EV
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+380. EV-DV stands for ___.
+ A.Evolution-Data Variable
+ B.Evolution-Data Versatile
+ C.Evolution Data and Voice
+ D.Enhanced Data and Voice
+ Answer:c
+ _____________________________________________ 
+ 
+381. What is the other name given to EV-DV in the year 2006?
+ A.LTE (Long Term Evolution)
+ B.UMB (Ultra Mobile Broadband)
+ C.UMB Advanced
+ D.LTE Advanced
+ Answer:b
+ _____________________________________________ 
+ 
+382. The UMB (Ultra Mobile Broadband
+ A.Single Carrier
+ B.OFDMA
+ C.TDMA
+ D.Multiple Carrier
+ Answer:b
+ _____________________________________________ 
+ 
+383. High Rate Packet Data Access (HRPDA
+ A.Spread Carrier
+ B.Mobility Management
+ C.Both SC (Spread Carrier) and MM (Mobility Management)
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+384. What do AN and AT stand for?
+ A.AN = Access Network, AT = Access Terminal
+ B.AN = Asynchronous Node, AT = Asynchronous Terminal
+ C.AN = Access Node, AT = Access Terminal
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+385. A Forward Channel works from ___ to ___.
+ A.AT to AN
+ B.AN to AT
+ C.BTS to MSC
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+386. A Reverse Channel works from ___ to ___.
+ A.AN to AT
+ B.AT to AN
+ C.BTS to MSC
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+387. What is the basic data rate (Minimum data rate
+ A.32 Kbps
+ B.38.4 Kbps
+ C.56 Kbps
+ D.64 Kbps
+ Answer:b
+ _____________________________________________ 
+ 
+388. In a CDMA2000 1xEV-DO network, Forward channels always transmit at ____ power.
+ A.Half power
+ B.Variable Power
+ C.Full Power
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+389. Forward channels in a CDMA2000 1xEV-DO transmit data at ___ rate.
+ A.Half rate
+ B.Full rate
+ C.Variable-rate
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+390. In an EVDO network, which selects a possible highest data rate between AT and AN?
+ A.AT (Mobile)
+ B.AN (BTS)
+ C.BSC
+ D.MSC
+ Answer:a
+ _____________________________________________ 
+ 
+391. In an EVDO network, all users of the same Sector share ___ in a TDMA mode.
+ A.Channel
+ B.Frequency
+ C.Code
+ D.None
+ Answer:a
+ _____________________________________________ 
+ 
+392. Selecting a data rate for a Forward Channel or Reverse Channel is based on the ___ Ratio.
+ A.A/B
+ B.VSWR
+ C.C/I
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+393. What is the maximum data rate of a Forward Channel?
+ A.1.2 Mbps
+ B.2.4 Mbps
+ C.3.1 Mbps
+ D.3.6 Mbps
+ Answer:c
+ _____________________________________________ 
+ 
+394. State TRUE or FALSE. CDMA2000 1x and CDMA2000 1xEV-DO have different channel structure.
+ A.FALSE
+ B.TRUE
+ C.-
+ D.-
+ Answer:b
+ _____________________________________________ 
+ 
+395. What is the maximum data rate of an EV-DO Reverse Channel?
+ A.512 Kbps
+ B.1.2 Mbps
+ C.1.8 Mbps
+ D.2 Mbps
+ Answer:c
+ _____________________________________________ 
+ 
+396. CDMA2000 1xEV-DO follows ___ power control for Reverse channels.
+ A.Fixed
+ B.Dynamic
+ C.No power control
+ D.-
+ Answer:b
+ _____________________________________________ 
+ 
+397. What is the advantage of Reverse Link Power Control (Dynamic power control
+ A.It increases Signal to Noise Ration (SNR)
+ B.All Mobiles transmit controlled power towards the AN.
+ C.System capacity is increased
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+398. What are the techniques or mechanisms followed to avoid too many users transmitting at a high data rate towards the AN (Access Node or BTS
+ A.Unicast Reverse Rate Limit (URRL)
+ B.Broadcast Reverse Rate Limit (BRRL)
+ C.By Restricting the maximum rate of AT(Mobiles)s to a level below 307.2 Kbps.
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+399. How many different data rates which are multiples of 38.4 kbps are available in an EVDO network?
+ A.5
+ B.9
+ C.14
+ D.21
+ Answer:b
+ _____________________________________________ 
+ 
+400. What are the possible data rates available in a CDMA2000 1xEV-DO network?
+ A.38.4, 153.6 and 307.2 Kbps
+ B.76.8, 614.4 and 921.5 Kbps
+ C.1228.8, 1843.2 and 2457.6 Kbps
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+401. What is the Multiplexing technique followed by an 1xEV-DO network?
+ A.FDM (Frequency Division Multiplexing)
+ B.PDM (Phase Division Multiplexing)
+ C.TDM (Time Division Multiplexing)
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+402. EVDO implements Time Division Multiplexing for its ___ Links.
+ A.Forward Link
+ B.Reverse Link
+ C.Both Forward and Reverse Links
+ D.None
+ Answer:a
+ _____________________________________________ 
+ 
+403. In a 1xEV-DO network, Reverse Links are implemented with ___ multiplexing.
+ A.Time Division
+ B.Code Division
+ C.Time Division and Code Division
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+404. The process of Scheduling forward link data to all users aiming to achieve maximum throughput is called?
+ A.Equalisation
+ B.Forward Link Scheduling
+ C.Forward Pooling Strategy
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+405. After measuring C/I (Carrier to Interference Ratio
+ A.DCCH
+ B.PICH
+ C.DRC
+ D.BCCH
+ Answer:c
+ _____________________________________________ 
+ 
+406. What is the name of Soft Handoff in which the Mobile Station (AT - Access Terminal
+ A.Very Soft Handoff
+ B.Virtual Soft Handoff
+ C.Adaptive Soft Handoff
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+407. A Virtual Soft Handoff in a 1xEVDO system works in ___ way.
+ A.Forward
+ B.Reverse
+ C.Both Forward and Reverse
+ D.None
+ Answer:a
+ _____________________________________________ 
+ 
+408. The technology that allows an AT in a 1xEV-DO network to choose a data rate from 38.4 Kbps to 3.1 Mbps using a UATI request is called?
+ A.Dynamic Modulation Coding
+ B.Adaptive Modulation Coding
+ C.Bipolar Modulation Coding
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+409. What is the channel used to send UATI request by the AT to AN for rate adaption?
+ A.Access channel
+ B.Dedicated channel
+ C.Power control channel
+ D.None
+ Answer:a
+ _____________________________________________ 
+ 
+410. State TRUE or FALSE. A CDMA2000 1x network has no Rate control.
+ A.FALSE
+ B.TRUE
+ C.-
+ D.-
+ Answer:b
+ _____________________________________________ 
+ 
+411. State TRUE of FALSE. A CDMA2000 1x network follows Fast Power control in both Forward and Reverse links.
+ A.FALSE
+ B.TRUE
+ C.-
+ D.-
+ Answer:b
+ _____________________________________________ 
+ 
+412. State TRUE or FALSE. A CDMA2000 1x network follows the same CDM technique in both Forward and Reverse links.
+ A.FALSE
+ B.TRUE
+ C.-
+ D.-
+ Answer:b
+ _____________________________________________ 
+ 
+413. What are the channels used in a CDMA 1xEVDO network?
+ A.Access channels similar to CDMA2000 1x systems
+ B.Similar to Enhanced Access channels of CDMA2000 1x
+ C.DeAccess channels
+ D.None
+ Answer:a
+ _____________________________________________ 
+ 
+414. What are the handoffs implemented in a CDMA2000 1x network?
+ A.Soft Forward and Soft Reverse handoffs
+ B.Hard Forward and Hard Reverse Handoffs
+ C.Both A and B
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+415. Choose a correct statement about CDMA2000 1x network.
+ A.It uses Convolution Code
+ B.It uses Turbo Code
+ C.It uses 48 Order FIR filter.
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+416. Choose a correct statement about a 1xEV-DO network?
+ A.It uses 48 Order FIR Filter
+ B.It uses Turbo Code
+ C.Both A and B
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+417. What are the Handoffs implemented in a CDMA2000 1x-EV-DO network?
+ A.Forward Virtual Soft Handoff
+ B.Reverse Soft Handoff
+ C.A and B
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+418. Choose a correct statement about a 1xEVDO network.
+ A.Only Rate control is present in the forward link
+ B.Rate control is present in the Reverse link
+ C.Power control is present in the Reverse link
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+419. Who gave the TIA-856 name to the 1xEV-DO standard?
+ A.ANSI
+ B.ITU
+ C.3GPP
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+420. What is the length of each Time Slot or Channel in a CDMA2000 1xEV-DO network architecture?
+ A.1.667 ms
+ B.4.166 ms
+ C.8.235 ms
+ D.None
+ Answer:a
+ _____________________________________________ 
+ 
+421. Which channel tells the mobile (AT
+ A.Control channel
+ B.Media Access Channel (MAC)
+ C.PICH
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+422. What is the range of a DRC (Digital Rate Control
+ A.9-12
+ B.13-24
+ C.1-12
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+423. What does the number sent by a mobile device (AT
+ A.Error rate
+ B.Data Rate
+ C.Modulation rate
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+424. A DRC-0 or Null Rate indicates?
+ A.Mobile (AT) can not take any data.
+ B.AT is handing off to another sector
+ C.A and B
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+425. The Forward Link Scheduling algorithm is also called ___ as it guarantees minimum service to all users.
+ A.Hybrid Algorithm
+ B.Kries Algorithm
+ C.Proportional Fair algorithm
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+426. If a DRC number is more then the channel quality to receive high data rate is ___.
+ A.Less
+ B.More
+ C.-
+ D.-
+ Answer:b
+ _____________________________________________ 
+ 
+427. What is the type of ARQ (Automatic Repeat Request
+ A.Hybrid ARQ
+ B.Redundancy ARQ
+ C.Incremental Redundancy Hybrid ARQ
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+428. Choose a correct statement about Multi-packet transmissions using Hybrid ARQ technique in an EVDO network?
+ A.The data can be sent in any parts using multiple time slots at the same time or different time
+ B.Sending an early acknowledgement even before receiving all packets simply cancels sending the remaining packets by the AN (Access Node or BTS)
+ C.If there is no Acknowledgement about packets by the mobile (AT), all packets are sent and resent again and again withing permissible times.
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+429. What is the Closed Loop power control frequency to adjust power levels in the AT or AN in the Reverse Link of an EVDO network?
+ A.512 ms
+ B.1.25 ms
+ C.5 ms
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+430. What does LTE stands for?
+ A.Level Telecom Advanced
+ B.Long Terminal Advanced
+ C.Long Term Evolution
+ D.Long Time Evolution
+ Answer:c
+ _____________________________________________ 
+ 
+431. Though LTE is treated as a 4G (Fourth Generation
+ A.2.5G
+ B.3G
+ C.3.5G
+ D.3.9G
+ Answer:d
+ _____________________________________________ 
+ 
+432. What is the Access technique used by an LTE or LTE-A network?
+ A.WCDMA
+ B.FDMA
+ C.PDMA
+ D.OFDMA
+ Answer:d
+ _____________________________________________ 
+ 
+433. What does OFDMA stands for?
+ A.Original Frequency Division Multiple Access
+ B.Orthogonal Frequency Division Multiple Access
+ C.Omitted Frequency Division Multiple Access
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+434. What is the carrier Bandwidth in a typical 3G WCDMA based network?
+ A.1.4 Mhz
+ B.3MHz
+ C.5 MHz
+ D.10 MHz
+ Answer:c
+ _____________________________________________ 
+ 
+435. The Air interface or Radio interface of a 4G LTE network is ____ as a 3G network.
+ A.Same
+ B.Not same
+ C.-
+ D.-
+ Answer:b
+ _____________________________________________ 
+ 
+436. ITU stands for ___.
+ A.International Television Union
+ B.Internal Telecommunication Union
+ C.Inventions for Telecommunication Union
+ D.International Telecommunication Union
+ Answer:d
+ _____________________________________________ 
+ 
+437. IMT-A (International Mobile Telecommunications Advanced
+ A.LTE-A (LTE Advanced)
+ B.The system that implements specifications of ITU-R(ITU Radiocommunication)
+ C.Also known as 4.5G
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+438. What is the name of a Base Transceiver Station in 2G system equivalent in a 4G LTE system?
+ A.nodeB
+ B.eNodeB
+ C.aNodeB
+ D.nodeBPro
+ Answer:b
+ _____________________________________________ 
+ 
+439. The Evolution-Data Optimized Voice (EVDV
+ A.3GPP
+ B.3GPP2
+ C.-
+ D.-
+ Answer:d
+ _____________________________________________ 
+ 
+440. What is the other name for a 3GPP2 based 4G network?
+ A.Super Mobile Broadband (SMB)
+ B.Advanced Mobile Broadband (AMB)
+ C.Ultra Mobile Broadband (UMB)
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+441. UMB 4G networks are superseded by ___ networks.
+ A.EV-DV networks
+ B.LTE
+ C.WCDMA
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+442. What does WIMAX stands for?
+ A.Wireless Maximum
+ B.Wireless Intermediate Microwave Access
+ C.Wireless Interoperability for Microwave Access
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+443. What are the advantages of a 4G LTE network over 3G network?
+ A.More Spectral Efficiency
+ B.Low power consumption
+ C.Scalability and Flexibility with other networks
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+444. What does MIMO stand for?
+ A.Minimum Interference Maximum Output
+ B.Minimum Input Multiple Output
+ C.Multiple Input Multiple Output
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+445. What is the round trip latency between a Mobile phone and Base station in a 4G LTE network?
+ A.1ms
+ B.5ms
+ C.10ms
+ D.20ms
+ Answer:c
+ _____________________________________________ 
+ 
+446. What does AAS represent in a UMB (Ultra Mobile Broadband
+ A.Antenna Average System
+ B.Advanced Antenna System
+ C.Analog Amplitude System
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+447. What is the name given to a 4G LTE or UMB based Core Network Architecture?
+ A.SAE (System Architecture Evolution)
+ B.SAP (System Architecture Pro)
+ C.CAS (Core System Architecture)
+ D.None
+ Answer:a
+ _____________________________________________ 
+ 
+448. What are the differences between FDM and OFDM?
+ A.FDM uses Guard bands. OFDM does not need Guard bands.
+ B.FDM transmits data in a big channel. OFDM transmits chunks of data through a group of small channels.
+ C.FDM is sensitive to Multipath effects and Noise. In OFDM, only very few Sub-channels are affected by Noise and Multipath diversity.
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+449. Initial 4G LTE standard supported Carrier Aggregation. State TRUE or FALSE.
+ A.TRUE
+ B.FALSE
+ C.-
+ D.-
+ Answer:b
+ _____________________________________________ 
+ 
+450. Which organization provides standards for VoWi-Fi technology?
+ A.ANSI (American National Standards Institute)
+ B.3GPP (Third Generation Partnership Projects)
+ C.3GPP2 (Third Generation Partnership Projects 2)
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+451. Voice Over Wi-Fi uses ____ spectrum. (Unlicensed/Licensed
+ A.Unlicensed
+ B.Licensed
+ C.-
+ D.-
+ Answer:a
+ _____________________________________________ 
+ 
+452. What is the problem with Licensed spectrum for Mobile Network Operator (MNO
+ A.It is provided in limited quantity (Mhz or Ghz) to each network operator of the respective country.
+ B.It is provided after action from Regulatory authorities.
+ C.Spectrum fee is either one time or recurring.
+ D.All the above
+ Answer:d
+ _____________________________________________ 
+ 
+453. State TRUE or FALSE. To use the Unlicensed spectrum, either the Operator or the Customer has to apply for permission from the government.
+ A.FALSE
+ B.TRUE
+ C.-
+ D.-
+ Answer:a
+ _____________________________________________ 
+ 
+454. What does WiFi (Wi-Fi
+ A.Wireless Feature
+ B.Wide Area Network Feature
+ C.Wireless Fidelity
+ D.Wide Area Network Fidelity
+ Answer:c
+ _____________________________________________ 
+ 
+455. What is the IEEE standard for a Wi-Fi technology?
+ A.802.1
+ B.802.11
+ C.802.3
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+456. State TRUE or FALSE. All modern Wi-Fi modems or routers support VoWiFi feature?
+ A.FALSE
+ B.TRUE
+ C.-
+ D.-
+ Answer:a
+ _____________________________________________ 
+ 
+457. Voice over WiFi works on ____ network.
+ A.Same operator WiFi hotspot
+ B.Different operator WiFi hotspot
+ C.Any Operator Internet Service like Broadband with a WiFi router
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+458. Voice Over Wi-Fi or VoWi-FI is also called ___.
+ A.Wi-Fi Calling
+ B.Hotspot Calling
+ C.Home Free Calling
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+459. Which is a 3GPP based network below?
+ A.2G (GSM)
+ B.3G (UMTS)
+ C.4G LTE-A, 4G LTE-A Pro
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+460. Which is a Non-3GPP network below?
+ A.Wi-Fi
+ B.WiMax
+ C.4G LTE-A
+ D.3G UMTS
+ Answer:a
+ _____________________________________________ 
+ 
+461. VoWi-Fi calling usually allows seamless handover of calls from and to the Cellular network. State TRUE or FALSE.
+ A.FALSE
+ B.TRUE
+ C.-
+ D.-
+ Answer:b
+ _____________________________________________ 
+ 
+462. A Generic Access Network (GAN
+ A.FALSE
+ B.TRUE
+ C.-
+ D.-
+ Answer:a
+ _____________________________________________ 
+ 
+463. What does VoLTE stand for?
+ A.Voice over LTE
+ B.Voice Offload LTE
+ C.Voice Outgoing LTE
+ D.None
+ Answer:a
+ _____________________________________________ 
+ 
+464. Over VoLTE or VoWi-Fi, a customer is authenticated through ____.
+ A.Username, Password
+ B.SIM
+ C.Fingerprint
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+465. What is the other name for GAN network?
+ A.Virtual Network Access (VMA)
+ B.Licensed Mobile Access (LMA)
+ C.Unlicensed Mobile Access (UMA)
+ D.All
+ Answer:c
+ _____________________________________________ 
+ 
+466. What is the operating frequency of a Wi-Fi access point?
+ A.2.4 GHz
+ B.5 GHz
+ C.Both 2.4 GHz and 5 GHz
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+467. What is the advantage for a Mobile Network Operator of implementing VoWi-Fi on its network?
+ A.Good call quality as Home Wi-Fi offers superior data speed.
+ B.Network operator saves its precious spectrum or radio resources as calls are routed through an External-IP or Public IP network.
+ C.Network operator need not upgrade its Tower or Base Station hardware to support too many users. Coverage issues are solved by customers themselves by using WiFi.
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+468. How many UMA or GAN based handset modes are available?
+ A.2
+ B.4
+ C.8
+ D.16
+ Answer:b
+ _____________________________________________ 
+ 
+469. What does GERAN stand for?
+ A.General Radio Access Network
+ B.Generic Edge Radio Access Network
+ C.GSM EDGE Radio Access Network
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+470. A GERAN-Only network mode supports ___ network.
+ A.Cellular Only
+ B.Wi-Fi only
+ C.Both Cellular and WiFi
+ D.None
+ Answer:a
+ _____________________________________________ 
+ 
+471. A GERAN-Preferred network mode supports ___ network.
+ A.Cellular only
+ B.WiFi only
+ C.Cellular if available, otherwise WiFi or 802.11 network
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+472. A GAN-Preferred network mode supports ___ network.
+ A.Cellular only
+ B.WiFi only
+ C.Cellular only if available, otherwise 802.11 network
+ D.WiFi or 802.11 network if available, otherwise a cellular network
+ Answer:d
+ _____________________________________________ 
+ 
+473. A GAN-Only network mode supports ___ network.
+ A.Cellular only
+ B.WiFi or 802.11 only
+ C.Cellular and WiFi
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+474. What is the problem of using VoWi-Fi network for a customer?
+ A.Switching ON Wi-Fi and Mobile Data at the same time drains more battery
+ B.The customer has to waste his Home Wifi or Broadband data for calls
+ C.The customer has to purchase a Compatible Phone and Wi-Fi Router and spend extra money
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+475. Which 3GPP standard defined accessing Mobile Core IP network from the WLAN network?
+ A.3GPP R4
+ B.3GPP R5
+ C.3GPP R6
+ D.3GPP R7
+ Answer:c
+ _____________________________________________ 
+ 
+476. A GAN (Generic Access Network
+ A.IP Multimedia Subsystem (IMS)
+ B.Session Initiation Protocol (SIP)
+ C.Both IMS and SIP
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+477. To support VoWi-Fi, mobile phones have to confirm to which 3GPP standards?
+ A.3GPP R8
+ B.3GPP R9
+ C.3GPP R10
+ D.All
+ Answer:c
+ _____________________________________________ 
+ 
+478. Voice quality of VoWi-Fi compared to VoLTE network?
+ A.More
+ B.Less
+ C.Same
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+479. What is the difference between VoWiFi and VoLTE?
+ A.VoLTE calls work on the same core network as the data is served from the core network itself.
+ B.VoWiFi calls may be originated from either the Same network data or Different network data
+ C.VoLTE calls require good network coverage whereas VoWiFi calls require any WiFi internet signal.
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+480. What is the core cellular technology generation supporting VoWiFi technology?
+ A.2G
+ B.3G
+ C.4G and above
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+481. For untrusted VoWiFi (calling from any network wifi
+ A.IMS (IP Multimedia Subsystem)
+ B.IPsec (IP Security)
+ C.ePDG
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+482. VoWiFi allows calling from a Mobile even without a mobile signal. State TRUE or FALSE.
+ A.FALSE
+ B.TRUE
+ C.-
+ D.-
+ Answer:b
+ _____________________________________________ 
+ 
+483. What is the main element of VoWiFi architecture?
+ A.PDG (Packet Data Gateway)
+ B.ePDG (Evolved PDG)
+ C.PDG or ePDG
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+484. What is the interface between a UE (User Equipment
+ A.SWm
+ B.SWn
+ C.SWu
+ D.SWa
+ Answer:c
+ _____________________________________________ 
+ 
+485. What is the interface between ePDG (Evolved Packet Data Gateway
+ A.S2a
+ B.S2b
+ C.SWu
+ D.SWm
+ Answer:b
+ _____________________________________________ 
+ 
+486. A Trusted Non-3GPP network element can directly communicate with PDN Gateway using ___ interface.
+ A.S2a
+ B.S2b
+ C.S2c
+ D.SWu
+ Answer:a
+ _____________________________________________ 
+ 
+487. A Trusted Non-3GPP network element can directly communicate with a PCRF (Policy and Charging Rules Function
+ A.Gxa
+ B.Gxb
+ C.Gxc
+ D.None
+ Answer:a
+ _____________________________________________ 
+ 
+488. A Trusted Non-3GPP network element can directly communicate with AAA authentication server using ___ interface.
+ A.STa
+ B.STb
+ C.STc
+ D.None
+ Answer:a
+ _____________________________________________ 
+ 
+489. An Untrusted Non-3GPP network element can communicate with ePDG (Evolved Packet Data Gateway
+ A.SWm
+ B.SWn
+ C.SWa
+ D.SWb
+ Answer:b
+ _____________________________________________ 
+ 
+490. An Untrusted Non-3GPP network element can communicate with the 3GPP AAA authentication server using ___ interface.
+ A.SWa
+ B.SWb
+ C.SWc
+ D.STa
+ Answer:a
+ _____________________________________________ 
+ 
+491. What is the interface between an ePDG and 3GPP AAA server in a GAN or VoWiFi architecture?
+ A.SWa
+ B.SWb
+ C.SWm
+ D.SWn
+ Answer:c
+ _____________________________________________ 
+ 
+492. What is the interface between a 3GPP AAA server and a PDN Gateway element in a VoWi-Fi network architecture?
+ A.S2a
+ B.S2b
+ C.S6a
+ D.S6b
+ Answer:d
+ _____________________________________________ 
+ 
+493. What is the interface between ePDG and PCRF elements in a VoWiFi architecture?
+ A.Gxa
+ B.Gxb
+ C.S6a
+ D.S6b
+ Answer:b
+ _____________________________________________ 
+ 
+494. What is the interface between a PDN Gateway and PCRF element in GAN (Generic Access Network
+ A.Gxa
+ B.Gxb
+ C.Gxc
+ D.Gx
+ Answer:d
+ _____________________________________________ 
+ 
+495. What is the interface between a PCRF and IP Services (IMS, PSS etc
+ A.Gx
+ B.Gxc
+ C.Rx
+ D.SGi
+ Answer:d
+ _____________________________________________ 
+ 
+496. What is the interface between PCRF and Operator's IP Services element in a Non-Roaming GAN architecture?
+ A.S2a
+ B.S2b
+ C.Rx
+ D.SGi
+ Answer:c
+ _____________________________________________ 
+ 
+497. What is the interface between PCRF and Serving-Gateway in a Non-Roaming VoWi-Fi architecture?
+ A.Gx
+ B.Gxa
+ C.Gxb
+ D.Gxc
+ Answer:d
+ _____________________________________________ 
+ 
+498. What is the interface between a HSS (Home Suscriber Server
+ A.S2a
+ B.S2b
+ C.S6a
+ D.S6
+ Answer:c
+ _____________________________________________ 
+ 
+499. What is the interface between HSS (Home Subscriber Server
+ A.SWu
+ B.SWx
+ C.SWm
+ D.SWn
+ Answer:b
+ _____________________________________________ 
+ 
+500. State TRUE or FALSE. In a Roaming GAN architecture, PCRF element is divided as vPCRF (Visitor PCRF
+ A.FALSE
+ B.TRUE
+ C.-
+ D.-
+ Answer:b
+ _____________________________________________ 
+ 
+501. In an Evolved Packet System (EPS
+ A.S6
+ B.S9
+ C.S8
+ D.S6a
+ Answer:b
+ _____________________________________________ 
+ 
+502. In a Roaming GAN architecture, ePDG uses vPCRF and PDN-Gateway uses hPCRF. State TRUE or FALSE.
+ A.FALSE
+ B.TRUE
+ C.-
+ D.-
+ Answer:b
+ _____________________________________________ 
+ 
+503. Choose the correct statement about Roaming GAN architecture elements below.
+ A.vPCRF interfaces with Serving Gateway and ePDG through Gxc and Gxb interfaces respectively.
+ B.hPCRF communicates with PDN Gateway and IP-Services-Element through Gx and Rx interfaces respectively.
+ C.A Trusted Non-3GPP access element communicates directly with vPCRF using Gxa interface.
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+504. Choose the correct abbreviations below.
+ A.EPS = Evolved Packet System
+ B.PMIP = Proxy Mobile IP
+ C.GANC = Generic Access Network Controller
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+505. Choose the correct abbreviations below.
+ A.SON = Self Configuring and Self-Optimizing Network
+ B.WMM = WiFi Multimedia
+ C.NSWO = Non-Seamless WLAN Offload
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+506. Rove-In refers to hand-over of call to ___ network.
+ A.3GPP network
+ B.802.11 or Wi-Fi network or GAN network
+ C.Any to any network
+ D.None
+ Answer:b
+ _____________________________________________ 
+ 
+507. Rove-out refers to handing of Call to ___ network.
+ A.3GPP network
+ B.802.11 or Wi-Fi or GAN network
+ C.Any to Any network
+ D.None
+ Answer:a
+ _____________________________________________ 
+ 
+508. To provide roaming of calls between Wi-Fi and 3GPP networks, the user SIM contains ____.
+ A.FQDN (Fully Qualified Domain Name) or IP address of GANC (GAN Controller)
+ B.SEGW (Security Gateway) IP address
+ C.GANC information associated with Cell Index of 2G, 3G or 4G Base Station.
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
+509. State TRUE or FALSE. In Non-Roaming scenario, the mobile can use any local IP of the WiFi network to make and receive calls. In a Roaming scenario, unique global IP is mandatory.
+ A.FALSE
+ B.TRUE
+ C.-
+ D.-
+ Answer:b
+ _____________________________________________ 
+ 
+510. State TRUE or FALSE. The mobile periodically informs to GANC (Generic Access Network Controller
+ A.FALSE
+ B.TRUE
+ C.-
+ D.-
+ Answer:b
+ _____________________________________________ 
+ 
+511. The authentication of user SIM to the GANC is done using ___.
+ A.EAP-SIM
+ B.EAP-AKA
+ C.Both EAP-SIM and EAP-AKA
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+512. A GAN network supports __ type of SMS services.
+ A.GSM Circuit Switched
+ B.GPRS Packet-Switched
+ C.Both GSM-Circuit-Switched and GPRS-Packet-Switched
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+513. GAN network uses __ to deliver SMS securely.
+ A.IPsec Tunneling
+ B.TCP Sessions
+ C.Both IPsec Tunneling and TCP Sessions.
+ D.None
+ Answer:c
+ _____________________________________________ 
+ 
+514. Choose the correct statement about GANC call setup.
+ A.GANC sends Channel Mode to the MS
+ B.GANC sends Multi-rate Codec Configuration to the MS
+ C.GAC sends information bout UDP port, IP address for Uplink RTP stream and Voice Sample size.
+ D.All
+ Answer:d
+ _____________________________________________ 
+ 
